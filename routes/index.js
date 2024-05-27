@@ -1,7 +1,6 @@
 const express = require("express");
 const EjaanController = require("../controllers/EjaanController");
 const AuthController = require("../controllers/AuthController");
-const query = require("../database/conn");
 
 const router = express.Router();
 

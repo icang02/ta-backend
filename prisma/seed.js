@@ -28,7 +28,7 @@ async function main() {
       await prisma.kamus.create({
         data: {
           kata: item,
-          huruf: item[0].toLowerCase(),
+          // huruf: item[0].toLowerCase(),
         },
       });
     } catch (error) {

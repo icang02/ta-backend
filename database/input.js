@@ -4,7 +4,17 @@ const fs = require("fs");
 const kamus = require("../data/kamus");
 const path = require("path");
 
-const input = [];
+const input = [
+  "ChatGPT",
+  "microcontroller",
+  "di kantor",
+  "Bengkayang",
+  "Tegal",
+  "FIFO",
+  "first",
+  "in",
+  "out",
+];
 
 const result = [...new Set(input.concat(kamus))]
   .sort((a, b) => a.localeCompare(b))

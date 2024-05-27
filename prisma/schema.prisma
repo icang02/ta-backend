@@ -14,15 +14,14 @@ datasource db {
 }
 
 model User {
-  id            Int     @id @default(autoincrement())
-  name          String
-  username      String  @unique
-  password      String
-  refresh_token String? @db.Text
+  id       Int    @id @default(autoincrement())
+  name     String
+  username String @unique
+  password String
 }
 
 model Kamus {
   id    Int    @id @default(autoincrement())
   kata  String @unique
-  huruf String
+  count Int    @default(0)
 }
