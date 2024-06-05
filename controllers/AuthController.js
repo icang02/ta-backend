@@ -8,7 +8,6 @@ const Login = async (req, res) => {
   const { username, password } = req.body;
 
   const user = await prisma.user.findFirst({ where: { username: username } });
-  console.log(user);
 
   if (!user) {
     return res.status(404).json({ message: "Username tidak ditemukan." });

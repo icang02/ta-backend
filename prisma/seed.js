@@ -22,13 +22,12 @@ async function main() {
   });
 
   // kamus seed
-  const sortKamusData = kamusData.sort((a, b) => a.localeCompare(b));
-  for (const item of sortKamusData) {
+  for (const item of kamusData) {
     try {
       await prisma.kamus.create({
         data: {
-          kata: item,
-          // huruf: item[0].toLowerCase(),
+          kata: item.kata,
+          count: item.count,
         },
       });
     } catch (error) {
