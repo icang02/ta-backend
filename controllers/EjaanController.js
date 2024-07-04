@@ -121,7 +121,7 @@ const uploadFile = async (req, res) => {
     if (err) {
       if (err.code === "LIMIT_FILE_SIZE") {
         return res.status(400).send({
-          message: "Ukuran file maksimal 1MB.",
+          message: "Ukuran file maksimal 15MB.",
         });
       } else {
         return res.status(400).json({ message: err });
@@ -131,7 +131,7 @@ const uploadFile = async (req, res) => {
         return res.status(400).json({ message: "No file uploaded." });
       }
 
-      const timeDeleteFile = 60 * 60 * 1000;
+      const timeDeleteFile = 60 * 60 * 1000; // 1 jam
       // Hapus file setelah diupload
       setTimeout(() => {
         const outputPath = "./outputs/" + fileName;
@@ -208,14 +208,13 @@ const uploadFile = async (req, res) => {
               .extractRawText({ buffer: outputBuf })
               .then(async (result2) => {
                 const preProInput = preprocessing3(result2.value, 1, text); // Gunakan text dari mammoth pertama
-                const { suggestWord, dictionaryLookup } = await prosesDeteksi(
-                  preProInput,
-                  1
-                );
+                const { suggestWord, dictionaryLookup, jumlahKataValid } =
+                  await prosesDeteksi(preProInput, 1);
 
                 return res.json({
                   suggestWord,
                   dictionaryLookup,
+                  jumlahKataValid,
                   fileName,
                 });
               })
@@ -253,24 +252,40 @@ function kataDitemukan(teks, kata) {
   return new RegExp(`\\b${kata}\\b`, "g").test(teks);
 }
 
-// Fungsi untuk melakukan pencarian dan penggantian kata
 function cariDanGanti($, data) {
-  // Melakukan pencarian dan penggantian kata dalam konten XML
   $("w\\:t").each(function () {
     const textContent = $(this).text();
 
-    const newTextContent = textContent.replace(
-      new RegExp(`\\b${data.str}\\b`, "g"),
-      data.target
-    );
+    if (textContent.includes(data.str)) {
+      const words = textContent.split(/(\s+)/); // Memecah teks berdasarkan spasi, tetap mempertahankan spasi sebagai elemen array
+      const newElements = [];
 
-    $(this).text(newTextContent);
+      words.forEach((word) => {
+        const runProperties = $(this).closest("w\\:r").find("w\\:rPr").clone(); // Clone the original run properties
+
+        if (new RegExp(`\\b${data.str}\\b`).test(word)) {
+          const highlightedElement = $("<w:r></w:r>")
+            .append(runProperties) // Append the cloned run properties
+            .append($("<w:rPr></w:rPr>").append('<w:highlight w:val="cyan"/>')) // Add highlight to the new run properties
+            .append($('<w:t xml:space="preserve"></w:t>').text(data.target)); // Replace word and add highlight
+          newElements.push(highlightedElement);
+        } else {
+          const wordElement = $('<w:t xml:space="preserve"></w:t>').text(word);
+          const originalElement = $("<w:r></w:r>")
+            .append(runProperties) // Append the cloned run properties
+            .append(wordElement); // Retain the original word
+          newElements.push(originalElement);
+        }
+      });
+
+      // Ganti elemen lama dengan elemen baru
+      $(this).closest("w\\:r").replaceWith(newElements);
+    }
   });
 }
 
 const downloadFile = async (req, res) => {
   const { fileName, saranKata } = req.body;
-  console.log(fileName);
 
   const outputPath = path.join(__dirname, "../outputs");
   if (!fs.existsSync(outputPath)) {
@@ -279,8 +294,11 @@ const downloadFile = async (req, res) => {
 
   const filePath = path.join(__dirname, "../uploads", fileName);
   const fileType = path.extname(filePath).toLowerCase();
-  const data = saranKata.filter((item) => item.target != "-");
+  const data = saranKata.filter(
+    (item) => item.target !== "-" && item.hasOwnProperty("target")
+  );
 
+  console.log(fileType);
   if (fileType == ".docx") {
     const content = fs.readFileSync(filePath, "binary");
 
@@ -334,7 +352,6 @@ const downloadFile = async (req, res) => {
           // console.log(`'${item.str}' tidak ditemukan dalam dokumen.`);
         }
       });
-      // console.log(dataText);
 
       const updatedFilePath = path.join(__dirname, "../outputs/", fileName);
       fs.writeFile(updatedFilePath, dataText, "utf8", (err) => {
@@ -350,6 +367,70 @@ const downloadFile = async (req, res) => {
         });
       });
     });
+  }
+};
+
+const findContext = (htmlContent, term) => {
+  const bef = 18;
+  const aft = 30;
+
+  const regex = new RegExp(`(.{0,${bef}})(\\b${term}\\b)(.{0,${aft}})`, "g");
+
+  const matches = [];
+  let match;
+
+  while ((match = regex.exec(htmlContent)) !== null) {
+    let beforeText = match[1];
+    let afterText = match[3];
+
+    if (beforeText.length > 10) {
+      beforeText = `...${beforeText.slice(-bef)}`;
+    }
+    if (afterText.length > 20) {
+      afterText = `${afterText.slice(0, aft)}...`;
+    }
+
+    matches.push(
+      `${beforeText}<b style="color: red;">${match[2]}</b>${afterText}`
+    );
+    break; // Menambahkan pernyataan break untuk hanya mengambil hasil pertama
+  }
+  return matches;
+};
+
+const checkWord = async (req, res) => {
+  const { fileName, word } = req.body;
+  const filePath = path.join(__dirname, "../uploads", fileName);
+
+  const arr = fileName.split(".");
+  const ext = arr[arr.length - 1].toLowerCase();
+
+  if (ext === "txt") {
+    fs.readFile(filePath, "utf8", (err, data) => {
+      if (err) {
+        console.error(err);
+        return res.status(500).json({ error: "Error reading the file" });
+      }
+      const contextResults = findContext(data, word);
+      console.log(contextResults);
+      return res.json({ html: contextResults });
+    });
+  } else if (ext === "docx") {
+    mammoth
+      .convertToHtml({ path: filePath })
+      .then(function (result) {
+        var html = result.value;
+        const contextResults = findContext(html, word);
+        return res.json({ html: contextResults });
+      })
+      .catch(function (error) {
+        console.error(error);
+        return res
+          .status(500)
+          .json({ error: "Error processing the .docx file" });
+      });
+  } else {
+    return res.status(400).json({ error: "Unsupported file type" });
   }
 };
 
@@ -426,4 +507,5 @@ module.exports = {
   HapusKata,
   totalKamus,
   downloadFile,
+  checkWord,
 };

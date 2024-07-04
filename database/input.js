@@ -14,17 +14,7 @@ async function main() {
 
   let kamus = kamusNotId;
   const input = [
-    "Mekatronika",
-    "disengaja",
-    "dipecah",
-    "digeser",
-    "dicacah",
-    "diasumsikan",
-    "ditambah",
-    "dilampirkan",
-    "difokuskan",
-    "dipastikan",
-    "serangkaian",
+    'kapasitansi'
   ];
 
   input.forEach((item) => {

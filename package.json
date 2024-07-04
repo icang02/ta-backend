@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx nodemon index",
     "input": "node database/input",
-    "seed": "node prisma/seed"
+    "seed": "node prisma/seed",
+    "ngrok": "ngrok http --domain=drum-legal-tuna.ngrok-free.app 3000"
   },
   "keywords": [],
   "author": "",

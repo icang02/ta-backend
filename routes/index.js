@@ -16,6 +16,7 @@ router.post("/upload-file", EjaanController.uploadFile);
 router.post("/total-kamus", EjaanController.totalKamus);
 
 router.post("/download-file", EjaanController.downloadFile);
+router.post("/check-word", EjaanController.checkWord);
 
 // dashboard
 router.post("/tambah-kata", EjaanController.TambahKata);
