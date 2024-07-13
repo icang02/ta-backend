@@ -6,10 +6,31 @@ const router = require("./routes");
 
 const app = express();
 
+// app.use(cors({ origin: true, credentials: true }));
+const allowedOrigins = [
+  "https://spelcek.praktekoding.com",
+  "https://drum-legal-tuna.ngrok-free.app",
+  "http://localhost:5173",
+];
+
+// Konfigurasi CORS
+const corsOptions = {
+  origin: (origin, callback) => {
+    // Cek apakah asal ada dalam daftar yang diizinkan
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+};
+
+// Menggunakan middleware cors dengan opsi yang ditentukan
+app.use(cors(corsOptions));
+
 app.use(express.static("public"));
-app.use(cors({ origin: true, credentials: true, origin: true }));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.json());
+// app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(router);
 

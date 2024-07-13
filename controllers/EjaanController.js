@@ -19,14 +19,15 @@ const totalKamus = async (req, res) => {
 };
 
 const getKamus = async (req, res) => {
-  const { take = 50, skip = 0, abjad = "a", search } = req.query;
+  // const { take, skip = 0, abjad, search } = req.query;
+  const { take, skip = 0, abjad, search } = req.body;
 
   let kamus;
   let totalKamusAbjad;
   let totalKamus;
 
   try {
-    if (search) {
+    if (search != "") {
       kamus = await prisma.kamus.findMany({
         where: {
           kata: {
@@ -253,10 +254,12 @@ function kataDitemukan(teks, kata) {
 }
 
 function cariDanGanti($, data) {
-  $("w\\:t").each(function () {
+  $("w\\:r").each(function () {
     const textContent = $(this).text();
+    // const textXML = $.xml($(this));
 
     if (textContent.includes(data.str)) {
+      // console.log(textContent + '\n');
       const words = textContent.split(/(\s+)/); // Memecah teks berdasarkan spasi, tetap mempertahankan spasi sebagai elemen array
       const newElements = [];
 
@@ -298,7 +301,6 @@ const downloadFile = async (req, res) => {
     (item) => item.target !== "-" && item.hasOwnProperty("target")
   );
 
-  console.log(fileType);
   if (fileType == ".docx") {
     const content = fs.readFileSync(filePath, "binary");
 
@@ -313,7 +315,6 @@ const downloadFile = async (req, res) => {
 
     // Panggil fungsi pencarian dan penggantian kata
     data.forEach((item) => {
-      // console.log(item);
       cariDanGanti($, item);
     });
 
@@ -342,7 +343,7 @@ const downloadFile = async (req, res) => {
 
       data.forEach((item) => {
         if (kataDitemukan(dataText, item.str)) {
-          // console.log(item.str);
+          console.log(item.str);
 
           dataText = dataText.replace(
             new RegExp(`\\b${item.str}\\b`, "g"),

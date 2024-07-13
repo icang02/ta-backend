@@ -13,9 +13,7 @@ async function main() {
   }));
 
   let kamus = kamusNotId;
-  const input = [
-    'kapasitansi'
-  ];
+  const input = [];
 
   input.forEach((item) => {
     kamus.push({ kata: item, count: 0 });

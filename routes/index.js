@@ -8,7 +8,8 @@ router.get("/", async (req, res) => res.json({ message: "Hello World" }));
 
 router.post("/login", AuthController.Login);
 
-router.get("/kamus", EjaanController.getKamus);
+// router.get("/kamus", EjaanController.getKamus);
+router.post("/kamus", EjaanController.getKamus);
 router.post("/deteksi-ejaan", EjaanController.deteksiEjaan);
 router.post("/get-all-kamus", EjaanController.getAllKamus);
 router.post("/upload-file", EjaanController.uploadFile);

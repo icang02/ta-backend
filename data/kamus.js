@@ -61,11 +61,11 @@ const kamus = [
   },
   {
     "kata": "absen",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "absensi",
-    "count": 146
+    "count": 158
   },
   {
     "kata": "abses",
@@ -105,11 +105,11 @@ const kamus = [
   },
   {
     "kata": "abstract",
-    "count": 204
+    "count": 280
   },
   {
     "kata": "abstrak",
-    "count": 207
+    "count": 283
   },
   {
     "kata": "abstraksi",
@@ -165,7 +165,7 @@ const kamus = [
   },
   {
     "kata": "accessibility",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "accessibillity",
@@ -205,7 +205,7 @@ const kamus = [
   },
   {
     "kata": "activity",
-    "count": 188
+    "count": 210
   },
   {
     "kata": "acu",
@@ -213,7 +213,7 @@ const kamus = [
   },
   {
     "kata": "acuan",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "acuh",
@@ -221,7 +221,7 @@ const kamus = [
   },
   {
     "kata": "ada",
-    "count": 240
+    "count": 321
   },
   {
     "kata": "adab",
@@ -245,11 +245,11 @@ const kamus = [
   },
   {
     "kata": "adalah",
-    "count": 235
+    "count": 321
   },
   {
     "kata": "adanya",
-    "count": 254
+    "count": 289
   },
   {
     "kata": "adaptabel",
@@ -277,7 +277,7 @@ const kamus = [
   },
   {
     "kata": "adapun",
-    "count": 218
+    "count": 299
   },
   {
     "kata": "adat",
@@ -333,7 +333,7 @@ const kamus = [
   },
   {
     "kata": "admin",
-    "count": 190
+    "count": 212
   },
   {
     "kata": "administrasi",
@@ -441,7 +441,7 @@ const kamus = [
   },
   {
     "kata": "advokasi",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "advokat",
@@ -561,7 +561,7 @@ const kamus = [
   },
   {
     "kata": "agar",
-    "count": 216
+    "count": 297
   },
   {
     "kata": "agen",
@@ -653,7 +653,7 @@ const kamus = [
   },
   {
     "kata": "ahli",
-    "count": 84
+    "count": 102
   },
   {
     "kata": "ahlulkitab",
@@ -745,7 +745,7 @@ const kamus = [
   },
   {
     "kata": "akademik",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "akademikus",
@@ -769,7 +769,7 @@ const kamus = [
   },
   {
     "kata": "akan",
-    "count": 220
+    "count": 301
   },
   {
     "kata": "akar",
@@ -785,11 +785,11 @@ const kamus = [
   },
   {
     "kata": "akhir",
-    "count": 178
+    "count": 207
   },
   {
     "kata": "akhiran",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "akhirat",
@@ -797,7 +797,7 @@ const kamus = [
   },
   {
     "kata": "akhirnya",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "akhlak",
@@ -813,11 +813,11 @@ const kamus = [
   },
   {
     "kata": "akibat",
-    "count": 71
+    "count": 128
   },
   {
     "kata": "akibatnya",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "akidah",
@@ -829,7 +829,7 @@ const kamus = [
   },
   {
     "kata": "akil",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "aking",
@@ -925,11 +925,11 @@ const kamus = [
   },
   {
     "kata": "akses",
-    "count": 97
+    "count": 103
   },
   {
     "kata": "aksesibilitas",
-    "count": 86
+    "count": 97
   },
   {
     "kata": "aksesori",
@@ -953,7 +953,7 @@ const kamus = [
   },
   {
     "kata": "aktif",
-    "count": 133
+    "count": 196
   },
   {
     "kata": "aktifitas",
@@ -973,7 +973,7 @@ const kamus = [
   },
   {
     "kata": "aktivitas",
-    "count": 131
+    "count": 205
   },
   {
     "kata": "aktomiosin",
@@ -981,7 +981,7 @@ const kamus = [
   },
   {
     "kata": "aktor",
-    "count": 106
+    "count": 117
   },
   {
     "kata": "aktris",
@@ -989,7 +989,7 @@ const kamus = [
   },
   {
     "kata": "aktual",
-    "count": 5
+    "count": 15
   },
   {
     "kata": "aktuaria",
@@ -1001,7 +1001,7 @@ const kamus = [
   },
   {
     "kata": "aktuator",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "aku",
@@ -1065,11 +1065,11 @@ const kamus = [
   },
   {
     "kata": "akurasi",
-    "count": 147
+    "count": 227
   },
   {
     "kata": "akurat",
-    "count": 66
+    "count": 123
   },
   {
     "kata": "akustik",
@@ -1077,7 +1077,7 @@ const kamus = [
   },
   {
     "kata": "akut",
-    "count": 75
+    "count": 93
   },
   {
     "kata": "al-baqarah",
@@ -1093,7 +1093,7 @@ const kamus = [
   },
   {
     "kata": "alam",
-    "count": 21
+    "count": 31
   },
   {
     "kata": "alamat",
@@ -1129,7 +1129,7 @@ const kamus = [
   },
   {
     "kata": "alat",
-    "count": 206
+    "count": 326
   },
   {
     "kata": "Albania",
@@ -1157,7 +1157,7 @@ const kamus = [
   },
   {
     "kata": "algoritma",
-    "count": 52
+    "count": 62
   },
   {
     "kata": "algoritmik",
@@ -1201,11 +1201,11 @@ const kamus = [
   },
   {
     "kata": "alir",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "aliran",
-    "count": 73
+    "count": 130
   },
   {
     "kata": "alirannya",
@@ -1313,7 +1313,7 @@ const kamus = [
   },
   {
     "kata": "alternatif",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "alternator",
@@ -1349,7 +1349,7 @@ const kamus = [
   },
   {
     "kata": "alur",
-    "count": 152
+    "count": 215
   },
   {
     "kata": "aluran",
@@ -1377,7 +1377,7 @@ const kamus = [
   },
   {
     "kata": "aman",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "amanah",
@@ -1441,15 +1441,15 @@ const kamus = [
   },
   {
     "kata": "ambigu",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ambiguitas",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ambil",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "ambilan",
@@ -1613,7 +1613,7 @@ const kamus = [
   },
   {
     "kata": "anak",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "anak-anak",
@@ -1625,15 +1625,15 @@ const kamus = [
   },
   {
     "kata": "analis",
-    "count": 60
+    "count": 117
   },
   {
     "kata": "analisa",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "analisis",
-    "count": 329
+    "count": 433
   },
   {
     "kata": "analitik",
@@ -1645,7 +1645,7 @@ const kamus = [
   },
   {
     "kata": "analog",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "analogi",
@@ -1685,7 +1685,7 @@ const kamus = [
   },
   {
     "kata": "and",
-    "count": 224
+    "count": 305
   },
   {
     "kata": "anda",
@@ -1721,7 +1721,7 @@ const kamus = [
   },
   {
     "kata": "android",
-    "count": 178
+    "count": 305
   },
   {
     "kata": "andropause",
@@ -1765,11 +1765,11 @@ const kamus = [
   },
   {
     "kata": "anggaran",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "anggota",
-    "count": 83
+    "count": 89
   },
   {
     "kata": "anggrek",
@@ -1873,7 +1873,7 @@ const kamus = [
   },
   {
     "kata": "animator",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "anime",
@@ -1929,11 +1929,11 @@ const kamus = [
   },
   {
     "kata": "antar",
-    "count": 148
+    "count": 211
   },
   {
     "kata": "antara",
-    "count": 214
+    "count": 295
   },
   {
     "kata": "antarangkatan",
@@ -1941,7 +1941,7 @@ const kamus = [
   },
   {
     "kata": "antaranya",
-    "count": 141
+    "count": 199
   },
   {
     "kata": "antarbahasa",
@@ -2017,7 +2017,7 @@ const kamus = [
   },
   {
     "kata": "antarmuka",
-    "count": 148
+    "count": 216
   },
   {
     "kata": "antarnegara",
@@ -2421,19 +2421,19 @@ const kamus = [
   },
   {
     "kata": "apa",
-    "count": 164
+    "count": 222
   },
   {
     "kata": "apabila",
-    "count": 106
+    "count": 122
   },
   {
     "kata": "apache",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "apakah",
-    "count": 136
+    "count": 211
   },
   {
     "kata": "apalagi",
@@ -2485,7 +2485,7 @@ const kamus = [
   },
   {
     "kata": "aplikasi",
-    "count": 376
+    "count": 532
   },
   {
     "kata": "aplikasinya",
@@ -2513,7 +2513,7 @@ const kamus = [
   },
   {
     "kata": "application",
-    "count": 143
+    "count": 201
   },
   {
     "kata": "apresiasi",
@@ -2533,7 +2533,7 @@ const kamus = [
   },
   {
     "kata": "april",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "apriori",
@@ -2553,7 +2553,7 @@ const kamus = [
   },
   {
     "kata": "arah",
-    "count": 31
+    "count": 36
   },
   {
     "kata": "arahan",
@@ -2601,7 +2601,7 @@ const kamus = [
   },
   {
     "kata": "Arduino",
-    "count": 54
+    "count": 106
   },
   {
     "kata": "area",
@@ -2701,7 +2701,7 @@ const kamus = [
   },
   {
     "kata": "arsip",
-    "count": 90
+    "count": 106
   },
   {
     "kata": "arsiparis",
@@ -2733,7 +2733,7 @@ const kamus = [
   },
   {
     "kata": "arsitektur",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "arsitektural",
@@ -2761,7 +2761,7 @@ const kamus = [
   },
   {
     "kata": "arti",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "artian",
@@ -2769,7 +2769,7 @@ const kamus = [
   },
   {
     "kata": "artificial",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "artifisial",
@@ -2777,7 +2777,7 @@ const kamus = [
   },
   {
     "kata": "artikel",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "artikula",
@@ -2801,7 +2801,7 @@ const kamus = [
   },
   {
     "kata": "artinya",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "artis",
@@ -2949,7 +2949,7 @@ const kamus = [
   },
   {
     "kata": "asing",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "asinkron",
@@ -2961,7 +2961,7 @@ const kamus = [
   },
   {
     "kata": "asisten",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "asistensi",
@@ -3029,7 +3029,7 @@ const kamus = [
   },
   {
     "kata": "aspek",
-    "count": 37
+    "count": 42
   },
   {
     "kata": "aspek-aspek",
@@ -3153,7 +3153,7 @@ const kamus = [
   },
   {
     "kata": "asynchronous",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "atap",
@@ -3161,7 +3161,7 @@ const kamus = [
   },
   {
     "kata": "atas",
-    "count": 75
+    "count": 133
   },
   {
     "kata": "atasan",
@@ -3169,11 +3169,11 @@ const kamus = [
   },
   {
     "kata": "atau",
-    "count": 297
+    "count": 396
   },
   {
     "kata": "ataupun",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "atlantik",
@@ -3245,7 +3245,7 @@ const kamus = [
   },
   {
     "kata": "atribut",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "atrisi",
@@ -3273,7 +3273,7 @@ const kamus = [
   },
   {
     "kata": "aturan",
-    "count": 92
+    "count": 120
   },
   {
     "kata": "audiens",
@@ -3325,11 +3325,11 @@ const kamus = [
   },
   {
     "kata": "augmented",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "aula",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "aura",
@@ -3481,7 +3481,7 @@ const kamus = [
   },
   {
     "kata": "available",
-    "count": 74
+    "count": 92
   },
   {
     "kata": "avatar",
@@ -3489,7 +3489,7 @@ const kamus = [
   },
   {
     "kata": "average",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "avokad",
@@ -3501,7 +3501,7 @@ const kamus = [
   },
   {
     "kata": "awal",
-    "count": 260
+    "count": 300
   },
   {
     "kata": "awalan",
@@ -3553,7 +3553,7 @@ const kamus = [
   },
   {
     "kata": "ayam",
-    "count": 167
+    "count": 208
   },
   {
     "kata": "ayat",
@@ -3593,7 +3593,7 @@ const kamus = [
   },
   {
     "kata": "bab",
-    "count": 53
+    "count": 63
   },
   {
     "kata": "babad",
@@ -3633,7 +3633,7 @@ const kamus = [
   },
   {
     "kata": "baca",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "bacaan",
@@ -3657,7 +3657,7 @@ const kamus = [
   },
   {
     "kata": "backend",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "background",
@@ -3709,7 +3709,7 @@ const kamus = [
   },
   {
     "kata": "badan",
-    "count": 84
+    "count": 107
   },
   {
     "kata": "badani",
@@ -3741,7 +3741,7 @@ const kamus = [
   },
   {
     "kata": "bagaimana",
-    "count": 121
+    "count": 149
   },
   {
     "kata": "bagaimanapun",
@@ -3749,7 +3749,7 @@ const kamus = [
   },
   {
     "kata": "bagan",
-    "count": 98
+    "count": 150
   },
   {
     "kata": "bagasi",
@@ -3757,11 +3757,11 @@ const kamus = [
   },
   {
     "kata": "bagi",
-    "count": 386
+    "count": 491
   },
   {
     "kata": "bagian",
-    "count": 286
+    "count": 407
   },
   {
     "kata": "baginda",
@@ -3773,7 +3773,7 @@ const kamus = [
   },
   {
     "kata": "bagus",
-    "count": 86
+    "count": 92
   },
   {
     "kata": "bagusan",
@@ -3789,7 +3789,7 @@ const kamus = [
   },
   {
     "kata": "bahan",
-    "count": 137
+    "count": 195
   },
   {
     "kata": "bahang",
@@ -3813,7 +3813,7 @@ const kamus = [
   },
   {
     "kata": "bahasa",
-    "count": 235
+    "count": 321
   },
   {
     "kata": "bahasan",
@@ -3833,7 +3833,7 @@ const kamus = [
   },
   {
     "kata": "bahkan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "Bahrain",
@@ -3857,7 +3857,7 @@ const kamus = [
   },
   {
     "kata": "bahwa",
-    "count": 221
+    "count": 302
   },
   {
     "kata": "bahwasanya",
@@ -3873,7 +3873,7 @@ const kamus = [
   },
   {
     "kata": "baik",
-    "count": 175
+    "count": 204
   },
   {
     "kata": "baiklah",
@@ -3997,7 +3997,7 @@ const kamus = [
   },
   {
     "kata": "baku",
-    "count": 9
+    "count": 13
   },
   {
     "kata": "bakul",
@@ -4097,7 +4097,7 @@ const kamus = [
   },
   {
     "kata": "balik",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "balikan",
@@ -4189,7 +4189,7 @@ const kamus = [
   },
   {
     "kata": "banding",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "bandingkan",
@@ -4265,7 +4265,7 @@ const kamus = [
   },
   {
     "kata": "bangun",
-    "count": 122
+    "count": 128
   },
   {
     "kata": "bangunan",
@@ -4325,7 +4325,7 @@ const kamus = [
   },
   {
     "kata": "bantalan",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "bantara",
@@ -4361,11 +4361,11 @@ const kamus = [
   },
   {
     "kata": "bantuan",
-    "count": 204
+    "count": 280
   },
   {
     "kata": "banyak",
-    "count": 157
+    "count": 237
   },
   {
     "kata": "banyakan",
@@ -4417,7 +4417,7 @@ const kamus = [
   },
   {
     "kata": "barat",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "Barbados",
@@ -4429,7 +4429,7 @@ const kamus = [
   },
   {
     "kata": "baris",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "baris-berbaris",
@@ -4469,7 +4469,7 @@ const kamus = [
   },
   {
     "kata": "baru",
-    "count": 155
+    "count": 218
   },
   {
     "kata": "barusan",
@@ -4501,11 +4501,11 @@ const kamus = [
   },
   {
     "kata": "base",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "based",
-    "count": 134
+    "count": 209
   },
   {
     "kata": "basi",
@@ -4513,11 +4513,11 @@ const kamus = [
   },
   {
     "kata": "basic",
-    "count": 104
+    "count": 122
   },
   {
     "kata": "basis",
-    "count": 95
+    "count": 111
   },
   {
     "kata": "basket",
@@ -4553,11 +4553,11 @@ const kamus = [
   },
   {
     "kata": "batas",
-    "count": 66
+    "count": 119
   },
   {
     "kata": "batasan",
-    "count": 49
+    "count": 59
   },
   {
     "kata": "batch",
@@ -4565,7 +4565,7 @@ const kamus = [
   },
   {
     "kata": "baterai",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "batik",
@@ -4589,7 +4589,7 @@ const kamus = [
   },
   {
     "kata": "batu",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "batu-batuan",
@@ -4605,7 +4605,7 @@ const kamus = [
   },
   {
     "kata": "batuk",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "bau",
@@ -4633,11 +4633,11 @@ const kamus = [
   },
   {
     "kata": "bawaan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "bawah",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "bawahan",
@@ -4701,11 +4701,11 @@ const kamus = [
   },
   {
     "kata": "beban",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "bebas",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "bebatuan",
@@ -4717,7 +4717,7 @@ const kamus = [
   },
   {
     "kata": "beberapa",
-    "count": 239
+    "count": 324
   },
   {
     "kata": "becak",
@@ -4793,7 +4793,7 @@ const kamus = [
   },
   {
     "kata": "bekerja",
-    "count": 201
+    "count": 316
   },
   {
     "kata": "beku",
@@ -4813,7 +4813,7 @@ const kamus = [
   },
   {
     "kata": "belajar",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "belaka",
@@ -4821,7 +4821,7 @@ const kamus = [
   },
   {
     "kata": "belakang",
-    "count": 54
+    "count": 64
   },
   {
     "kata": "belakangan",
@@ -4897,7 +4897,7 @@ const kamus = [
   },
   {
     "kata": "beliau",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "belikan",
@@ -4949,7 +4949,7 @@ const kamus = [
   },
   {
     "kata": "belum",
-    "count": 95
+    "count": 106
   },
   {
     "kata": "belut",
@@ -4973,7 +4973,7 @@ const kamus = [
   },
   {
     "kata": "benar",
-    "count": 86
+    "count": 97
   },
   {
     "kata": "bencana",
@@ -4985,7 +4985,7 @@ const kamus = [
   },
   {
     "kata": "benda",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "bendahara",
@@ -5025,11 +5025,11 @@ const kamus = [
   },
   {
     "kata": "bengkak",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "Bengkayang",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "bengkel",
@@ -5097,7 +5097,7 @@ const kamus = [
   },
   {
     "kata": "bentuk",
-    "count": 149
+    "count": 212
   },
   {
     "kata": "bentukan",
@@ -5137,7 +5137,7 @@ const kamus = [
   },
   {
     "kata": "berada",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "berada-ada",
@@ -5165,7 +5165,7 @@ const kamus = [
   },
   {
     "kata": "beragam",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "beragam-ragam",
@@ -5185,7 +5185,7 @@ const kamus = [
   },
   {
     "kata": "berair",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "berakad",
@@ -5241,7 +5241,7 @@ const kamus = [
   },
   {
     "kata": "beraktifitas",
-    "count": 46
+    "count": 98
   },
   {
     "kata": "beraktivitas",
@@ -5273,7 +5273,7 @@ const kamus = [
   },
   {
     "kata": "beralih",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "beraliran",
@@ -5305,7 +5305,7 @@ const kamus = [
   },
   {
     "kata": "beranda",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "beraneka",
@@ -5381,7 +5381,7 @@ const kamus = [
   },
   {
     "kata": "berapa",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "berapat-rapat",
@@ -5429,7 +5429,7 @@ const kamus = [
   },
   {
     "kata": "berarti",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "berartikulasi",
@@ -5445,7 +5445,7 @@ const kamus = [
   },
   {
     "kata": "berasal",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "berasaskan",
@@ -5465,7 +5465,7 @@ const kamus = [
   },
   {
     "kata": "berat",
-    "count": 134
+    "count": 170
   },
   {
     "kata": "beratap",
@@ -5505,7 +5505,7 @@ const kamus = [
   },
   {
     "kata": "berbagai",
-    "count": 154
+    "count": 217
   },
   {
     "kata": "berbagasi",
@@ -5513,7 +5513,7 @@ const kamus = [
   },
   {
     "kata": "berbagi",
-    "count": 87
+    "count": 105
   },
   {
     "kata": "berbahagia",
@@ -5525,7 +5525,7 @@ const kamus = [
   },
   {
     "kata": "berbahasa",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berbahasan",
@@ -5613,7 +5613,7 @@ const kamus = [
   },
   {
     "kata": "berbasis",
-    "count": 483
+    "count": 645
   },
   {
     "kata": "berbasiskan",
@@ -5649,7 +5649,7 @@ const kamus = [
   },
   {
     "kata": "berbeda",
-    "count": 42
+    "count": 47
   },
   {
     "kata": "berbeda-beda",
@@ -5693,7 +5693,7 @@ const kamus = [
   },
   {
     "kata": "berbentuk",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "berbenturan",
@@ -5805,7 +5805,7 @@ const kamus = [
   },
   {
     "kata": "berbunyi",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "berburu",
@@ -5957,7 +5957,7 @@ const kamus = [
   },
   {
     "kata": "berdampak",
-    "count": 1
+    "count": 5
   },
   {
     "kata": "berdamping",
@@ -5985,7 +5985,7 @@ const kamus = [
   },
   {
     "kata": "berdasarkan",
-    "count": 392
+    "count": 502
   },
   {
     "kata": "berdatangan",
@@ -6021,7 +6021,7 @@ const kamus = [
   },
   {
     "kata": "berdempetan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berdendang",
@@ -6189,7 +6189,7 @@ const kamus = [
   },
   {
     "kata": "berelasi",
-    "count": 72
+    "count": 83
   },
   {
     "kata": "berelemen",
@@ -6217,7 +6217,7 @@ const kamus = [
   },
   {
     "kata": "berencana",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "bereng-bereng",
@@ -6277,7 +6277,7 @@ const kamus = [
   },
   {
     "kata": "berfokus",
-    "count": 91
+    "count": 102
   },
   {
     "kata": "berfolder-folder",
@@ -6285,7 +6285,7 @@ const kamus = [
   },
   {
     "kata": "berformat",
-    "count": 72
+    "count": 83
   },
   {
     "kata": "berfoto",
@@ -6293,11 +6293,11 @@ const kamus = [
   },
   {
     "kata": "berfungsi",
-    "count": 76
+    "count": 133
   },
   {
     "kata": "bergabung",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "bergambar",
@@ -6325,7 +6325,7 @@ const kamus = [
   },
   {
     "kata": "bergantung",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "bergantungan",
@@ -6421,7 +6421,7 @@ const kamus = [
   },
   {
     "kata": "bergerak",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "bergerak-gerak",
@@ -6461,7 +6461,7 @@ const kamus = [
   },
   {
     "kata": "bergeser",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "bergeseran",
@@ -6585,7 +6585,7 @@ const kamus = [
   },
   {
     "kata": "berhasil",
-    "count": 216
+    "count": 302
   },
   {
     "kata": "berhati",
@@ -6649,7 +6649,7 @@ const kamus = [
   },
   {
     "kata": "berhubungan",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "berhulukan",
@@ -6713,11 +6713,11 @@ const kamus = [
   },
   {
     "kata": "berikut",
-    "count": 354
+    "count": 498
   },
   {
     "kata": "berikutnya",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "berilah",
@@ -6749,7 +6749,7 @@ const kamus = [
   },
   {
     "kata": "berimbuhan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berimpikan",
@@ -6809,7 +6809,7 @@ const kamus = [
   },
   {
     "kata": "berinteraksi",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "berinti",
@@ -6841,7 +6841,7 @@ const kamus = [
   },
   {
     "kata": "berisi",
-    "count": 70
+    "count": 127
   },
   {
     "kata": "berisikan",
@@ -6849,7 +6849,7 @@ const kamus = [
   },
   {
     "kata": "berisiko",
-    "count": 60
+    "count": 117
   },
   {
     "kata": "beristikharah",
@@ -6885,7 +6885,7 @@ const kamus = [
   },
   {
     "kata": "berjalan",
-    "count": 148
+    "count": 211
   },
   {
     "kata": "berjalinan",
@@ -7005,11 +7005,11 @@ const kamus = [
   },
   {
     "kata": "berjudul",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "berjumlah",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "berkabar",
@@ -7041,7 +7041,7 @@ const kamus = [
   },
   {
     "kata": "berkaitan",
-    "count": 96
+    "count": 119
   },
   {
     "kata": "berkakakan",
@@ -7153,7 +7153,7 @@ const kamus = [
   },
   {
     "kata": "berkecepatan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berkecil",
@@ -7265,7 +7265,7 @@ const kamus = [
   },
   {
     "kata": "berkembang",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "berkenaan",
@@ -7533,7 +7533,7 @@ const kamus = [
   },
   {
     "kata": "berkomunikasi",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "berkondisi",
@@ -7549,7 +7549,7 @@ const kamus = [
   },
   {
     "kata": "berkonsentrasi",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "berkonspirasi",
@@ -7565,7 +7565,7 @@ const kamus = [
   },
   {
     "kata": "berkontribusi",
-    "count": 54
+    "count": 106
   },
   {
     "kata": "berkoordinasi",
@@ -7597,7 +7597,7 @@ const kamus = [
   },
   {
     "kata": "berkualitas",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "berkuku",
@@ -7621,7 +7621,7 @@ const kamus = [
   },
   {
     "kata": "berkurang",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "berkutat",
@@ -7685,11 +7685,11 @@ const kamus = [
   },
   {
     "kata": "berlangsung",
-    "count": 78
+    "count": 84
   },
   {
     "kata": "berlanjut",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berlanting",
@@ -7733,11 +7733,11 @@ const kamus = [
   },
   {
     "kata": "berlebih",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "berlebihan",
-    "count": 56
+    "count": 108
   },
   {
     "kata": "berledakan",
@@ -7801,7 +7801,7 @@ const kamus = [
   },
   {
     "kata": "berlisensi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "berlistrik",
@@ -8041,7 +8041,7 @@ const kamus = [
   },
   {
     "kata": "bernafas",
-    "count": 56
+    "count": 74
   },
   {
     "kata": "bernama",
@@ -8081,7 +8081,7 @@ const kamus = [
   },
   {
     "kata": "bernilai",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "bernomor",
@@ -8133,7 +8133,7 @@ const kamus = [
   },
   {
     "kata": "beroperasi",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "beropini",
@@ -8145,7 +8145,7 @@ const kamus = [
   },
   {
     "kata": "berorientasi",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "berotak",
@@ -8297,7 +8297,7 @@ const kamus = [
   },
   {
     "kata": "berpemilik",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berpenampilan",
@@ -8313,7 +8313,7 @@ const kamus = [
   },
   {
     "kata": "berpendapat",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "berpendapatan",
@@ -8337,11 +8337,11 @@ const kamus = [
   },
   {
     "kata": "berpengalaman",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "berpengaruh",
-    "count": 86
+    "count": 104
   },
   {
     "kata": "berpenggal",
@@ -8369,7 +8369,7 @@ const kamus = [
   },
   {
     "kata": "berperan",
-    "count": 134
+    "count": 192
   },
   {
     "kata": "berperanti",
@@ -8473,7 +8473,7 @@ const kamus = [
   },
   {
     "kata": "berpotensi",
-    "count": 55
+    "count": 107
   },
   {
     "kata": "berpotong-potongan",
@@ -8553,7 +8553,7 @@ const kamus = [
   },
   {
     "kata": "berpusat",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "berputar",
@@ -8725,7 +8725,7 @@ const kamus = [
   },
   {
     "kata": "bersebelahan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "berseberangan",
@@ -8973,11 +8973,11 @@ const kamus = [
   },
   {
     "kata": "bersifat",
-    "count": 74
+    "count": 126
   },
   {
     "kata": "bersih",
-    "count": 132
+    "count": 173
   },
   {
     "kata": "bersikap",
@@ -9033,7 +9033,7 @@ const kamus = [
   },
   {
     "kata": "bersin",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "bersinar",
@@ -9077,7 +9077,7 @@ const kamus = [
   },
   {
     "kata": "berskala",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "berskandal",
@@ -9157,7 +9157,7 @@ const kamus = [
   },
   {
     "kata": "bersumber",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "bersungkit",
@@ -9461,7 +9461,7 @@ const kamus = [
   },
   {
     "kata": "bertemu",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "bertenaga",
@@ -9605,7 +9605,7 @@ const kamus = [
   },
   {
     "kata": "bertujuan",
-    "count": 224
+    "count": 305
   },
   {
     "kata": "bertukar",
@@ -9645,7 +9645,7 @@ const kamus = [
   },
   {
     "kata": "berubah",
-    "count": 199
+    "count": 292
   },
   {
     "kata": "berubah-ubah",
@@ -9657,11 +9657,11 @@ const kamus = [
   },
   {
     "kata": "berujung",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "berukuran",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "berulam",
@@ -9669,7 +9669,7 @@ const kamus = [
   },
   {
     "kata": "berulang",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "berulang-alik",
@@ -9717,7 +9717,7 @@ const kamus = [
   },
   {
     "kata": "berupa",
-    "count": 144
+    "count": 207
   },
   {
     "kata": "berupaya",
@@ -9729,7 +9729,7 @@ const kamus = [
   },
   {
     "kata": "berurutan",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "berusaha",
@@ -9765,7 +9765,7 @@ const kamus = [
   },
   {
     "kata": "berwarna",
-    "count": 80
+    "count": 91
   },
   {
     "kata": "berwaspada",
@@ -9809,7 +9809,7 @@ const kamus = [
   },
   {
     "kata": "besar",
-    "count": 217
+    "count": 315
   },
   {
     "kata": "besar-besaran",
@@ -9817,7 +9817,7 @@ const kamus = [
   },
   {
     "kata": "besaran",
-    "count": 62
+    "count": 114
   },
   {
     "kata": "beser",
@@ -9825,7 +9825,7 @@ const kamus = [
   },
   {
     "kata": "beserta",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "besertifikasi",
@@ -9953,11 +9953,11 @@ const kamus = [
   },
   {
     "kata": "biasa",
-    "count": 158
+    "count": 187
   },
   {
     "kata": "biasanya",
-    "count": 83
+    "count": 145
   },
   {
     "kata": "biawak",
@@ -9965,7 +9965,7 @@ const kamus = [
   },
   {
     "kata": "biaya",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "bibi",
@@ -10009,7 +10009,7 @@ const kamus = [
   },
   {
     "kata": "bidang",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "bidara",
@@ -10193,7 +10193,7 @@ const kamus = [
   },
   {
     "kata": "biodata",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "biodiesel",
@@ -10281,7 +10281,7 @@ const kamus = [
   },
   {
     "kata": "biologi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "biologis",
@@ -10429,11 +10429,11 @@ const kamus = [
   },
   {
     "kata": "biru",
-    "count": 2
+    "count": 3
   },
   {
     "kata": "bisa",
-    "count": 217
+    "count": 298
   },
   {
     "kata": "bisikan",
@@ -10445,7 +10445,7 @@ const kamus = [
   },
   {
     "kata": "bisnis",
-    "count": 29
+    "count": 34
   },
   {
     "kata": "bisu",
@@ -10509,7 +10509,7 @@ const kamus = [
   },
   {
     "kata": "black",
-    "count": 170
+    "count": 192
   },
   {
     "kata": "blangko",
@@ -10541,7 +10541,7 @@ const kamus = [
   },
   {
     "kata": "block",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "blockchain",
@@ -10609,11 +10609,11 @@ const kamus = [
   },
   {
     "kata": "board",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "bobot",
-    "count": 159
+    "count": 195
   },
   {
     "kata": "bocor",
@@ -10637,7 +10637,7 @@ const kamus = [
   },
   {
     "kata": "body",
-    "count": 59
+    "count": 116
   },
   {
     "kata": "bogas",
@@ -10725,7 +10725,7 @@ const kamus = [
   },
   {
     "kata": "bookmark",
-    "count": 1
+    "count": 2
   },
   {
     "kata": "boolean",
@@ -10805,11 +10805,11 @@ const kamus = [
   },
   {
     "kata": "box",
-    "count": 172
+    "count": 194
   },
   {
     "kata": "boyer",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "BPKB",
@@ -10881,7 +10881,7 @@ const kamus = [
   },
   {
     "kata": "browser",
-    "count": 18
+    "count": 28
   },
   {
     "kata": "browsing",
@@ -10913,7 +10913,7 @@ const kamus = [
   },
   {
     "kata": "buah",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "buang",
@@ -10929,11 +10929,11 @@ const kamus = [
   },
   {
     "kata": "buat",
-    "count": 147
+    "count": 171
   },
   {
     "kata": "buatan",
-    "count": 74
+    "count": 92
   },
   {
     "kata": "buaya",
@@ -10969,7 +10969,7 @@ const kamus = [
   },
   {
     "kata": "budaya",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "budayawan",
@@ -10997,7 +10997,7 @@ const kamus = [
   },
   {
     "kata": "bug",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "bugar",
@@ -11017,7 +11017,7 @@ const kamus = [
   },
   {
     "kata": "build",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "built-in",
@@ -11045,7 +11045,7 @@ const kamus = [
   },
   {
     "kata": "bukan",
-    "count": 92
+    "count": 115
   },
   {
     "kata": "bukankah",
@@ -11069,11 +11069,11 @@ const kamus = [
   },
   {
     "kata": "buku",
-    "count": 28
+    "count": 38
   },
   {
     "kata": "bulan",
-    "count": 34
+    "count": 39
   },
   {
     "kata": "bulan-bulanan",
@@ -11081,7 +11081,7 @@ const kamus = [
   },
   {
     "kata": "bulanan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "bulat",
@@ -11105,7 +11105,7 @@ const kamus = [
   },
   {
     "kata": "bulu",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "bulus",
@@ -11205,7 +11205,7 @@ const kamus = [
   },
   {
     "kata": "bunyi",
-    "count": 57
+    "count": 114
   },
   {
     "kata": "bunyi-bunyian",
@@ -11261,7 +11261,7 @@ const kamus = [
   },
   {
     "kata": "burung",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "bus",
@@ -11289,7 +11289,7 @@ const kamus = [
   },
   {
     "kata": "but",
-    "count": 54
+    "count": 106
   },
   {
     "kata": "buta",
@@ -11357,7 +11357,7 @@ const kamus = [
   },
   {
     "kata": "cacat",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "cache",
@@ -11365,7 +11365,7 @@ const kamus = [
   },
   {
     "kata": "caching",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "caci",
@@ -11445,7 +11445,7 @@ const kamus = [
   },
   {
     "kata": "cakupan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "calabikang",
@@ -11545,7 +11545,7 @@ const kamus = [
   },
   {
     "kata": "canggih",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "canggung",
@@ -11617,7 +11617,7 @@ const kamus = [
   },
   {
     "kata": "cara",
-    "count": 223
+    "count": 309
   },
   {
     "kata": "carbon",
@@ -11641,7 +11641,7 @@ const kamus = [
   },
   {
     "kata": "case",
-    "count": 188
+    "count": 210
   },
   {
     "kata": "casis",
@@ -11661,7 +11661,7 @@ const kamus = [
   },
   {
     "kata": "catatan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "catu",
@@ -11729,7 +11729,7 @@ const kamus = [
   },
   {
     "kata": "cek",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "cekat",
@@ -11845,7 +11845,7 @@ const kamus = [
   },
   {
     "kata": "cenderung",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "cendikiawan",
@@ -11865,7 +11865,7 @@ const kamus = [
   },
   {
     "kata": "centered",
-    "count": 63
+    "count": 81
   },
   {
     "kata": "central",
@@ -11873,7 +11873,7 @@ const kamus = [
   },
   {
     "kata": "cepat",
-    "count": 97
+    "count": 108
   },
   {
     "kata": "cepatan",
@@ -11913,7 +11913,7 @@ const kamus = [
   },
   {
     "kata": "cerdas",
-    "count": 77
+    "count": 95
   },
   {
     "kata": "cerdik",
@@ -11937,7 +11937,7 @@ const kamus = [
   },
   {
     "kata": "cerita",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "cermat",
@@ -11985,7 +11985,7 @@ const kamus = [
   },
   {
     "kata": "chair",
-    "count": 111
+    "count": 220
   },
   {
     "kata": "change",
@@ -11997,7 +11997,7 @@ const kamus = [
   },
   {
     "kata": "character",
-    "count": 9
+    "count": 19
   },
   {
     "kata": "chart",
@@ -12005,7 +12005,7 @@ const kamus = [
   },
   {
     "kata": "chat",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ChatGPT",
@@ -12033,7 +12033,7 @@ const kamus = [
   },
   {
     "kata": "chrome",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "cicilan",
@@ -12097,7 +12097,7 @@ const kamus = [
   },
   {
     "kata": "ciri",
-    "count": 60
+    "count": 112
   },
   {
     "kata": "cita",
@@ -12113,7 +12113,7 @@ const kamus = [
   },
   {
     "kata": "class",
-    "count": 184
+    "count": 206
   },
   {
     "kata": "classification",
@@ -12153,7 +12153,7 @@ const kamus = [
   },
   {
     "kata": "clock",
-    "count": 45
+    "count": 97
   },
   {
     "kata": "close",
@@ -12189,7 +12189,7 @@ const kamus = [
   },
   {
     "kata": "coba",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "cobaan",
@@ -12197,7 +12197,7 @@ const kamus = [
   },
   {
     "kata": "cocok",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "cocolan",
@@ -12205,7 +12205,7 @@ const kamus = [
   },
   {
     "kata": "code",
-    "count": 95
+    "count": 111
   },
   {
     "kata": "CodeIgniter",
@@ -12213,7 +12213,7 @@ const kamus = [
   },
   {
     "kata": "coding",
-    "count": 61
+    "count": 113
   },
   {
     "kata": "cokelat",
@@ -12241,7 +12241,7 @@ const kamus = [
   },
   {
     "kata": "collection",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "colokan",
@@ -12281,7 +12281,7 @@ const kamus = [
   },
   {
     "kata": "communication",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "compact",
@@ -12305,7 +12305,7 @@ const kamus = [
   },
   {
     "kata": "component",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "compress",
@@ -12321,7 +12321,7 @@ const kamus = [
   },
   {
     "kata": "computer",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "computing",
@@ -12353,7 +12353,7 @@ const kamus = [
   },
   {
     "kata": "confusion",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "congkak",
@@ -12365,11 +12365,11 @@ const kamus = [
   },
   {
     "kata": "connectivity",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "connector",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "const",
@@ -12381,11 +12381,11 @@ const kamus = [
   },
   {
     "kata": "construction",
-    "count": 31
+    "count": 36
   },
   {
     "kata": "content",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "continuous",
@@ -12393,7 +12393,7 @@ const kamus = [
   },
   {
     "kata": "contoh",
-    "count": 100
+    "count": 128
   },
   {
     "kata": "contohnya",
@@ -12465,15 +12465,15 @@ const kamus = [
   },
   {
     "kata": "corporation",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "corpus",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "correction",
-    "count": 16
+    "count": 26
   },
   {
     "kata": "coulomb",
@@ -12521,7 +12521,7 @@ const kamus = [
   },
   {
     "kata": "cross",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "crosstalk",
@@ -12573,7 +12573,7 @@ const kamus = [
   },
   {
     "kata": "cukup",
-    "count": 86
+    "count": 138
   },
   {
     "kata": "cukur",
@@ -12581,7 +12581,7 @@ const kamus = [
   },
   {
     "kata": "cuma",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "cuman",
@@ -12673,7 +12673,7 @@ const kamus = [
   },
   {
     "kata": "daerah",
-    "count": 77
+    "count": 95
   },
   {
     "kata": "daerahisme",
@@ -12681,7 +12681,7 @@ const kamus = [
   },
   {
     "kata": "daftar",
-    "count": 78
+    "count": 88
   },
   {
     "kata": "dagang",
@@ -12721,7 +12721,7 @@ const kamus = [
   },
   {
     "kata": "dahulu",
-    "count": 84
+    "count": 107
   },
   {
     "kata": "daki",
@@ -12741,7 +12741,7 @@ const kamus = [
   },
   {
     "kata": "dalam",
-    "count": 340
+    "count": 432
   },
   {
     "kata": "dalaman",
@@ -12749,7 +12749,7 @@ const kamus = [
   },
   {
     "kata": "dalamnya",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "dalang",
@@ -12785,7 +12785,7 @@ const kamus = [
   },
   {
     "kata": "damerau",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "DAMKAR",
@@ -12797,11 +12797,11 @@ const kamus = [
   },
   {
     "kata": "dampak",
-    "count": 131
+    "count": 201
   },
   {
     "kata": "dan",
-    "count": 414
+    "count": 518
   },
   {
     "kata": "dana",
@@ -12841,7 +12841,7 @@ const kamus = [
   },
   {
     "kata": "dapat",
-    "count": 379
+    "count": 522
   },
   {
     "kata": "dapatan",
@@ -12861,7 +12861,7 @@ const kamus = [
   },
   {
     "kata": "darah",
-    "count": 119
+    "count": 189
   },
   {
     "kata": "darat",
@@ -12873,7 +12873,7 @@ const kamus = [
   },
   {
     "kata": "dari",
-    "count": 373
+    "count": 529
   },
   {
     "kata": "daring",
@@ -12881,7 +12881,7 @@ const kamus = [
   },
   {
     "kata": "daripada",
-    "count": 68
+    "count": 125
   },
   {
     "kata": "darma",
@@ -12921,7 +12921,7 @@ const kamus = [
   },
   {
     "kata": "dasar",
-    "count": 38
+    "count": 43
   },
   {
     "kata": "dasarnya",
@@ -12941,7 +12941,7 @@ const kamus = [
   },
   {
     "kata": "dashboard",
-    "count": 166
+    "count": 188
   },
   {
     "kata": "dasi",
@@ -12953,11 +12953,11 @@ const kamus = [
   },
   {
     "kata": "data",
-    "count": 446
+    "count": 608
   },
   {
     "kata": "database",
-    "count": 121
+    "count": 137
   },
   {
     "kata": "datagram",
@@ -13005,7 +13005,7 @@ const kamus = [
   },
   {
     "kata": "daya",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "dayak",
@@ -13065,7 +13065,7 @@ const kamus = [
   },
   {
     "kata": "debugging",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "decimal",
@@ -13073,7 +13073,7 @@ const kamus = [
   },
   {
     "kata": "decision",
-    "count": 186
+    "count": 215
   },
   {
     "kata": "declaration",
@@ -13129,7 +13129,7 @@ const kamus = [
   },
   {
     "kata": "definisi",
-    "count": 35
+    "count": 40
   },
   {
     "kata": "definitif",
@@ -13341,7 +13341,7 @@ const kamus = [
   },
   {
     "kata": "delay",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "delegasi",
@@ -13357,7 +13357,7 @@ const kamus = [
   },
   {
     "kata": "deletion",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "delima",
@@ -13409,7 +13409,7 @@ const kamus = [
   },
   {
     "kata": "demikian",
-    "count": 41
+    "count": 46
   },
   {
     "kata": "demisioner",
@@ -13497,7 +13497,7 @@ const kamus = [
   },
   {
     "kata": "dengan",
-    "count": 341
+    "count": 445
   },
   {
     "kata": "dengar",
@@ -13577,7 +13577,7 @@ const kamus = [
   },
   {
     "kata": "depan",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "deparpolisasi",
@@ -13653,7 +13653,7 @@ const kamus = [
   },
   {
     "kata": "derajat",
-    "count": 84
+    "count": 107
   },
   {
     "kata": "deras",
@@ -13721,7 +13721,7 @@ const kamus = [
   },
   {
     "kata": "desa",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "desah",
@@ -13729,7 +13729,7 @@ const kamus = [
   },
   {
     "kata": "desain",
-    "count": 290
+    "count": 377
   },
   {
     "kata": "desainer",
@@ -13781,7 +13781,7 @@ const kamus = [
   },
   {
     "kata": "design",
-    "count": 181
+    "count": 205
   },
   {
     "kata": "desimal",
@@ -13793,7 +13793,7 @@ const kamus = [
   },
   {
     "kata": "deskripsi",
-    "count": 46
+    "count": 56
   },
   {
     "kata": "deskriptif",
@@ -13801,7 +13801,7 @@ const kamus = [
   },
   {
     "kata": "desktop",
-    "count": 79
+    "count": 90
   },
   {
     "kata": "deskuamasi",
@@ -13845,7 +13845,7 @@ const kamus = [
   },
   {
     "kata": "detail",
-    "count": 159
+    "count": 171
   },
   {
     "kata": "detak",
@@ -13853,15 +13853,15 @@ const kamus = [
   },
   {
     "kata": "detect",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "detection",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "deteksi",
-    "count": 69
+    "count": 131
   },
   {
     "kata": "detektif",
@@ -13929,11 +13929,11 @@ const kamus = [
   },
   {
     "kata": "developer",
-    "count": 89
+    "count": 100
   },
   {
     "kata": "development",
-    "count": 28
+    "count": 38
   },
   {
     "kata": "deviasi",
@@ -13941,7 +13941,7 @@ const kamus = [
   },
   {
     "kata": "device",
-    "count": 52
+    "count": 104
   },
   {
     "kata": "devices",
@@ -14145,7 +14145,7 @@ const kamus = [
   },
   {
     "kata": "diabetes",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "diabolisme",
@@ -14177,11 +14177,11 @@ const kamus = [
   },
   {
     "kata": "diagnosa",
-    "count": 144
+    "count": 180
   },
   {
     "kata": "diagnosis",
-    "count": 144
+    "count": 180
   },
   {
     "kata": "diagnostik",
@@ -14201,7 +14201,7 @@ const kamus = [
   },
   {
     "kata": "diagram",
-    "count": 352
+    "count": 496
   },
   {
     "kata": "diajak",
@@ -14213,7 +14213,7 @@ const kamus = [
   },
   {
     "kata": "diajukan",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "diakhiri",
@@ -14229,7 +14229,7 @@ const kamus = [
   },
   {
     "kata": "diakses",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "dial",
@@ -14237,7 +14237,7 @@ const kamus = [
   },
   {
     "kata": "dialami",
-    "count": 136
+    "count": 172
   },
   {
     "kata": "dialek",
@@ -14249,7 +14249,7 @@ const kamus = [
   },
   {
     "kata": "dialihkan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "dialinguistik",
@@ -14269,7 +14269,7 @@ const kamus = [
   },
   {
     "kata": "diambil",
-    "count": 85
+    "count": 96
   },
   {
     "kata": "diameter",
@@ -14285,11 +14285,11 @@ const kamus = [
   },
   {
     "kata": "dianalisis",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "dianggap",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "diantaranya",
@@ -14301,7 +14301,7 @@ const kamus = [
   },
   {
     "kata": "diaplikasikan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "diapositif",
@@ -14313,11 +14313,11 @@ const kamus = [
   },
   {
     "kata": "diare",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "diartikan",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "diasah",
@@ -14329,7 +14329,7 @@ const kamus = [
   },
   {
     "kata": "diatur",
-    "count": 82
+    "count": 100
   },
   {
     "kata": "diawali",
@@ -14337,11 +14337,11 @@ const kamus = [
   },
   {
     "kata": "dibaca",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "dibagi",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "dibahas",
@@ -14353,11 +14353,11 @@ const kamus = [
   },
   {
     "kata": "dibandingkan",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "dibangun",
-    "count": 110
+    "count": 139
   },
   {
     "kata": "dibantu",
@@ -14365,7 +14365,7 @@ const kamus = [
   },
   {
     "kata": "dibatasi",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "dibawakan",
@@ -14373,7 +14373,7 @@ const kamus = [
   },
   {
     "kata": "dibeli",
-    "count": 133
+    "count": 169
   },
   {
     "kata": "dibentuk",
@@ -14389,7 +14389,7 @@ const kamus = [
   },
   {
     "kata": "diberikan",
-    "count": 68
+    "count": 91
   },
   {
     "kata": "dibicarakan",
@@ -14401,7 +14401,7 @@ const kamus = [
   },
   {
     "kata": "dibuat",
-    "count": 153
+    "count": 234
   },
   {
     "kata": "dibuktikan",
@@ -14413,7 +14413,7 @@ const kamus = [
   },
   {
     "kata": "dibutuhkan",
-    "count": 99
+    "count": 162
   },
   {
     "kata": "dicacah",
@@ -14421,7 +14421,7 @@ const kamus = [
   },
   {
     "kata": "dicantumkan",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "dicapai",
@@ -14429,7 +14429,7 @@ const kamus = [
   },
   {
     "kata": "dicari",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "dicek",
@@ -14441,11 +14441,11 @@ const kamus = [
   },
   {
     "kata": "dicocokkan",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "dictionary",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "didapat",
@@ -14453,23 +14453,23 @@ const kamus = [
   },
   {
     "kata": "didapatkan",
-    "count": 155
+    "count": 184
   },
   {
     "kata": "didasari",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "didasarkan",
-    "count": 64
+    "count": 121
   },
   {
     "kata": "didefinisikan",
-    "count": 82
+    "count": 93
   },
   {
     "kata": "didemonstrasikan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "didengar",
@@ -14477,7 +14477,7 @@ const kamus = [
   },
   {
     "kata": "diderita",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "didesain",
@@ -14489,7 +14489,7 @@ const kamus = [
   },
   {
     "kata": "didiagnosa",
-    "count": 58
+    "count": 76
   },
   {
     "kata": "didigitalisasi",
@@ -14525,7 +14525,7 @@ const kamus = [
   },
   {
     "kata": "dielektrik",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "dies",
@@ -14541,7 +14541,7 @@ const kamus = [
   },
   {
     "kata": "dievaluasi",
-    "count": 47
+    "count": 99
   },
   {
     "kata": "difabel",
@@ -14553,7 +14553,7 @@ const kamus = [
   },
   {
     "kata": "difokuskan",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "diformulasikan",
@@ -14573,7 +14573,7 @@ const kamus = [
   },
   {
     "kata": "digambarkan",
-    "count": 94
+    "count": 105
   },
   {
     "kata": "diganti",
@@ -14581,7 +14581,7 @@ const kamus = [
   },
   {
     "kata": "digeser",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "digit",
@@ -14589,7 +14589,7 @@ const kamus = [
   },
   {
     "kata": "digital",
-    "count": 59
+    "count": 116
   },
   {
     "kata": "digitalisasi",
@@ -14601,11 +14601,11 @@ const kamus = [
   },
   {
     "kata": "digunakan",
-    "count": 304
+    "count": 403
   },
   {
     "kata": "dihadapi",
-    "count": 157
+    "count": 181
   },
   {
     "kata": "dihancurkan",
@@ -14613,11 +14613,11 @@ const kamus = [
   },
   {
     "kata": "dihapus",
-    "count": 36
+    "count": 47
   },
   {
     "kata": "diharapkan",
-    "count": 136
+    "count": 200
   },
   {
     "kata": "dihasilkan",
@@ -14625,19 +14625,19 @@ const kamus = [
   },
   {
     "kata": "dihindari",
-    "count": 46
+    "count": 98
   },
   {
     "kata": "dihitung",
-    "count": 66
+    "count": 89
   },
   {
     "kata": "dihubungkan",
-    "count": 49
+    "count": 106
   },
   {
     "kata": "diidentifikasi",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "diikuti",
@@ -14645,11 +14645,11 @@ const kamus = [
   },
   {
     "kata": "diimplementasikan",
-    "count": 106
+    "count": 135
   },
   {
     "kata": "diinginkan",
-    "count": 73
+    "count": 130
   },
   {
     "kata": "diiringi",
@@ -14657,15 +14657,15 @@ const kamus = [
   },
   {
     "kata": "dijabarkan",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "dijadikan",
-    "count": 61
+    "count": 118
   },
   {
     "kata": "dijalankan",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "dijangkau",
@@ -14673,7 +14673,7 @@ const kamus = [
   },
   {
     "kata": "dijelaskan",
-    "count": 66
+    "count": 89
   },
   {
     "kata": "dijual",
@@ -14689,11 +14689,11 @@ const kamus = [
   },
   {
     "kata": "dikaitkan",
-    "count": 45
+    "count": 97
   },
   {
     "kata": "dikaji",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "dikandung",
@@ -14709,7 +14709,7 @@ const kamus = [
   },
   {
     "kata": "dikategorikan",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "dikejar",
@@ -14725,7 +14725,7 @@ const kamus = [
   },
   {
     "kata": "dikembangkan",
-    "count": 145
+    "count": 226
   },
   {
     "kata": "dikemukakan",
@@ -14733,19 +14733,19 @@ const kamus = [
   },
   {
     "kata": "dikenal",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "diketahui",
-    "count": 94
+    "count": 105
   },
   {
     "kata": "dikirim",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "diklasifikasikan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "diklat",
@@ -14777,7 +14777,7 @@ const kamus = [
   },
   {
     "kata": "dikoreksi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "dikotomi",
@@ -14809,7 +14809,7 @@ const kamus = [
   },
   {
     "kata": "dikumpulkan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "dikutip",
@@ -14817,11 +14817,11 @@ const kamus = [
   },
   {
     "kata": "dilaksanakan",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "dilakukan",
-    "count": 225
+    "count": 310
   },
   {
     "kata": "dilakukannya",
@@ -14837,7 +14837,7 @@ const kamus = [
   },
   {
     "kata": "dilanjutkan",
-    "count": 89
+    "count": 100
   },
   {
     "kata": "dilatih",
@@ -14849,15 +14849,15 @@ const kamus = [
   },
   {
     "kata": "dilengkapi",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "dilewati",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "dilihat",
-    "count": 90
+    "count": 158
   },
   {
     "kata": "diluncurkan",
@@ -14881,11 +14881,15 @@ const kamus = [
   },
   {
     "kata": "dimaksud",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "dimaksudkan",
     "count": 12
+  },
+  {
+    "kata": "dimana",
+    "count": 38
   },
   {
     "kata": "dimanfaatkan",
@@ -14893,7 +14897,7 @@ const kamus = [
   },
   {
     "kata": "dimasukkan",
-    "count": 153
+    "count": 182
   },
   {
     "kata": "dimengerti",
@@ -14901,7 +14905,7 @@ const kamus = [
   },
   {
     "kata": "dimensi",
-    "count": 39
+    "count": 44
   },
   {
     "kata": "dimension",
@@ -14913,7 +14917,7 @@ const kamus = [
   },
   {
     "kata": "dimiliki",
-    "count": 90
+    "count": 108
   },
   {
     "kata": "dimilikinya",
@@ -14921,7 +14925,7 @@ const kamus = [
   },
   {
     "kata": "diminta",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "dimodelkan",
@@ -14937,7 +14941,7 @@ const kamus = [
   },
   {
     "kata": "dimulai",
-    "count": 91
+    "count": 102
   },
   {
     "kata": "dimungkinkan",
@@ -14953,7 +14957,7 @@ const kamus = [
   },
   {
     "kata": "dinamis",
-    "count": 93
+    "count": 116
   },
   {
     "kata": "dinamo",
@@ -14969,7 +14973,7 @@ const kamus = [
   },
   {
     "kata": "dinding",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "dingang",
@@ -14981,7 +14985,7 @@ const kamus = [
   },
   {
     "kata": "dini",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "dinilai",
@@ -15017,7 +15021,7 @@ const kamus = [
   },
   {
     "kata": "dioptimalkan",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "dipahami",
@@ -15025,7 +15029,7 @@ const kamus = [
   },
   {
     "kata": "dipakai",
-    "count": 63
+    "count": 115
   },
   {
     "kata": "dipandang",
@@ -15041,7 +15045,7 @@ const kamus = [
   },
   {
     "kata": "dipaparkan",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "dipasang",
@@ -15049,11 +15053,11 @@ const kamus = [
   },
   {
     "kata": "dipastikan",
-    "count": 4
+    "count": 8
   },
   {
     "kata": "dipecah",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "dipecahkan",
@@ -15065,11 +15069,11 @@ const kamus = [
   },
   {
     "kata": "dipelajari",
-    "count": 57
+    "count": 114
   },
   {
     "kata": "dipengaruhi",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "dipenuhi",
@@ -15077,7 +15081,7 @@ const kamus = [
   },
   {
     "kata": "diperbaiki",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "diperbesar",
@@ -15093,11 +15097,11 @@ const kamus = [
   },
   {
     "kata": "diperhatikan",
-    "count": 81
+    "count": 104
   },
   {
     "kata": "diperiksa",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "diperkaya",
@@ -15105,7 +15109,7 @@ const kamus = [
   },
   {
     "kata": "diperkenalkan",
-    "count": 62
+    "count": 80
   },
   {
     "kata": "diperkirakan",
@@ -15117,19 +15121,19 @@ const kamus = [
   },
   {
     "kata": "diperlihatkan",
-    "count": 2
+    "count": 3
   },
   {
     "kata": "diperluas",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "diperlukan",
-    "count": 52
+    "count": 109
   },
   {
     "kata": "diperoleh",
-    "count": 168
+    "count": 197
   },
   {
     "kata": "dipertahankan",
@@ -15137,7 +15141,7 @@ const kamus = [
   },
   {
     "kata": "dipertimbangkan",
-    "count": 83
+    "count": 101
   },
   {
     "kata": "dipesan",
@@ -15145,7 +15149,7 @@ const kamus = [
   },
   {
     "kata": "dipilih",
-    "count": 65
+    "count": 88
   },
   {
     "kata": "dipindahkan",
@@ -15181,7 +15185,7 @@ const kamus = [
   },
   {
     "kata": "diprediksi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "diproduksi",
@@ -15189,7 +15193,7 @@ const kamus = [
   },
   {
     "kata": "diproses",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "diproteksi",
@@ -15205,7 +15209,7 @@ const kamus = [
   },
   {
     "kata": "dirancang",
-    "count": 156
+    "count": 237
   },
   {
     "kata": "dirasa",
@@ -15277,7 +15281,7 @@ const kamus = [
   },
   {
     "kata": "dirilis",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "dirjen",
@@ -15289,7 +15293,7 @@ const kamus = [
   },
   {
     "kata": "dirumuskan",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "disabilitas",
@@ -15301,15 +15305,15 @@ const kamus = [
   },
   {
     "kata": "disajikan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "disampaikan",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "disarankan",
-    "count": 71
+    "count": 90
   },
   {
     "kata": "disatukan",
@@ -15329,7 +15333,7 @@ const kamus = [
   },
   {
     "kata": "disebabkan",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "disebarkan",
@@ -15337,7 +15341,7 @@ const kamus = [
   },
   {
     "kata": "disebut",
-    "count": 150
+    "count": 231
   },
   {
     "kata": "disebutkan",
@@ -15345,7 +15349,7 @@ const kamus = [
   },
   {
     "kata": "disediakan",
-    "count": 45
+    "count": 56
   },
   {
     "kata": "disekrup",
@@ -15353,11 +15357,11 @@ const kamus = [
   },
   {
     "kata": "diselenggarakan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "diselesaikan",
-    "count": 79
+    "count": 97
   },
   {
     "kata": "disembarkasi",
@@ -15373,11 +15377,11 @@ const kamus = [
   },
   {
     "kata": "disemua",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "disengaja",
-    "count": 4
+    "count": 8
   },
   {
     "kata": "disentri",
@@ -15389,7 +15393,7 @@ const kamus = [
   },
   {
     "kata": "diserahkan",
-    "count": 40
+    "count": 51
   },
   {
     "kata": "diserap",
@@ -15417,7 +15421,7 @@ const kamus = [
   },
   {
     "kata": "disiapkan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "disimilasi",
@@ -15425,7 +15429,7 @@ const kamus = [
   },
   {
     "kata": "disimpan",
-    "count": 86
+    "count": 149
   },
   {
     "kata": "disimpulkan",
@@ -15581,7 +15585,7 @@ const kamus = [
   },
   {
     "kata": "distance",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "distilator",
@@ -15601,7 +15605,7 @@ const kamus = [
   },
   {
     "kata": "distribusi",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "distribute",
@@ -15637,19 +15641,19 @@ const kamus = [
   },
   {
     "kata": "disusunlah",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "ditambah",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "ditambahkan",
-    "count": 81
+    "count": 92
   },
   {
     "kata": "ditampilkan",
-    "count": 86
+    "count": 149
   },
   {
     "kata": "ditanam",
@@ -15657,7 +15661,7 @@ const kamus = [
   },
   {
     "kata": "ditandai",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ditangani",
@@ -15665,11 +15669,11 @@ const kamus = [
   },
   {
     "kata": "ditanyakan",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "ditarik",
-    "count": 63
+    "count": 115
   },
   {
     "kata": "ditawarkan",
@@ -15693,19 +15697,19 @@ const kamus = [
   },
   {
     "kata": "ditempatkan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "ditemukan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ditentukan",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "diterapkan",
-    "count": 69
+    "count": 92
   },
   {
     "kata": "diterbitkan",
@@ -15721,11 +15725,11 @@ const kamus = [
   },
   {
     "kata": "ditetapkan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "ditimbulkan",
-    "count": 45
+    "count": 97
   },
   {
     "kata": "ditindih",
@@ -15753,7 +15757,7 @@ const kamus = [
   },
   {
     "kata": "ditulis",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "dituliskan",
@@ -15761,7 +15765,7 @@ const kamus = [
   },
   {
     "kata": "ditunjukkan",
-    "count": 190
+    "count": 271
   },
   {
     "kata": "diturunkan",
@@ -15773,7 +15777,7 @@ const kamus = [
   },
   {
     "kata": "diuji",
-    "count": 52
+    "count": 63
   },
   {
     "kata": "diukur",
@@ -15781,15 +15785,15 @@ const kamus = [
   },
   {
     "kata": "diunduh",
-    "count": 35
+    "count": 46
   },
   {
     "kata": "diunggah",
-    "count": 71
+    "count": 82
   },
   {
     "kata": "diuraikan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "diurutkan",
@@ -15837,7 +15841,7 @@ const kamus = [
   },
   {
     "kata": "dkk",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "doa",
@@ -15849,7 +15853,7 @@ const kamus = [
   },
   {
     "kata": "document",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "documentation",
@@ -15857,7 +15861,7 @@ const kamus = [
   },
   {
     "kata": "dokter",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "doktor",
@@ -15873,7 +15877,7 @@ const kamus = [
   },
   {
     "kata": "dokumen",
-    "count": 94
+    "count": 110
   },
   {
     "kata": "dokumentalis",
@@ -15881,7 +15885,7 @@ const kamus = [
   },
   {
     "kata": "dokumentasi",
-    "count": 162
+    "count": 179
   },
   {
     "kata": "dokumenter",
@@ -15897,7 +15901,7 @@ const kamus = [
   },
   {
     "kata": "domain",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "domba",
@@ -15945,7 +15949,7 @@ const kamus = [
   },
   {
     "kata": "dongeng",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "donor",
@@ -15969,7 +15973,7 @@ const kamus = [
   },
   {
     "kata": "dosen",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "dosis",
@@ -15989,11 +15993,11 @@ const kamus = [
   },
   {
     "kata": "down",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "download",
-    "count": 8
+    "count": 18
   },
   {
     "kata": "doyan",
@@ -16057,11 +16061,11 @@ const kamus = [
   },
   {
     "kata": "driver",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "drop",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "drum",
@@ -16069,7 +16073,7 @@ const kamus = [
   },
   {
     "kata": "dua",
-    "count": 152
+    "count": 220
   },
   {
     "kata": "dua-duanya",
@@ -16097,7 +16101,7 @@ const kamus = [
   },
   {
     "kata": "duduk",
-    "count": 117
+    "count": 226
   },
   {
     "kata": "dudukan",
@@ -16153,7 +16157,7 @@ const kamus = [
   },
   {
     "kata": "dukungan",
-    "count": 85
+    "count": 108
   },
   {
     "kata": "dukungannya",
@@ -16169,7 +16173,7 @@ const kamus = [
   },
   {
     "kata": "dunia",
-    "count": 54
+    "count": 106
   },
   {
     "kata": "duniawi",
@@ -16337,7 +16341,7 @@ const kamus = [
   },
   {
     "kata": "ECMAScript",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "edar",
@@ -16357,11 +16361,11 @@ const kamus = [
   },
   {
     "kata": "edit",
-    "count": 29
+    "count": 39
   },
   {
     "kata": "editor",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "editorial",
@@ -16401,7 +16405,7 @@ const kamus = [
   },
   {
     "kata": "efektif",
-    "count": 92
+    "count": 103
   },
   {
     "kata": "efektifitas",
@@ -16409,7 +16413,7 @@ const kamus = [
   },
   {
     "kata": "efektivitas",
-    "count": 153
+    "count": 211
   },
   {
     "kata": "efektor",
@@ -16417,11 +16421,11 @@ const kamus = [
   },
   {
     "kata": "efisien",
-    "count": 91
+    "count": 102
   },
   {
     "kata": "efisiensi",
-    "count": 171
+    "count": 200
   },
   {
     "kata": "efluen",
@@ -16461,11 +16465,11 @@ const kamus = [
   },
   {
     "kata": "eja",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ejaan",
-    "count": 16
+    "count": 26
   },
   {
     "kata": "ejakulasi",
@@ -16525,7 +16529,7 @@ const kamus = [
   },
   {
     "kata": "ekonomi",
-    "count": 86
+    "count": 109
   },
   {
     "kata": "ekonomis",
@@ -16593,7 +16597,7 @@ const kamus = [
   },
   {
     "kata": "eksekusi",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "eksekutif",
@@ -16621,7 +16625,7 @@ const kamus = [
   },
   {
     "kata": "eksistensi",
-    "count": 59
+    "count": 111
   },
   {
     "kata": "eksistensial",
@@ -16713,7 +16717,7 @@ const kamus = [
   },
   {
     "kata": "eksperimental",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "eksplanasi",
@@ -16749,7 +16753,7 @@ const kamus = [
   },
   {
     "kata": "eksponensial",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ekspor",
@@ -16757,19 +16761,19 @@ const kamus = [
   },
   {
     "kata": "ekspresi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ekspresif",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ekstensi",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "eksternal",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "eksteroseptor",
@@ -16869,11 +16873,11 @@ const kamus = [
   },
   {
     "kata": "elaborasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "elaboration",
-    "count": 42
+    "count": 47
   },
   {
     "kata": "elang",
@@ -16921,7 +16925,7 @@ const kamus = [
   },
   {
     "kata": "elektroda",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "elektrofil",
@@ -16941,7 +16945,7 @@ const kamus = [
   },
   {
     "kata": "elektromekanis",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "elektron",
@@ -16949,11 +16953,11 @@ const kamus = [
   },
   {
     "kata": "elektronik",
-    "count": 59
+    "count": 116
   },
   {
     "kata": "elektronika",
-    "count": 49
+    "count": 106
   },
   {
     "kata": "elektronis",
@@ -16977,7 +16981,7 @@ const kamus = [
   },
   {
     "kata": "elemen",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "elementer",
@@ -17001,7 +17005,7 @@ const kamus = [
   },
   {
     "kata": "email",
-    "count": 79
+    "count": 85
   },
   {
     "kata": "emanometer",
@@ -17085,7 +17089,7 @@ const kamus = [
   },
   {
     "kata": "empat",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "empati",
@@ -17097,7 +17101,7 @@ const kamus = [
   },
   {
     "kata": "empiris",
-    "count": 80
+    "count": 108
   },
   {
     "kata": "emplasemen",
@@ -17233,11 +17237,11 @@ const kamus = [
   },
   {
     "kata": "engine",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "engineering",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "engkau",
@@ -17253,7 +17257,7 @@ const kamus = [
   },
   {
     "kata": "enkripsi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ensefalitogen",
@@ -17313,7 +17317,7 @@ const kamus = [
   },
   {
     "kata": "entitas",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "entity",
@@ -17353,7 +17357,7 @@ const kamus = [
   },
   {
     "kata": "environment",
-    "count": 16
+    "count": 26
   },
   {
     "kata": "enzim",
@@ -17537,7 +17541,7 @@ const kamus = [
   },
   {
     "kata": "error",
-    "count": 138
+    "count": 206
   },
   {
     "kata": "es",
@@ -17570,6 +17574,10 @@ const kamus = [
   {
     "kata": "esoterisme",
     "count": 0
+  },
+  {
+    "kata": "espressif",
+    "count": 9
   },
   {
     "kata": "establishment",
@@ -17745,7 +17753,7 @@ const kamus = [
   },
   {
     "kata": "evaluasi",
-    "count": 159
+    "count": 171
   },
   {
     "kata": "evaluatif",
@@ -17773,7 +17781,7 @@ const kamus = [
   },
   {
     "kata": "eviden",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "evolusi",
@@ -17793,7 +17801,7 @@ const kamus = [
   },
   {
     "kata": "execution",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "exit",
@@ -17805,7 +17813,7 @@ const kamus = [
   },
   {
     "kata": "explorer",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "export",
@@ -17817,7 +17825,7 @@ const kamus = [
   },
   {
     "kata": "extend",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "extended",
@@ -17861,7 +17869,7 @@ const kamus = [
   },
   {
     "kata": "facebook",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "facto",
@@ -17917,11 +17925,11 @@ const kamus = [
   },
   {
     "kata": "fakta",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "faktor",
-    "count": 179
+    "count": 220
   },
   {
     "kata": "faktorial",
@@ -17937,7 +17945,7 @@ const kamus = [
   },
   {
     "kata": "fakultas",
-    "count": 232
+    "count": 313
   },
   {
     "kata": "fakultatif",
@@ -17949,7 +17957,7 @@ const kamus = [
   },
   {
     "kata": "false",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "familiarisasi",
@@ -18025,7 +18033,7 @@ const kamus = [
   },
   {
     "kata": "fase",
-    "count": 74
+    "count": 136
   },
   {
     "kata": "fasid",
@@ -18249,7 +18257,7 @@ const kamus = [
   },
   {
     "kata": "file",
-    "count": 104
+    "count": 115
   },
   {
     "kata": "files",
@@ -18329,7 +18337,7 @@ const kamus = [
   },
   {
     "kata": "final",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "finalis",
@@ -18356,12 +18364,20 @@ const kamus = [
     "count": 0
   },
   {
+    "kata": "firebase",
+    "count": 0
+  },
+  {
     "kata": "firefox",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "firewall",
     "count": 0
+  },
+  {
+    "kata": "firmware",
+    "count": 5
   },
   {
     "kata": "first",
@@ -18405,7 +18421,7 @@ const kamus = [
   },
   {
     "kata": "fisis",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "fiskal",
@@ -18485,7 +18501,7 @@ const kamus = [
   },
   {
     "kata": "fitur",
-    "count": 102
+    "count": 114
   },
   {
     "kata": "flatulensi",
@@ -18493,11 +18509,11 @@ const kamus = [
   },
   {
     "kata": "fleksibel",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "fleksibilitas",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "float",
@@ -18529,15 +18545,15 @@ const kamus = [
   },
   {
     "kata": "flow",
-    "count": 26
+    "count": 31
   },
   {
     "kata": "flowchart",
-    "count": 91
+    "count": 153
   },
   {
     "kata": "flu",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "fluida",
@@ -18613,7 +18629,7 @@ const kamus = [
   },
   {
     "kata": "fokus",
-    "count": 65
+    "count": 122
   },
   {
     "kata": "folat",
@@ -18621,11 +18637,11 @@ const kamus = [
   },
   {
     "kata": "folder",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "folding",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "fondasi",
@@ -18661,7 +18677,7 @@ const kamus = [
   },
   {
     "kata": "for",
-    "count": 85
+    "count": 108
   },
   {
     "kata": "force",
@@ -18681,7 +18697,7 @@ const kamus = [
   },
   {
     "kata": "form",
-    "count": 167
+    "count": 184
   },
   {
     "kata": "formal",
@@ -18697,7 +18713,7 @@ const kamus = [
   },
   {
     "kata": "formalitas",
-    "count": 0
+    "count": 10
   },
   {
     "kata": "formasi",
@@ -18705,7 +18721,7 @@ const kamus = [
   },
   {
     "kata": "format",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "formatif",
@@ -18757,7 +18773,7 @@ const kamus = [
   },
   {
     "kata": "foto",
-    "count": 145
+    "count": 157
   },
   {
     "kata": "fotografer",
@@ -18825,7 +18841,7 @@ const kamus = [
   },
   {
     "kata": "foundation",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "FP",
@@ -18857,7 +18873,7 @@ const kamus = [
   },
   {
     "kata": "framework",
-    "count": 30
+    "count": 40
   },
   {
     "kata": "franca",
@@ -18885,7 +18901,7 @@ const kamus = [
   },
   {
     "kata": "frekuensi",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "frekwensi",
@@ -18905,7 +18921,7 @@ const kamus = [
   },
   {
     "kata": "from",
-    "count": 83
+    "count": 94
   },
   {
     "kata": "front",
@@ -18917,7 +18933,7 @@ const kamus = [
   },
   {
     "kata": "frontend",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "frontogenesis",
@@ -18945,7 +18961,7 @@ const kamus = [
   },
   {
     "kata": "function",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "fundamentalis",
@@ -18957,7 +18973,7 @@ const kamus = [
   },
   {
     "kata": "fungsi",
-    "count": 171
+    "count": 239
   },
   {
     "kata": "fungsinya",
@@ -18965,7 +18981,7 @@ const kamus = [
   },
   {
     "kata": "fungsional",
-    "count": 212
+    "count": 332
   },
   {
     "kata": "fungsionalisasi",
@@ -18973,7 +18989,7 @@ const kamus = [
   },
   {
     "kata": "fungsionalitas",
-    "count": 148
+    "count": 211
   },
   {
     "kata": "fusarium",
@@ -19017,7 +19033,7 @@ const kamus = [
   },
   {
     "kata": "gabungan",
-    "count": 77
+    "count": 100
   },
   {
     "kata": "gabus",
@@ -19069,7 +19085,7 @@ const kamus = [
   },
   {
     "kata": "gagal",
-    "count": 80
+    "count": 91
   },
   {
     "kata": "gagang",
@@ -19077,7 +19093,7 @@ const kamus = [
   },
   {
     "kata": "gagasan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "gagaton",
@@ -19169,11 +19185,11 @@ const kamus = [
   },
   {
     "kata": "gambar",
-    "count": 366
+    "count": 510
   },
   {
     "kata": "gambaran",
-    "count": 230
+    "count": 316
   },
   {
     "kata": "Gambia",
@@ -19237,7 +19253,7 @@ const kamus = [
   },
   {
     "kata": "gangguan",
-    "count": 185
+    "count": 273
   },
   {
     "kata": "ganiometer",
@@ -19421,7 +19437,7 @@ const kamus = [
   },
   {
     "kata": "gaya",
-    "count": 109
+    "count": 213
   },
   {
     "kata": "gaya-gayaan",
@@ -19441,7 +19457,7 @@ const kamus = [
   },
   {
     "kata": "gejala",
-    "count": 140
+    "count": 176
   },
   {
     "kata": "gejolak",
@@ -19581,7 +19597,7 @@ const kamus = [
   },
   {
     "kata": "gelombang",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "gelonggong",
@@ -19689,7 +19705,7 @@ const kamus = [
   },
   {
     "kata": "gemetar",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "gemetaran",
@@ -19809,11 +19825,11 @@ const kamus = [
   },
   {
     "kata": "general",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "generalisasi",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "generasi",
@@ -20157,7 +20173,7 @@ const kamus = [
   },
   {
     "kata": "geser",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "geseran",
@@ -20269,7 +20285,7 @@ const kamus = [
   },
   {
     "kata": "ginjal",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "gips",
@@ -20569,7 +20585,7 @@ const kamus = [
   },
   {
     "kata": "grafik",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "grafika",
@@ -20633,7 +20649,7 @@ const kamus = [
   },
   {
     "kata": "gratis",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "gratisan",
@@ -20769,7 +20785,7 @@ const kamus = [
   },
   {
     "kata": "guna",
-    "count": 86
+    "count": 109
   },
   {
     "kata": "guna-ganah",
@@ -20985,7 +21001,7 @@ const kamus = [
   },
   {
     "kata": "hakim",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "hakul",
@@ -20997,7 +21013,7 @@ const kamus = [
   },
   {
     "kata": "hal",
-    "count": 267
+    "count": 319
   },
   {
     "kata": "halal",
@@ -21005,7 +21021,7 @@ const kamus = [
   },
   {
     "kata": "halaman",
-    "count": 283
+    "count": 409
   },
   {
     "kata": "halangan",
@@ -21025,7 +21041,7 @@ const kamus = [
   },
   {
     "kata": "halnya",
-    "count": 60
+    "count": 112
   },
   {
     "kata": "halo",
@@ -21049,7 +21065,7 @@ const kamus = [
   },
   {
     "kata": "halu",
-    "count": 154
+    "count": 217
   },
   {
     "kata": "haluan",
@@ -21093,7 +21109,7 @@ const kamus = [
   },
   {
     "kata": "hampir",
-    "count": 77
+    "count": 100
   },
   {
     "kata": "hanafi",
@@ -21137,7 +21153,7 @@ const kamus = [
   },
   {
     "kata": "hanya",
-    "count": 219
+    "count": 300
   },
   {
     "kata": "hanyalah",
@@ -21165,7 +21181,7 @@ const kamus = [
   },
   {
     "kata": "hapus",
-    "count": 29
+    "count": 39
   },
   {
     "kata": "harakat",
@@ -21193,7 +21209,7 @@ const kamus = [
   },
   {
     "kata": "hardware",
-    "count": 60
+    "count": 117
   },
   {
     "kata": "harfiah",
@@ -21205,11 +21221,11 @@ const kamus = [
   },
   {
     "kata": "hari",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "harian",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "harimau",
@@ -21269,7 +21285,7 @@ const kamus = [
   },
   {
     "kata": "harus",
-    "count": 146
+    "count": 221
   },
   {
     "kata": "hash",
@@ -21277,11 +21293,11 @@ const kamus = [
   },
   {
     "kata": "hasil",
-    "count": 520
+    "count": 682
   },
   {
     "kata": "hasilnya",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "hasrat",
@@ -21297,7 +21313,7 @@ const kamus = [
   },
   {
     "kata": "hati",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "hati-hati",
@@ -21321,11 +21337,11 @@ const kamus = [
   },
   {
     "kata": "head",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "header",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "heatsink",
@@ -21513,7 +21529,7 @@ const kamus = [
   },
   {
     "kata": "hepatitis",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "hepatologi",
@@ -21633,7 +21649,7 @@ const kamus = [
   },
   {
     "kata": "hewani",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "hias",
@@ -21809,7 +21825,7 @@ const kamus = [
   },
   {
     "kata": "hidup",
-    "count": 68
+    "count": 120
   },
   {
     "kata": "hielofobia",
@@ -21825,7 +21841,7 @@ const kamus = [
   },
   {
     "kata": "hierarkis",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "hierofobia",
@@ -21833,7 +21849,7 @@ const kamus = [
   },
   {
     "kata": "hieroglif",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "hietografi",
@@ -21893,7 +21909,7 @@ const kamus = [
   },
   {
     "kata": "hilangnya",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "hilir",
@@ -21941,7 +21957,7 @@ const kamus = [
   },
   {
     "kata": "hingga",
-    "count": 210
+    "count": 291
   },
   {
     "kata": "hiperaktif",
@@ -22117,7 +22133,7 @@ const kamus = [
   },
   {
     "kata": "hipotesis",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "hipotiroid",
@@ -22201,7 +22217,7 @@ const kamus = [
   },
   {
     "kata": "hitung",
-    "count": 80
+    "count": 98
   },
   {
     "kata": "hitung-hitung",
@@ -22309,7 +22325,7 @@ const kamus = [
   },
   {
     "kata": "horizontal",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "hormat",
@@ -22377,7 +22393,7 @@ const kamus = [
   },
   {
     "kata": "hubungan",
-    "count": 164
+    "count": 227
   },
   {
     "kata": "hujan",
@@ -22409,7 +22425,7 @@ const kamus = [
   },
   {
     "kata": "human",
-    "count": 52
+    "count": 109
   },
   {
     "kata": "humaniora",
@@ -22461,7 +22477,7 @@ const kamus = [
   },
   {
     "kata": "huruf",
-    "count": 9
+    "count": 19
   },
   {
     "kata": "hurufnya",
@@ -22485,11 +22501,11 @@ const kamus = [
   },
   {
     "kata": "hyperlink",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "hypertext",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "i",
@@ -22501,7 +22517,7 @@ const kamus = [
   },
   {
     "kata": "ialah",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "iba",
@@ -22549,7 +22565,7 @@ const kamus = [
   },
   {
     "kata": "ide",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "ideal",
@@ -22573,11 +22589,11 @@ const kamus = [
   },
   {
     "kata": "identifikasi",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "identik",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "identitas",
@@ -22617,7 +22633,7 @@ const kamus = [
   },
   {
     "kata": "ihsan",
-    "count": 54
+    "count": 106
   },
   {
     "kata": "ijab",
@@ -22733,11 +22749,11 @@ const kamus = [
   },
   {
     "kata": "ilmiah",
-    "count": 24
+    "count": 34
   },
   {
     "kata": "ilmu",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "ilmuan",
@@ -22757,7 +22773,7 @@ const kamus = [
   },
   {
     "kata": "ilustrasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ilustratif",
@@ -22809,7 +22825,7 @@ const kamus = [
   },
   {
     "kata": "imbuhan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "imigran",
@@ -22877,7 +22893,7 @@ const kamus = [
   },
   {
     "kata": "implementasi",
-    "count": 481
+    "count": 643
   },
   {
     "kata": "implikasi",
@@ -22989,7 +23005,7 @@ const kamus = [
   },
   {
     "kata": "in",
-    "count": 295
+    "count": 387
   },
   {
     "kata": "inang",
@@ -23009,11 +23025,11 @@ const kamus = [
   },
   {
     "kata": "inception",
-    "count": 42
+    "count": 52
   },
   {
     "kata": "inch",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "inci",
@@ -23021,7 +23037,7 @@ const kamus = [
   },
   {
     "kata": "include",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "indah",
@@ -23029,7 +23045,7 @@ const kamus = [
   },
   {
     "kata": "indeks",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "inden",
@@ -23037,7 +23053,7 @@ const kamus = [
   },
   {
     "kata": "independen",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "independensi",
@@ -23045,7 +23061,7 @@ const kamus = [
   },
   {
     "kata": "index",
-    "count": 11
+    "count": 17
   },
   {
     "kata": "indexing",
@@ -23089,11 +23105,11 @@ const kamus = [
   },
   {
     "kata": "Indonesia",
-    "count": 165
+    "count": 198
   },
   {
     "kata": "Indonesian",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "indra",
@@ -23129,7 +23145,7 @@ const kamus = [
   },
   {
     "kata": "industri",
-    "count": 81
+    "count": 99
   },
   {
     "kata": "industrialisasi",
@@ -23145,11 +23161,11 @@ const kamus = [
   },
   {
     "kata": "infeksi",
-    "count": 76
+    "count": 94
   },
   {
     "kata": "inferensi",
-    "count": 74
+    "count": 92
   },
   {
     "kata": "inferensial",
@@ -23169,7 +23185,7 @@ const kamus = [
   },
   {
     "kata": "influenza",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "info",
@@ -23185,7 +23201,7 @@ const kamus = [
   },
   {
     "kata": "informasi",
-    "count": 366
+    "count": 453
   },
   {
     "kata": "informatif",
@@ -23193,11 +23209,11 @@ const kamus = [
   },
   {
     "kata": "informatika",
-    "count": 287
+    "count": 425
   },
   {
     "kata": "information",
-    "count": 160
+    "count": 177
   },
   {
     "kata": "infra",
@@ -23213,7 +23229,7 @@ const kamus = [
   },
   {
     "kata": "infrastruktur",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "infus",
@@ -23237,11 +23253,11 @@ const kamus = [
   },
   {
     "kata": "Inggris",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "ingin",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "ingkar",
@@ -23265,7 +23281,7 @@ const kamus = [
   },
   {
     "kata": "ini",
-    "count": 255
+    "count": 341
   },
   {
     "kata": "inilah",
@@ -23277,7 +23293,7 @@ const kamus = [
   },
   {
     "kata": "inisialisasi",
-    "count": 68
+    "count": 96
   },
   {
     "kata": "inisiasi",
@@ -23329,7 +23345,7 @@ const kamus = [
   },
   {
     "kata": "inkonsistensi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "inkontinensia",
@@ -23369,7 +23385,7 @@ const kamus = [
   },
   {
     "kata": "input",
-    "count": 94
+    "count": 156
   },
   {
     "kata": "insan",
@@ -23393,7 +23409,7 @@ const kamus = [
   },
   {
     "kata": "insertion",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "insiden",
@@ -23441,7 +23457,7 @@ const kamus = [
   },
   {
     "kata": "instalasi",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "instalatir",
@@ -23457,7 +23473,7 @@ const kamus = [
   },
   {
     "kata": "instansi",
-    "count": 95
+    "count": 101
   },
   {
     "kata": "insting",
@@ -23469,7 +23485,7 @@ const kamus = [
   },
   {
     "kata": "institusi",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "institusional",
@@ -23565,7 +23581,7 @@ const kamus = [
   },
   {
     "kata": "integrasi",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "integrasionis",
@@ -23573,7 +23589,7 @@ const kamus = [
   },
   {
     "kata": "integrated",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "integratif",
@@ -23617,11 +23633,11 @@ const kamus = [
   },
   {
     "kata": "intelligence",
-    "count": 94
+    "count": 112
   },
   {
     "kata": "intelligent",
-    "count": 64
+    "count": 82
   },
   {
     "kata": "intens",
@@ -23649,11 +23665,11 @@ const kamus = [
   },
   {
     "kata": "interaksi",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "interaktif",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "interchange",
@@ -23693,7 +23709,7 @@ const kamus = [
   },
   {
     "kata": "interface",
-    "count": 279
+    "count": 417
   },
   {
     "kata": "interfalangel",
@@ -23749,7 +23765,7 @@ const kamus = [
   },
   {
     "kata": "internet",
-    "count": 150
+    "count": 264
   },
   {
     "kata": "interniran",
@@ -23973,7 +23989,7 @@ const kamus = [
   },
   {
     "kata": "IoT",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "IP",
@@ -24085,7 +24101,7 @@ const kamus = [
   },
   {
     "kata": "isi",
-    "count": 36
+    "count": 45
   },
   {
     "kata": "isian",
@@ -24229,7 +24245,7 @@ const kamus = [
   },
   {
     "kata": "istilah",
-    "count": 33
+    "count": 43
   },
   {
     "kata": "istimewa",
@@ -24241,7 +24257,7 @@ const kamus = [
   },
   {
     "kata": "istirahat",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "istiska",
@@ -24285,11 +24301,11 @@ const kamus = [
   },
   {
     "kata": "iterasi",
-    "count": 26
+    "count": 36
   },
   {
     "kata": "iteratif",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "itik",
@@ -24301,7 +24317,7 @@ const kamus = [
   },
   {
     "kata": "itu",
-    "count": 226
+    "count": 307
   },
   {
     "kata": "itulah",
@@ -24593,7 +24609,7 @@ const kamus = [
   },
   {
     "kata": "jangka",
-    "count": 52
+    "count": 109
   },
   {
     "kata": "jangkar",
@@ -24633,7 +24649,7 @@ const kamus = [
   },
   {
     "kata": "jantung",
-    "count": 52
+    "count": 104
   },
   {
     "kata": "jantungan",
@@ -24649,11 +24665,11 @@ const kamus = [
   },
   {
     "kata": "jarak",
-    "count": 74
+    "count": 136
   },
   {
     "kata": "jarang",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "jarang-jarang",
@@ -24685,7 +24701,7 @@ const kamus = [
   },
   {
     "kata": "jaringan",
-    "count": 70
+    "count": 127
   },
   {
     "kata": "jaro",
@@ -24725,15 +24741,15 @@ const kamus = [
   },
   {
     "kata": "jauh",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "Java",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "JavaScript",
-    "count": 85
+    "count": 101
   },
   {
     "kata": "jawa",
@@ -24741,11 +24757,11 @@ const kamus = [
   },
   {
     "kata": "jawab",
-    "count": 93
+    "count": 111
   },
   {
     "kata": "jawaban",
-    "count": 144
+    "count": 180
   },
   {
     "kata": "jaya",
@@ -24805,7 +24821,7 @@ const kamus = [
   },
   {
     "kata": "jelas",
-    "count": 25
+    "count": 35
   },
   {
     "kata": "jelaskan",
@@ -24905,7 +24921,7 @@ const kamus = [
   },
   {
     "kata": "jenis",
-    "count": 156
+    "count": 219
   },
   {
     "kata": "jenjang",
@@ -24953,7 +24969,7 @@ const kamus = [
   },
   {
     "kata": "Jerman",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "jernang",
@@ -24985,7 +25001,7 @@ const kamus = [
   },
   {
     "kata": "jika",
-    "count": 213
+    "count": 345
   },
   {
     "kata": "jikalau",
@@ -25041,11 +25057,11 @@ const kamus = [
   },
   {
     "kata": "jpeg",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "jpg",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "jQuery",
@@ -25081,11 +25097,11 @@ const kamus = [
   },
   {
     "kata": "judul",
-    "count": 110
+    "count": 126
   },
   {
     "kata": "juga",
-    "count": 218
+    "count": 299
   },
   {
     "kata": "juita",
@@ -25113,7 +25129,7 @@ const kamus = [
   },
   {
     "kata": "juli",
-    "count": 2
+    "count": 3
   },
   {
     "kata": "juling",
@@ -25133,7 +25149,7 @@ const kamus = [
   },
   {
     "kata": "jumlah",
-    "count": 165
+    "count": 240
   },
   {
     "kata": "jumpa",
@@ -25157,7 +25173,7 @@ const kamus = [
   },
   {
     "kata": "juni",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "junior",
@@ -25185,7 +25201,7 @@ const kamus = [
   },
   {
     "kata": "jurnal",
-    "count": 32
+    "count": 42
   },
   {
     "kata": "jurnalis",
@@ -25209,7 +25225,7 @@ const kamus = [
   },
   {
     "kata": "jurusan",
-    "count": 98
+    "count": 121
   },
   {
     "kata": "jus",
@@ -25225,7 +25241,7 @@ const kamus = [
   },
   {
     "kata": "juta",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "jutaan",
@@ -25253,7 +25269,7 @@ const kamus = [
   },
   {
     "kata": "kabel",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "kabin",
@@ -25381,7 +25397,7 @@ const kamus = [
   },
   {
     "kata": "kaidah",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "kail",
@@ -25417,7 +25433,7 @@ const kamus = [
   },
   {
     "kata": "kajian",
-    "count": 82
+    "count": 105
   },
   {
     "kata": "kajur",
@@ -25461,7 +25477,7 @@ const kamus = [
   },
   {
     "kata": "kaki",
-    "count": 181
+    "count": 269
   },
   {
     "kata": "kakofonofilia",
@@ -25537,7 +25553,7 @@ const kamus = [
   },
   {
     "kata": "kali",
-    "count": 145
+    "count": 220
   },
   {
     "kata": "kalian",
@@ -25569,7 +25585,7 @@ const kamus = [
   },
   {
     "kata": "kalimat",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kalimpasingan",
@@ -25729,7 +25745,7 @@ const kamus = [
   },
   {
     "kata": "kamus",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "Kanada",
@@ -25749,7 +25765,7 @@ const kamus = [
   },
   {
     "kata": "kanan",
-    "count": 60
+    "count": 117
   },
   {
     "kata": "kancil",
@@ -25805,7 +25821,7 @@ const kamus = [
   },
   {
     "kata": "kanker",
-    "count": 52
+    "count": 104
   },
   {
     "kata": "kanola",
@@ -25837,7 +25853,7 @@ const kamus = [
   },
   {
     "kata": "kantor",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "kantoran",
@@ -25881,7 +25897,11 @@ const kamus = [
   },
   {
     "kata": "kapasitans",
-    "count": 0
+    "count": 5
+  },
+  {
+    "kata": "kapasitansi",
+    "count": 17
   },
   {
     "kata": "kapasitas",
@@ -25889,11 +25909,11 @@ const kamus = [
   },
   {
     "kata": "kapasitif",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "kapasitor",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "kapi",
@@ -25969,7 +25989,7 @@ const kamus = [
   },
   {
     "kata": "karakter",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "karakterisasi",
@@ -26097,7 +26117,7 @@ const kamus = [
   },
   {
     "kata": "karena",
-    "count": 176
+    "count": 251
   },
   {
     "kata": "karengga",
@@ -26241,7 +26261,7 @@ const kamus = [
   },
   {
     "kata": "karya",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "karyasiswa",
@@ -26249,7 +26269,7 @@ const kamus = [
   },
   {
     "kata": "karyawan",
-    "count": 103
+    "count": 109
   },
   {
     "kata": "karyawati",
@@ -26273,7 +26293,7 @@ const kamus = [
   },
   {
     "kata": "kasar",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "kasasi",
@@ -26305,7 +26325,7 @@ const kamus = [
   },
   {
     "kata": "kasih",
-    "count": 79
+    "count": 97
   },
   {
     "kata": "kasihan",
@@ -26361,7 +26381,7 @@ const kamus = [
   },
   {
     "kata": "kasus",
-    "count": 243
+    "count": 283
   },
   {
     "kata": "kasut",
@@ -26369,7 +26389,7 @@ const kamus = [
   },
   {
     "kata": "kata",
-    "count": 241
+    "count": 327
   },
   {
     "kata": "katagelofobia",
@@ -26433,7 +26453,7 @@ const kamus = [
   },
   {
     "kata": "kategori",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "kategorial",
@@ -26541,7 +26561,7 @@ const kamus = [
   },
   {
     "kata": "kayu",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kayuh",
@@ -26565,7 +26585,7 @@ const kamus = [
   },
   {
     "kata": "ke",
-    "count": 220
+    "count": 301
   },
   {
     "kata": "ke atas",
@@ -26625,7 +26645,7 @@ const kamus = [
   },
   {
     "kata": "keadaan",
-    "count": 71
+    "count": 123
   },
   {
     "kata": "keadilan",
@@ -26673,7 +26693,7 @@ const kamus = [
   },
   {
     "kata": "keakuratan",
-    "count": 210
+    "count": 286
   },
   {
     "kata": "kealkalian",
@@ -26797,7 +26817,7 @@ const kamus = [
   },
   {
     "kata": "kebalikan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "kebanditan",
@@ -26837,7 +26857,7 @@ const kamus = [
   },
   {
     "kata": "kebanyakan",
-    "count": 57
+    "count": 109
   },
   {
     "kata": "kebaruan",
@@ -26869,7 +26889,7 @@ const kamus = [
   },
   {
     "kata": "kebebasan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kebenaran",
@@ -26941,7 +26961,7 @@ const kamus = [
   },
   {
     "kata": "keberhasilan",
-    "count": 79
+    "count": 85
   },
   {
     "kata": "keberkatan",
@@ -26989,7 +27009,7 @@ const kamus = [
   },
   {
     "kata": "kebiasaan",
-    "count": 63
+    "count": 119
   },
   {
     "kata": "kebidanan",
@@ -27105,7 +27125,7 @@ const kamus = [
   },
   {
     "kata": "kebutuhan",
-    "count": 307
+    "count": 399
   },
   {
     "kata": "kecacatan",
@@ -27201,7 +27221,7 @@ const kamus = [
   },
   {
     "kata": "kecerdasan",
-    "count": 97
+    "count": 115
   },
   {
     "kata": "kecerdikan",
@@ -27221,7 +27241,7 @@ const kamus = [
   },
   {
     "kata": "kecerobohan",
-    "count": 0
+    "count": 4
   },
   {
     "kata": "kecewa",
@@ -27237,7 +27257,7 @@ const kamus = [
   },
   {
     "kata": "kecil",
-    "count": 137
+    "count": 212
   },
   {
     "kata": "kecil-kecilan",
@@ -27269,7 +27289,7 @@ const kamus = [
   },
   {
     "kata": "kecocokan",
-    "count": 30
+    "count": 35
   },
   {
     "kata": "kecolongan",
@@ -27353,7 +27373,7 @@ const kamus = [
   },
   {
     "kata": "kedekatan",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "kedelai",
@@ -27429,7 +27449,7 @@ const kamus = [
   },
   {
     "kata": "kedua",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "kedudukan",
@@ -27489,7 +27509,7 @@ const kamus = [
   },
   {
     "kata": "keempat",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "keempat-empatnya",
@@ -27501,7 +27521,7 @@ const kamus = [
   },
   {
     "kata": "keenam",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "keenergian",
@@ -27613,7 +27633,7 @@ const kamus = [
   },
   {
     "kata": "kegiatan",
-    "count": 123
+    "count": 139
   },
   {
     "kata": "kegigihan",
@@ -27653,7 +27673,7 @@ const kamus = [
   },
   {
     "kata": "kegunaan",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "keguncangan",
@@ -27765,7 +27785,7 @@ const kamus = [
   },
   {
     "kata": "kehidupan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "kehijauan",
@@ -27801,7 +27821,7 @@ const kamus = [
   },
   {
     "kata": "keilmuan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "keimanan",
@@ -27893,7 +27913,7 @@ const kamus = [
   },
   {
     "kata": "kejelasan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kejelekan",
@@ -28021,7 +28041,7 @@ const kamus = [
   },
   {
     "kata": "kekeliruan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kekeluargaan",
@@ -28249,7 +28269,7 @@ const kamus = [
   },
   {
     "kata": "kelas",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "kelasi",
@@ -28273,7 +28293,7 @@ const kamus = [
   },
   {
     "kata": "kelayakan",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "kelayakannya",
@@ -28285,7 +28305,7 @@ const kamus = [
   },
   {
     "kata": "kelebihan",
-    "count": 97
+    "count": 113
   },
   {
     "kata": "kelebihannya",
@@ -28313,7 +28333,7 @@ const kamus = [
   },
   {
     "kata": "kelemahan",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "kelembagaan",
@@ -28321,11 +28341,11 @@ const kamus = [
   },
   {
     "kata": "kelembaman",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kelembapan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "kelembekan",
@@ -28421,7 +28441,7 @@ const kamus = [
   },
   {
     "kata": "kelima",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "kelimpahan",
@@ -28501,7 +28521,7 @@ const kamus = [
   },
   {
     "kata": "kelompok",
-    "count": 164
+    "count": 188
   },
   {
     "kata": "kelompokan",
@@ -28541,7 +28561,7 @@ const kamus = [
   },
   {
     "kata": "keluaran",
-    "count": 61
+    "count": 122
   },
   {
     "kata": "keluarbiasaan",
@@ -28609,7 +28629,7 @@ const kamus = [
   },
   {
     "kata": "kemajuan",
-    "count": 60
+    "count": 117
   },
   {
     "kata": "kemakmuran",
@@ -28641,11 +28661,11 @@ const kamus = [
   },
   {
     "kata": "kemampuan",
-    "count": 90
+    "count": 142
   },
   {
     "kata": "kemampuannya",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "kemandekan",
@@ -28737,7 +28757,7 @@ const kamus = [
   },
   {
     "kata": "kematian",
-    "count": 189
+    "count": 277
   },
   {
     "kata": "kemauan",
@@ -28745,7 +28765,7 @@ const kamus = [
   },
   {
     "kata": "kembali",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "kembalian",
@@ -28925,7 +28945,7 @@ const kamus = [
   },
   {
     "kata": "kemiripan",
-    "count": 87
+    "count": 115
   },
   {
     "kata": "kemiskinan",
@@ -28993,7 +29013,7 @@ const kamus = [
   },
   {
     "kata": "kemudahan",
-    "count": 88
+    "count": 94
   },
   {
     "kata": "kemudi",
@@ -29001,7 +29021,7 @@ const kamus = [
   },
   {
     "kata": "kemudian",
-    "count": 291
+    "count": 417
   },
   {
     "kata": "kemunafikan",
@@ -29009,7 +29029,7 @@ const kamus = [
   },
   {
     "kata": "kemunculan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kemunduran",
@@ -29021,7 +29041,7 @@ const kamus = [
   },
   {
     "kata": "kemungkinan",
-    "count": 198
+    "count": 286
   },
   {
     "kata": "kemurkaan",
@@ -29109,7 +29129,7 @@ const kamus = [
   },
   {
     "kata": "kendala",
-    "count": 82
+    "count": 88
   },
   {
     "kata": "kendali",
@@ -29121,7 +29141,7 @@ const kamus = [
   },
   {
     "kata": "kendari",
-    "count": 248
+    "count": 329
   },
   {
     "kata": "kendati",
@@ -29201,7 +29221,7 @@ const kamus = [
   },
   {
     "kata": "kenyamanan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "kenyang",
@@ -29225,7 +29245,7 @@ const kamus = [
   },
   {
     "kata": "kepada",
-    "count": 165
+    "count": 194
   },
   {
     "kata": "kepadatan",
@@ -29245,7 +29265,7 @@ const kamus = [
   },
   {
     "kata": "kepala",
-    "count": 76
+    "count": 82
   },
   {
     "kata": "kepalan",
@@ -29297,7 +29317,7 @@ const kamus = [
   },
   {
     "kata": "keparahan",
-    "count": 112
+    "count": 148
   },
   {
     "kata": "keparipurnaan",
@@ -29313,11 +29333,11 @@ const kamus = [
   },
   {
     "kata": "kepastian",
-    "count": 134
+    "count": 170
   },
   {
     "kata": "kepatuhan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kepatutan",
@@ -29393,7 +29413,7 @@ const kamus = [
   },
   {
     "kata": "kepentingan",
-    "count": 84
+    "count": 107
   },
   {
     "kata": "keperagawanan",
@@ -29409,7 +29429,7 @@ const kamus = [
   },
   {
     "kata": "kepercayaan",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "keperempuanan",
@@ -29521,7 +29541,7 @@ const kamus = [
   },
   {
     "kata": "kepribadian",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "keprigelan",
@@ -29569,7 +29589,7 @@ const kamus = [
   },
   {
     "kata": "keputusan",
-    "count": 256
+    "count": 337
   },
   {
     "kata": "kerabat",
@@ -29657,7 +29677,7 @@ const kamus = [
   },
   {
     "kata": "kerangka",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kerangkang",
@@ -29685,7 +29705,7 @@ const kamus = [
   },
   {
     "kata": "keras",
-    "count": 84
+    "count": 146
   },
   {
     "kata": "kerasukan",
@@ -29869,7 +29889,7 @@ const kamus = [
   },
   {
     "kata": "kerja",
-    "count": 149
+    "count": 224
   },
   {
     "kata": "kerjaan",
@@ -29941,7 +29961,7 @@ const kamus = [
   },
   {
     "kata": "kertas",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kerubungan",
@@ -29953,7 +29973,7 @@ const kamus = [
   },
   {
     "kata": "kerugian",
-    "count": 73
+    "count": 91
   },
   {
     "kata": "keruh",
@@ -30009,7 +30029,7 @@ const kamus = [
   },
   {
     "kata": "kesadaran",
-    "count": 0
+    "count": 4
   },
   {
     "kata": "kesadisan",
@@ -30041,7 +30061,7 @@ const kamus = [
   },
   {
     "kata": "kesalahan",
-    "count": 21
+    "count": 31
   },
   {
     "kata": "kesalahpahaman",
@@ -30113,7 +30133,7 @@ const kamus = [
   },
   {
     "kata": "kesatuan",
-    "count": 57
+    "count": 109
   },
   {
     "kata": "kesayangan",
@@ -30141,7 +30161,7 @@ const kamus = [
   },
   {
     "kata": "kesehatan",
-    "count": 141
+    "count": 216
   },
   {
     "kata": "kesehatian",
@@ -30169,7 +30189,7 @@ const kamus = [
   },
   {
     "kata": "keseluruhan",
-    "count": 112
+    "count": 221
   },
   {
     "kata": "kesembilan",
@@ -30353,7 +30373,7 @@ const kamus = [
   },
   {
     "kata": "kesimpulan",
-    "count": 439
+    "count": 549
   },
   {
     "kata": "kesinambungan",
@@ -30697,7 +30717,7 @@ const kamus = [
   },
   {
     "kata": "ketela",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "keteladanan",
@@ -30709,7 +30729,7 @@ const kamus = [
   },
   {
     "kata": "ketelitian",
-    "count": 29
+    "count": 34
   },
   {
     "kata": "ketempatan",
@@ -30753,7 +30773,7 @@ const kamus = [
   },
   {
     "kata": "ketepatan",
-    "count": 79
+    "count": 102
   },
   {
     "kata": "ketepatgunaan",
@@ -30769,7 +30789,7 @@ const kamus = [
   },
   {
     "kata": "keterangan",
-    "count": 108
+    "count": 136
   },
   {
     "kata": "keteraturan",
@@ -30785,7 +30805,7 @@ const kamus = [
   },
   {
     "kata": "keterbatasan",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "keterbelakangan",
@@ -30825,7 +30845,7 @@ const kamus = [
   },
   {
     "kata": "keterkaitan",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "keterlambatan",
@@ -30913,7 +30933,7 @@ const kamus = [
   },
   {
     "kata": "ketidakcocokan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ketidakhadiran",
@@ -30933,11 +30953,11 @@ const kamus = [
   },
   {
     "kata": "ketidakpastian",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "ketidakpercayaan",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "ketidakpuasan",
@@ -30961,15 +30981,15 @@ const kamus = [
   },
   {
     "kata": "ketiga",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "ketik",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "ketika",
-    "count": 311
+    "count": 403
   },
   {
     "kata": "ketikan",
@@ -31021,7 +31041,7 @@ const kamus = [
   },
   {
     "kata": "ketua",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "ketuan-tuanan",
@@ -31105,7 +31125,7 @@ const kamus = [
   },
   {
     "kata": "keunggulan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "keungu-unguan",
@@ -31121,7 +31141,7 @@ const kamus = [
   },
   {
     "kata": "keuntungan",
-    "count": 35
+    "count": 40
   },
   {
     "kata": "keutamaan",
@@ -31181,11 +31201,11 @@ const kamus = [
   },
   {
     "kata": "keyakinan",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "keyboard",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kg",
@@ -31269,7 +31289,7 @@ const kamus = [
   },
   {
     "kata": "khusus",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "kiah",
@@ -31437,7 +31457,7 @@ const kamus = [
   },
   {
     "kata": "kinerja",
-    "count": 218
+    "count": 299
   },
   {
     "kata": "kinerjanya",
@@ -31501,7 +31521,7 @@ const kamus = [
   },
   {
     "kata": "kiri",
-    "count": 59
+    "count": 116
   },
   {
     "kata": "Kiribati",
@@ -31561,7 +31581,7 @@ const kamus = [
   },
   {
     "kata": "kita",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "kitab",
@@ -31673,11 +31693,11 @@ const kamus = [
   },
   {
     "kata": "klien",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "klik",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "klimaks",
@@ -31761,7 +31781,7 @@ const kamus = [
   },
   {
     "kata": "knuth",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "koagregasi",
@@ -31793,7 +31813,7 @@ const kamus = [
   },
   {
     "kata": "kode",
-    "count": 197
+    "count": 283
   },
   {
     "kata": "kodeterminasi",
@@ -31985,7 +32005,7 @@ const kamus = [
   },
   {
     "kata": "kolom",
-    "count": 76
+    "count": 99
   },
   {
     "kata": "Kolombia",
@@ -32073,7 +32093,7 @@ const kamus = [
   },
   {
     "kata": "kombinasi",
-    "count": 153
+    "count": 199
   },
   {
     "kata": "kombo",
@@ -32181,7 +32201,7 @@ const kamus = [
   },
   {
     "kata": "kompatibel",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kompatibilitas",
@@ -32221,7 +32241,7 @@ const kamus = [
   },
   {
     "kata": "kompilasi",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "kompilator",
@@ -32241,7 +32261,7 @@ const kamus = [
   },
   {
     "kata": "kompleks",
-    "count": 65
+    "count": 117
   },
   {
     "kata": "kompleksifitas",
@@ -32265,7 +32285,7 @@ const kamus = [
   },
   {
     "kata": "komponen",
-    "count": 86
+    "count": 143
   },
   {
     "kata": "kompor",
@@ -32309,7 +32329,7 @@ const kamus = [
   },
   {
     "kata": "komputer",
-    "count": 157
+    "count": 237
   },
   {
     "kata": "komputerfobia",
@@ -32317,7 +32337,7 @@ const kamus = [
   },
   {
     "kata": "komputerisasi",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "komunal",
@@ -32329,7 +32349,7 @@ const kamus = [
   },
   {
     "kata": "komunikasi",
-    "count": 71
+    "count": 128
   },
   {
     "kata": "komunikatif",
@@ -32369,7 +32389,7 @@ const kamus = [
   },
   {
     "kata": "kondisi",
-    "count": 206
+    "count": 294
   },
   {
     "kata": "kondroblas",
@@ -32409,7 +32429,7 @@ const kamus = [
   },
   {
     "kata": "koneksi",
-    "count": 56
+    "count": 108
   },
   {
     "kata": "koneksionisme",
@@ -32421,7 +32441,7 @@ const kamus = [
   },
   {
     "kata": "konektivitas",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "konektor",
@@ -32585,7 +32605,7 @@ const kamus = [
   },
   {
     "kata": "konsep",
-    "count": 78
+    "count": 135
   },
   {
     "kata": "konsepsi",
@@ -32633,11 +32653,11 @@ const kamus = [
   },
   {
     "kata": "konsisten",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "konsistensi",
-    "count": 78
+    "count": 94
   },
   {
     "kata": "konsistometer",
@@ -32721,7 +32741,7 @@ const kamus = [
   },
   {
     "kata": "konstruksi",
-    "count": 28
+    "count": 38
   },
   {
     "kata": "konstruktif",
@@ -32741,7 +32761,7 @@ const kamus = [
   },
   {
     "kata": "konsumen",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "konsumsi",
@@ -32757,7 +32777,7 @@ const kamus = [
   },
   {
     "kata": "kontak",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "kontaktor",
@@ -32777,7 +32797,7 @@ const kamus = [
   },
   {
     "kata": "konteks",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "kontekstual",
@@ -32873,7 +32893,7 @@ const kamus = [
   },
   {
     "kata": "kontrol",
-    "count": 62
+    "count": 114
   },
   {
     "kata": "kontroversi",
@@ -32937,7 +32957,7 @@ const kamus = [
   },
   {
     "kata": "koordinasi",
-    "count": 79
+    "count": 85
   },
   {
     "kata": "koordinat",
@@ -33021,7 +33041,7 @@ const kamus = [
   },
   {
     "kata": "koreksi",
-    "count": 16
+    "count": 26
   },
   {
     "kata": "koreksian",
@@ -33121,7 +33141,7 @@ const kamus = [
   },
   {
     "kata": "kosa",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "kosakata",
@@ -33157,7 +33177,7 @@ const kamus = [
   },
   {
     "kata": "kosong",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "Kosovo",
@@ -33169,7 +33189,7 @@ const kamus = [
   },
   {
     "kata": "kota",
-    "count": 80
+    "count": 86
   },
   {
     "kata": "kota,",
@@ -33177,7 +33197,7 @@ const kamus = [
   },
   {
     "kata": "kotak",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "kotamobagu",
@@ -33193,7 +33213,7 @@ const kamus = [
   },
   {
     "kata": "kotor",
-    "count": 133
+    "count": 169
   },
   {
     "kata": "kotoran",
@@ -33285,11 +33305,11 @@ const kamus = [
   },
   {
     "kata": "kredibilitas",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kredit",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "kreditabel",
@@ -33385,7 +33405,7 @@ const kamus = [
   },
   {
     "kata": "kristal",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "kristalisasi",
@@ -33549,7 +33569,7 @@ const kamus = [
   },
   {
     "kata": "kualitas",
-    "count": 36
+    "count": 40
   },
   {
     "kata": "kualitatif",
@@ -33685,7 +33705,7 @@ const kamus = [
   },
   {
     "kata": "kueri",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "kuesioner",
@@ -33769,7 +33789,7 @@ const kamus = [
   },
   {
     "kata": "kulit",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "kulkas",
@@ -33817,7 +33837,7 @@ const kamus = [
   },
   {
     "kata": "kumpulan",
-    "count": 73
+    "count": 135
   },
   {
     "kata": "kumuh",
@@ -33837,7 +33857,7 @@ const kamus = [
   },
   {
     "kata": "kunci",
-    "count": 184
+    "count": 218
   },
   {
     "kata": "kuncup",
@@ -33853,7 +33873,7 @@ const kamus = [
   },
   {
     "kata": "kuning",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "kunjung",
@@ -33925,11 +33945,11 @@ const kamus = [
   },
   {
     "kata": "kurang",
-    "count": 150
+    "count": 225
   },
   {
     "kata": "kurangnya",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "kurap",
@@ -33977,7 +33997,7 @@ const kamus = [
   },
   {
     "kata": "kursi",
-    "count": 106
+    "count": 220
   },
   {
     "kata": "kursor",
@@ -34009,7 +34029,7 @@ const kamus = [
   },
   {
     "kata": "kusam",
-    "count": 133
+    "count": 169
   },
   {
     "kata": "kusen",
@@ -34033,7 +34053,7 @@ const kamus = [
   },
   {
     "kata": "kutil",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "kutip",
@@ -34041,7 +34061,7 @@ const kamus = [
   },
   {
     "kata": "kutipan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "kutu",
@@ -34129,7 +34149,7 @@ const kamus = [
   },
   {
     "kata": "laboratorium",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "labu",
@@ -34181,7 +34201,7 @@ const kamus = [
   },
   {
     "kata": "lagi",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "lagi-lagi",
@@ -34221,11 +34241,11 @@ const kamus = [
   },
   {
     "kata": "lain",
-    "count": 223
+    "count": 304
   },
   {
     "kata": "lainnya",
-    "count": 78
+    "count": 135
   },
   {
     "kata": "laissez",
@@ -34325,7 +34345,7 @@ const kamus = [
   },
   {
     "kata": "lalu",
-    "count": 74
+    "count": 131
   },
   {
     "kata": "lalu-lalang",
@@ -34333,7 +34353,7 @@ const kamus = [
   },
   {
     "kata": "lama",
-    "count": 76
+    "count": 128
   },
   {
     "kata": "lama-kelamaan",
@@ -34453,7 +34473,7 @@ const kamus = [
   },
   {
     "kata": "landasan",
-    "count": 34
+    "count": 39
   },
   {
     "kata": "landing",
@@ -34501,7 +34521,7 @@ const kamus = [
   },
   {
     "kata": "langkah",
-    "count": 222
+    "count": 296
   },
   {
     "kata": "langkap",
@@ -34509,11 +34529,11 @@ const kamus = [
   },
   {
     "kata": "langsung",
-    "count": 168
+    "count": 197
   },
   {
     "kata": "language",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "languages",
@@ -34521,11 +34541,11 @@ const kamus = [
   },
   {
     "kata": "lanjut",
-    "count": 143
+    "count": 218
   },
   {
     "kata": "lanjutan",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "lanjutnya",
@@ -34605,11 +34625,11 @@ const kamus = [
   },
   {
     "kata": "laporan",
-    "count": 106
+    "count": 117
   },
   {
     "kata": "laptop",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "lapuk",
@@ -34617,7 +34637,7 @@ const kamus = [
   },
   {
     "kata": "laragon",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "larak",
@@ -34717,7 +34737,7 @@ const kamus = [
   },
   {
     "kata": "latar",
-    "count": 54
+    "count": 64
   },
   {
     "kata": "lateks",
@@ -34761,7 +34781,7 @@ const kamus = [
   },
   {
     "kata": "laut",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "lautan",
@@ -34833,7 +34853,7 @@ const kamus = [
   },
   {
     "kata": "layar",
-    "count": 82
+    "count": 93
   },
   {
     "kata": "layer",
@@ -34885,7 +34905,7 @@ const kamus = [
   },
   {
     "kata": "lebih",
-    "count": 227
+    "count": 308
   },
   {
     "kata": "lebih-lebih",
@@ -34949,7 +34969,7 @@ const kamus = [
   },
   {
     "kata": "legislasi",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "legislatif",
@@ -35017,7 +35037,7 @@ const kamus = [
   },
   {
     "kata": "lelah",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "lelaki",
@@ -35057,7 +35077,7 @@ const kamus = [
   },
   {
     "kata": "lemah",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "lemak",
@@ -35077,7 +35097,7 @@ const kamus = [
   },
   {
     "kata": "lembaga",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "lembam",
@@ -35173,7 +35193,7 @@ const kamus = [
   },
   {
     "kata": "lengkap",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "lengkeng",
@@ -35261,7 +35281,7 @@ const kamus = [
   },
   {
     "kata": "lepuh",
-    "count": 56
+    "count": 74
   },
   {
     "kata": "lerak",
@@ -35349,7 +35369,7 @@ const kamus = [
   },
   {
     "kata": "levenshtein",
-    "count": 16
+    "count": 26
   },
   {
     "kata": "leveransir",
@@ -35429,7 +35449,7 @@ const kamus = [
   },
   {
     "kata": "library",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "librasi",
@@ -35449,7 +35469,7 @@ const kamus = [
   },
   {
     "kata": "license",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "licik",
@@ -35481,7 +35501,7 @@ const kamus = [
   },
   {
     "kata": "lihat",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "likantropi",
@@ -35565,7 +35585,7 @@ const kamus = [
   },
   {
     "kata": "limit",
-    "count": 110
+    "count": 214
   },
   {
     "kata": "limitatif",
@@ -35609,7 +35629,7 @@ const kamus = [
   },
   {
     "kata": "line",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "linear",
@@ -35637,11 +35657,11 @@ const kamus = [
   },
   {
     "kata": "lingkungan",
-    "count": 145
+    "count": 186
   },
   {
     "kata": "lingkup",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "linglung",
@@ -35653,7 +35673,7 @@ const kamus = [
   },
   {
     "kata": "linguistik",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "lini",
@@ -35681,7 +35701,7 @@ const kamus = [
   },
   {
     "kata": "lintas",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "lintasan",
@@ -35689,7 +35709,7 @@ const kamus = [
   },
   {
     "kata": "linux",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "liofob",
@@ -35749,7 +35769,7 @@ const kamus = [
   },
   {
     "kata": "lisensi",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "list",
@@ -35757,7 +35777,7 @@ const kamus = [
   },
   {
     "kata": "listrik",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "litbang",
@@ -35777,7 +35797,7 @@ const kamus = [
   },
   {
     "kata": "literatur",
-    "count": 33
+    "count": 38
   },
   {
     "kata": "litifikasi",
@@ -35865,15 +35885,15 @@ const kamus = [
   },
   {
     "kata": "logika",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "login",
-    "count": 246
+    "count": 320
   },
   {
     "kata": "logis",
-    "count": 12
+    "count": 22
   },
   {
     "kata": "logistik",
@@ -35921,7 +35941,7 @@ const kamus = [
   },
   {
     "kata": "lokasi",
-    "count": 86
+    "count": 92
   },
   {
     "kata": "lokatif",
@@ -36013,7 +36033,7 @@ const kamus = [
   },
   {
     "kata": "lookup",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "loron",
@@ -36053,7 +36073,7 @@ const kamus = [
   },
   {
     "kata": "Lua",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "luah",
@@ -36073,7 +36093,7 @@ const kamus = [
   },
   {
     "kata": "luar",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "luaran",
@@ -36081,7 +36101,7 @@ const kamus = [
   },
   {
     "kata": "luas",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "luasan",
@@ -36117,7 +36137,7 @@ const kamus = [
   },
   {
     "kata": "lugas",
-    "count": 0
+    "count": 10
   },
   {
     "kata": "lugu",
@@ -36189,7 +36209,7 @@ const kamus = [
   },
   {
     "kata": "lunak",
-    "count": 165
+    "count": 233
   },
   {
     "kata": "lunas",
@@ -36325,7 +36345,7 @@ const kamus = [
   },
   {
     "kata": "macam",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "macam-macam",
@@ -36465,7 +36485,7 @@ const kamus = [
   },
   {
     "kata": "mahasiswa",
-    "count": 34
+    "count": 38
   },
   {
     "kata": "mahasiswi",
@@ -36561,7 +36581,7 @@ const kamus = [
   },
   {
     "kata": "maka",
-    "count": 272
+    "count": 410
   },
   {
     "kata": "makadasang",
@@ -36577,7 +36597,7 @@ const kamus = [
   },
   {
     "kata": "makan",
-    "count": 210
+    "count": 298
   },
   {
     "kata": "makan-makanan",
@@ -36613,7 +36633,7 @@ const kamus = [
   },
   {
     "kata": "makin",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "makkah",
@@ -36629,7 +36649,7 @@ const kamus = [
   },
   {
     "kata": "makna",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "maknawi",
@@ -36697,11 +36717,11 @@ const kamus = [
   },
   {
     "kata": "maksimal",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "maksimum",
-    "count": 72
+    "count": 83
   },
   {
     "kata": "maksomania",
@@ -36869,11 +36889,11 @@ const kamus = [
   },
   {
     "kata": "mampu",
-    "count": 160
+    "count": 223
   },
   {
     "kata": "mana",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "Manado",
@@ -36881,7 +36901,7 @@ const kamus = [
   },
   {
     "kata": "management",
-    "count": 116
+    "count": 127
   },
   {
     "kata": "manager",
@@ -36889,7 +36909,7 @@ const kamus = [
   },
   {
     "kata": "manajemen",
-    "count": 182
+    "count": 194
   },
   {
     "kata": "manajer",
@@ -36945,7 +36965,7 @@ const kamus = [
   },
   {
     "kata": "mandiri",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "mandor",
@@ -36957,7 +36977,7 @@ const kamus = [
   },
   {
     "kata": "manfaat",
-    "count": 98
+    "count": 160
   },
   {
     "kata": "mangga",
@@ -37025,7 +37045,7 @@ const kamus = [
   },
   {
     "kata": "manipulasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "manipulatif",
@@ -37077,7 +37097,7 @@ const kamus = [
   },
   {
     "kata": "manual",
-    "count": 114
+    "count": 125
   },
   {
     "kata": "manufacture",
@@ -37105,7 +37125,7 @@ const kamus = [
   },
   {
     "kata": "manusia",
-    "count": 148
+    "count": 223
   },
   {
     "kata": "manusiawi",
@@ -37141,7 +37161,7 @@ const kamus = [
   },
   {
     "kata": "maret",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "marga",
@@ -37169,7 +37189,7 @@ const kamus = [
   },
   {
     "kata": "mari",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "MariaDB",
@@ -37213,7 +37233,7 @@ const kamus = [
   },
   {
     "kata": "markup",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "marmet",
@@ -37265,7 +37285,7 @@ const kamus = [
   },
   {
     "kata": "masalah",
-    "count": 174
+    "count": 254
   },
   {
     "kata": "masam",
@@ -37277,7 +37297,7 @@ const kamus = [
   },
   {
     "kata": "masehi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "masif",
@@ -37285,7 +37305,7 @@ const kamus = [
   },
   {
     "kata": "masih",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "masing-masing",
@@ -37365,11 +37385,11 @@ const kamus = [
   },
   {
     "kata": "masuk",
-    "count": 216
+    "count": 285
   },
   {
     "kata": "masukan",
-    "count": 37
+    "count": 42
   },
   {
     "kata": "masyaallah",
@@ -37377,7 +37397,7 @@ const kamus = [
   },
   {
     "kata": "masyarakat",
-    "count": 87
+    "count": 110
   },
   {
     "kata": "masyarilharam",
@@ -37385,7 +37405,7 @@ const kamus = [
   },
   {
     "kata": "mata",
-    "count": 137
+    "count": 173
   },
   {
     "kata": "matahari",
@@ -37401,7 +37421,7 @@ const kamus = [
   },
   {
     "kata": "matching",
-    "count": 47
+    "count": 57
   },
   {
     "kata": "matematika",
@@ -37469,7 +37489,7 @@ const kamus = [
   },
   {
     "kata": "matriks",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "matrilokal",
@@ -37477,7 +37497,7 @@ const kamus = [
   },
   {
     "kata": "matrix",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "mau",
@@ -37497,7 +37517,7 @@ const kamus = [
   },
   {
     "kata": "maupun",
-    "count": 99
+    "count": 110
   },
   {
     "kata": "Mauritania",
@@ -37545,7 +37565,7 @@ const kamus = [
   },
   {
     "kata": "mayor",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mayoritas",
@@ -37585,7 +37605,7 @@ const kamus = [
   },
   {
     "kata": "media",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "mediasi",
@@ -37605,7 +37625,7 @@ const kamus = [
   },
   {
     "kata": "medium",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "medsos",
@@ -37665,7 +37685,7 @@ const kamus = [
   },
   {
     "kata": "mei",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "meja",
@@ -37681,7 +37701,7 @@ const kamus = [
   },
   {
     "kata": "mekanika",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "mekanis",
@@ -37705,7 +37725,7 @@ const kamus = [
   },
   {
     "kata": "Mekatronika",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mekdikbud",
@@ -37793,11 +37813,11 @@ const kamus = [
   },
   {
     "kata": "melaksanakan",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "melakukan",
-    "count": 223
+    "count": 309
   },
   {
     "kata": "melakurkan",
@@ -37809,7 +37829,7 @@ const kamus = [
   },
   {
     "kata": "melalui",
-    "count": 212
+    "count": 293
   },
   {
     "kata": "melamar",
@@ -37925,7 +37945,7 @@ const kamus = [
   },
   {
     "kata": "melanjutkan",
-    "count": 0
+    "count": 10
   },
   {
     "kata": "melankolia",
@@ -38381,7 +38401,7 @@ const kamus = [
   },
   {
     "kata": "melewati",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "melewatkan",
@@ -38393,7 +38413,7 @@ const kamus = [
   },
   {
     "kata": "melibatkan",
-    "count": 77
+    "count": 134
   },
   {
     "kata": "meliburkan",
@@ -38409,7 +38429,7 @@ const kamus = [
   },
   {
     "kata": "melihat",
-    "count": 171
+    "count": 200
   },
   {
     "kata": "melihat-lihat",
@@ -38497,7 +38517,7 @@ const kamus = [
   },
   {
     "kata": "meliputi",
-    "count": 99
+    "count": 110
   },
   {
     "kata": "melirik",
@@ -38749,7 +38769,7 @@ const kamus = [
   },
   {
     "kata": "memahami",
-    "count": 94
+    "count": 117
   },
   {
     "kata": "memahamkan",
@@ -38769,7 +38789,7 @@ const kamus = [
   },
   {
     "kata": "memainkan",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "memajalkan",
@@ -38785,7 +38805,7 @@ const kamus = [
   },
   {
     "kata": "memakai",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "memakaikan",
@@ -38797,7 +38817,7 @@ const kamus = [
   },
   {
     "kata": "memakan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "memakankan",
@@ -38837,7 +38857,7 @@ const kamus = [
   },
   {
     "kata": "memaksakan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "memaksimalkan",
@@ -38925,7 +38945,7 @@ const kamus = [
   },
   {
     "kata": "memanfaatkan",
-    "count": 96
+    "count": 119
   },
   {
     "kata": "memang",
@@ -38937,7 +38957,7 @@ const kamus = [
   },
   {
     "kata": "memanggil",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "memanggung",
@@ -38985,7 +39005,7 @@ const kamus = [
   },
   {
     "kata": "memantau",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "memantul",
@@ -39061,15 +39081,15 @@ const kamus = [
   },
   {
     "kata": "memastikan",
-    "count": 156
+    "count": 185
   },
   {
     "kata": "memasuki",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "memasukkan",
-    "count": 143
+    "count": 211
   },
   {
     "kata": "memata-matai",
@@ -39093,7 +39113,7 @@ const kamus = [
   },
   {
     "kata": "mematikan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "mematokkan",
@@ -39125,7 +39145,7 @@ const kamus = [
   },
   {
     "kata": "membaca",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "membacakan",
@@ -39153,7 +39173,7 @@ const kamus = [
   },
   {
     "kata": "membahas",
-    "count": 90
+    "count": 101
   },
   {
     "kata": "membahayakan",
@@ -39205,7 +39225,7 @@ const kamus = [
   },
   {
     "kata": "membandingkan",
-    "count": 71
+    "count": 128
   },
   {
     "kata": "membanggakan",
@@ -39225,7 +39245,7 @@ const kamus = [
   },
   {
     "kata": "membangun",
-    "count": 81
+    "count": 138
   },
   {
     "kata": "membanjiri",
@@ -39249,7 +39269,7 @@ const kamus = [
   },
   {
     "kata": "membantu",
-    "count": 229
+    "count": 310
   },
   {
     "kata": "membantuni",
@@ -39349,7 +39369,7 @@ const kamus = [
   },
   {
     "kata": "membedakan",
-    "count": 83
+    "count": 94
   },
   {
     "kata": "membekali",
@@ -39501,7 +39521,7 @@ const kamus = [
   },
   {
     "kata": "membentuk",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "memberakan",
@@ -39529,15 +39549,15 @@ const kamus = [
   },
   {
     "kata": "memberi",
-    "count": 130
+    "count": 200
   },
   {
     "kata": "memberikan",
-    "count": 297
+    "count": 384
   },
   {
     "kata": "memberitahukan",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "memberitakan",
@@ -39561,7 +39581,7 @@ const kamus = [
   },
   {
     "kata": "membersihkan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "membesar",
@@ -39729,7 +39749,7 @@ const kamus = [
   },
   {
     "kata": "membuat",
-    "count": 294
+    "count": 386
   },
   {
     "kata": "membuatkan",
@@ -39737,7 +39757,7 @@ const kamus = [
   },
   {
     "kata": "membuatnya",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "membubarkan",
@@ -39853,15 +39873,15 @@ const kamus = [
   },
   {
     "kata": "membutuhkan",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "memecah",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "memecahkan",
-    "count": 71
+    "count": 123
   },
   {
     "kata": "memecakkan",
@@ -39989,7 +40009,7 @@ const kamus = [
   },
   {
     "kata": "memenuhi",
-    "count": 34
+    "count": 39
   },
   {
     "kata": "memepetkan",
@@ -40057,7 +40077,7 @@ const kamus = [
   },
   {
     "kata": "memeriksa",
-    "count": 10
+    "count": 20
   },
   {
     "kata": "memeriksai",
@@ -40093,7 +40113,7 @@ const kamus = [
   },
   {
     "kata": "memerlukan",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "memersepsikan",
@@ -40189,7 +40209,7 @@ const kamus = [
   },
   {
     "kata": "memfasilitasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "memfavoritkan",
@@ -40321,7 +40341,7 @@ const kamus = [
   },
   {
     "kata": "memilih",
-    "count": 259
+    "count": 311
   },
   {
     "kata": "memilih-milih",
@@ -40333,7 +40353,7 @@ const kamus = [
   },
   {
     "kata": "memiliki",
-    "count": 284
+    "count": 417
   },
   {
     "kata": "memilin-milin",
@@ -40357,7 +40377,7 @@ const kamus = [
   },
   {
     "kata": "memindahkan",
-    "count": 70
+    "count": 93
   },
   {
     "kata": "memindai",
@@ -40433,7 +40453,7 @@ const kamus = [
   },
   {
     "kata": "memisahkan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "memisalkan",
@@ -40453,7 +40473,7 @@ const kamus = [
   },
   {
     "kata": "memodelkan",
-    "count": 93
+    "count": 99
   },
   {
     "kata": "memodernisasi",
@@ -40505,7 +40525,7 @@ const kamus = [
   },
   {
     "kata": "memonitor",
-    "count": 72
+    "count": 124
   },
   {
     "kata": "memonitori",
@@ -40533,7 +40553,7 @@ const kamus = [
   },
   {
     "kata": "memori",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "memorisasi",
@@ -40541,7 +40561,7 @@ const kamus = [
   },
   {
     "kata": "memory",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "memosisikan",
@@ -40585,7 +40605,7 @@ const kamus = [
   },
   {
     "kata": "mempengaruhi",
-    "count": 62
+    "count": 119
   },
   {
     "kata": "memperadabkan",
@@ -40641,7 +40661,7 @@ const kamus = [
   },
   {
     "kata": "memperbaiki",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "memperbanyak",
@@ -40649,7 +40669,7 @@ const kamus = [
   },
   {
     "kata": "memperbarui",
-    "count": 1
+    "count": 2
   },
   {
     "kata": "memperbaurkan",
@@ -40697,7 +40717,7 @@ const kamus = [
   },
   {
     "kata": "mempercepat",
-    "count": 89
+    "count": 100
   },
   {
     "kata": "mempercumakan",
@@ -40785,11 +40805,11 @@ const kamus = [
   },
   {
     "kata": "memperhatikan",
-    "count": 123
+    "count": 186
   },
   {
     "kata": "memperhitungkan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "memperikut",
@@ -40945,7 +40965,7 @@ const kamus = [
   },
   {
     "kata": "memperlihatkan",
-    "count": 39
+    "count": 44
   },
   {
     "kata": "memperlonggar",
@@ -40953,7 +40973,7 @@ const kamus = [
   },
   {
     "kata": "memperluas",
-    "count": 59
+    "count": 116
   },
   {
     "kata": "memperlurus",
@@ -40985,7 +41005,7 @@ const kamus = [
   },
   {
     "kata": "mempermudah",
-    "count": 151
+    "count": 214
   },
   {
     "kata": "mempermurah",
@@ -40997,7 +41017,7 @@ const kamus = [
   },
   {
     "kata": "memperoleh",
-    "count": 30
+    "count": 35
   },
   {
     "kata": "memperpadukan",
@@ -41005,7 +41025,7 @@ const kamus = [
   },
   {
     "kata": "memperpanjang",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "memperparah",
@@ -41045,7 +41065,7 @@ const kamus = [
   },
   {
     "kata": "mempersiapkan",
-    "count": 7
+    "count": 8
   },
   {
     "kata": "mempersilakan",
@@ -41057,7 +41077,7 @@ const kamus = [
   },
   {
     "kata": "mempersingkat",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "mempersisipkan",
@@ -41133,7 +41153,7 @@ const kamus = [
   },
   {
     "kata": "mempertimbangkan",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "mempertuan",
@@ -41285,7 +41305,7 @@ const kamus = [
   },
   {
     "kata": "mempunyai",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "memuai",
@@ -41301,7 +41321,7 @@ const kamus = [
   },
   {
     "kata": "memuat",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "memublikasikan",
@@ -41309,7 +41329,7 @@ const kamus = [
   },
   {
     "kata": "memudahkan",
-    "count": 86
+    "count": 97
   },
   {
     "kata": "memudar",
@@ -41365,7 +41385,7 @@ const kamus = [
   },
   {
     "kata": "memulai",
-    "count": 3
+    "count": 4
   },
   {
     "kata": "memulangkan",
@@ -41385,7 +41405,7 @@ const kamus = [
   },
   {
     "kata": "memulihkan",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "memulun-mulun",
@@ -41401,7 +41421,7 @@ const kamus = [
   },
   {
     "kata": "memunculkan",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "memundi-mundi",
@@ -41433,7 +41453,7 @@ const kamus = [
   },
   {
     "kata": "memungkinkan",
-    "count": 65
+    "count": 122
   },
   {
     "kata": "memungkiri",
@@ -41545,7 +41565,7 @@ const kamus = [
   },
   {
     "kata": "memutuskan",
-    "count": 67
+    "count": 119
   },
   {
     "kata": "memvaksin",
@@ -41557,7 +41577,7 @@ const kamus = [
   },
   {
     "kata": "memvalidasi",
-    "count": 79
+    "count": 90
   },
   {
     "kata": "memvariasikan",
@@ -41565,7 +41585,7 @@ const kamus = [
   },
   {
     "kata": "memverifikasi",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "memvideokan",
@@ -41581,7 +41601,7 @@ const kamus = [
   },
   {
     "kata": "memvisualisasikan",
-    "count": 79
+    "count": 90
   },
   {
     "kata": "memvisualkan",
@@ -41645,7 +41665,7 @@ const kamus = [
   },
   {
     "kata": "menafsirkan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "menagak-nagak",
@@ -41749,7 +41769,7 @@ const kamus = [
   },
   {
     "kata": "menambah",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "menambahi",
@@ -41757,7 +41777,7 @@ const kamus = [
   },
   {
     "kata": "menambahkan",
-    "count": 211
+    "count": 276
   },
   {
     "kata": "menambal",
@@ -41781,11 +41801,11 @@ const kamus = [
   },
   {
     "kata": "menampilkan",
-    "count": 294
+    "count": 381
   },
   {
     "kata": "menampung",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menanam",
@@ -41797,7 +41817,7 @@ const kamus = [
   },
   {
     "kata": "menanamkan",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "menanarkan",
@@ -41813,7 +41833,7 @@ const kamus = [
   },
   {
     "kata": "menandakan",
-    "count": 88
+    "count": 116
   },
   {
     "kata": "menandangi",
@@ -41833,7 +41853,7 @@ const kamus = [
   },
   {
     "kata": "menangani",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "menanggali",
@@ -41845,7 +41865,7 @@ const kamus = [
   },
   {
     "kata": "menanggapi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menangguhkan",
@@ -41901,7 +41921,7 @@ const kamus = [
   },
   {
     "kata": "menanyai",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "menanyakan",
@@ -41949,7 +41969,7 @@ const kamus = [
   },
   {
     "kata": "menaruh",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menaruhkan",
@@ -42005,7 +42025,7 @@ const kamus = [
   },
   {
     "kata": "menawarkan",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "menayangkan",
@@ -42057,7 +42077,7 @@ const kamus = [
   },
   {
     "kata": "mencakup",
-    "count": 145
+    "count": 208
   },
   {
     "kata": "mencakupi",
@@ -42133,11 +42153,11 @@ const kamus = [
   },
   {
     "kata": "mencapai",
-    "count": 78
+    "count": 135
   },
   {
     "kata": "mencari",
-    "count": 85
+    "count": 96
   },
   {
     "kata": "mencari-cari",
@@ -42149,7 +42169,7 @@ const kamus = [
   },
   {
     "kata": "mencatat",
-    "count": 148
+    "count": 172
   },
   {
     "kata": "mencatut",
@@ -42161,7 +42181,7 @@ const kamus = [
   },
   {
     "kata": "mencegah",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "mencekcoki",
@@ -42333,7 +42353,7 @@ const kamus = [
   },
   {
     "kata": "mencetak",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "mencetus",
@@ -42365,7 +42385,7 @@ const kamus = [
   },
   {
     "kata": "menciptakan",
-    "count": 78
+    "count": 89
   },
   {
     "kata": "mencirikan",
@@ -42397,7 +42417,7 @@ const kamus = [
   },
   {
     "kata": "mencoba",
-    "count": 81
+    "count": 104
   },
   {
     "kata": "mencoba-coba",
@@ -42413,7 +42433,7 @@ const kamus = [
   },
   {
     "kata": "mencocokkan",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "mencocor",
@@ -42533,7 +42553,7 @@ const kamus = [
   },
   {
     "kata": "mendadak",
-    "count": 133
+    "count": 169
   },
   {
     "kata": "mendaftar",
@@ -42633,7 +42653,7 @@ const kamus = [
   },
   {
     "kata": "mendapatkan",
-    "count": 143
+    "count": 218
   },
   {
     "kata": "mendarat",
@@ -42801,7 +42821,7 @@ const kamus = [
   },
   {
     "kata": "mendesain",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "mendesak",
@@ -42809,7 +42829,7 @@ const kamus = [
   },
   {
     "kata": "mendeskripsikan",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "mendetail",
@@ -42821,7 +42841,7 @@ const kamus = [
   },
   {
     "kata": "mendeteksi",
-    "count": 70
+    "count": 127
   },
   {
     "kata": "mendewakan",
@@ -42829,7 +42849,7 @@ const kamus = [
   },
   {
     "kata": "mendiagnosa",
-    "count": 63
+    "count": 81
   },
   {
     "kata": "mendiagnosis",
@@ -42937,7 +42957,7 @@ const kamus = [
   },
   {
     "kata": "mendokumentasikan",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "mendominasi",
@@ -42989,7 +43009,7 @@ const kamus = [
   },
   {
     "kata": "mendorong",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "mendua",
@@ -43013,7 +43033,7 @@ const kamus = [
   },
   {
     "kata": "mendukung",
-    "count": 88
+    "count": 145
   },
   {
     "kata": "mendunia",
@@ -43109,11 +43129,11 @@ const kamus = [
   },
   {
     "kata": "menekan",
-    "count": 161
+    "count": 183
   },
   {
     "kata": "menekankan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menekapkan",
@@ -43221,7 +43241,7 @@ const kamus = [
   },
   {
     "kata": "menemukan",
-    "count": 64
+    "count": 121
   },
   {
     "kata": "menenangkan",
@@ -43245,7 +43265,7 @@ const kamus = [
   },
   {
     "kata": "menengah",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "menengahi",
@@ -43297,7 +43317,7 @@ const kamus = [
   },
   {
     "kata": "menentukan",
-    "count": 192
+    "count": 226
   },
   {
     "kata": "menepak-nepak",
@@ -43337,7 +43357,7 @@ const kamus = [
   },
   {
     "kata": "menerapkan",
-    "count": 143
+    "count": 218
   },
   {
     "kata": "menerawang",
@@ -43405,7 +43425,7 @@ const kamus = [
   },
   {
     "kata": "menerus",
-    "count": 55
+    "count": 107
   },
   {
     "kata": "meneruskan",
@@ -43429,7 +43449,7 @@ const kamus = [
   },
   {
     "kata": "menetapkan",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "menetaskan",
@@ -43457,7 +43477,7 @@ const kamus = [
   },
   {
     "kata": "mengabaikan",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "mengabari",
@@ -43509,7 +43529,7 @@ const kamus = [
   },
   {
     "kata": "mengacu",
-    "count": 17
+    "count": 22
   },
   {
     "kata": "mengacukan",
@@ -43537,7 +43557,7 @@ const kamus = [
   },
   {
     "kata": "mengadopsi",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "mengadsorpsi",
@@ -43681,7 +43701,7 @@ const kamus = [
   },
   {
     "kata": "mengakses",
-    "count": 73
+    "count": 130
   },
   {
     "kata": "mengaksesnya",
@@ -43725,7 +43745,7 @@ const kamus = [
   },
   {
     "kata": "mengalami",
-    "count": 188
+    "count": 281
   },
   {
     "kata": "mengalangi",
@@ -43809,7 +43829,7 @@ const kamus = [
   },
   {
     "kata": "mengambil",
-    "count": 24
+    "count": 29
   },
   {
     "kata": "mengambili",
@@ -43845,11 +43865,11 @@ const kamus = [
   },
   {
     "kata": "menganalisa",
-    "count": 62
+    "count": 80
   },
   {
     "kata": "menganalisis",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "menganalogikan",
@@ -43881,7 +43901,7 @@ const kamus = [
   },
   {
     "kata": "mengandung",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "mengangeni",
@@ -44081,7 +44101,7 @@ const kamus = [
   },
   {
     "kata": "mengarah",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "mengarahkan",
@@ -44105,7 +44125,7 @@ const kamus = [
   },
   {
     "kata": "mengarsipkan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "mengartikan",
@@ -44173,7 +44193,7 @@ const kamus = [
   },
   {
     "kata": "mengatasi",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "mengatasnamakan",
@@ -44185,7 +44205,7 @@ const kamus = [
   },
   {
     "kata": "mengatur",
-    "count": 62
+    "count": 120
   },
   {
     "kata": "mengaulkan",
@@ -44217,7 +44237,7 @@ const kamus = [
   },
   {
     "kata": "mengecek",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "mengecil",
@@ -44241,7 +44261,7 @@ const kamus = [
   },
   {
     "kata": "mengecualikan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mengedarkan",
@@ -44257,7 +44277,7 @@ const kamus = [
   },
   {
     "kata": "mengedit",
-    "count": 73
+    "count": 84
   },
   {
     "kata": "mengefektifkan",
@@ -44317,7 +44337,7 @@ const kamus = [
   },
   {
     "kata": "mengekstrak",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "mengekstraksi",
@@ -44393,11 +44413,11 @@ const kamus = [
   },
   {
     "kata": "mengelola",
-    "count": 88
+    "count": 99
   },
   {
     "kata": "mengelompokkan",
-    "count": 37
+    "count": 43
   },
   {
     "kata": "mengelopak",
@@ -44445,7 +44465,7 @@ const kamus = [
   },
   {
     "kata": "mengembalikan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mengemban",
@@ -44457,7 +44477,7 @@ const kamus = [
   },
   {
     "kata": "mengembangkan",
-    "count": 107
+    "count": 118
   },
   {
     "kata": "mengembara",
@@ -44525,7 +44545,7 @@ const kamus = [
   },
   {
     "kata": "mengenai",
-    "count": 214
+    "count": 295
   },
   {
     "kata": "mengenakan",
@@ -44805,7 +44825,7 @@ const kamus = [
   },
   {
     "kata": "mengetahui",
-    "count": 102
+    "count": 130
   },
   {
     "kata": "mengetanahkan",
@@ -44821,7 +44841,7 @@ const kamus = [
   },
   {
     "kata": "mengetik",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "mengetuk",
@@ -44833,7 +44853,7 @@ const kamus = [
   },
   {
     "kata": "mengevaluasi",
-    "count": 88
+    "count": 99
   },
   {
     "kata": "menggabrukkan",
@@ -44845,7 +44865,7 @@ const kamus = [
   },
   {
     "kata": "menggabungkan",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "menggadang",
@@ -44901,7 +44921,7 @@ const kamus = [
   },
   {
     "kata": "menggambarkan",
-    "count": 161
+    "count": 190
   },
   {
     "kata": "menggampar",
@@ -44945,11 +44965,11 @@ const kamus = [
   },
   {
     "kata": "mengganti",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "menggantikan",
-    "count": 11
+    "count": 12
   },
   {
     "kata": "menggantung",
@@ -45301,7 +45321,7 @@ const kamus = [
   },
   {
     "kata": "menggeser",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menggetang",
@@ -45517,7 +45537,7 @@ const kamus = [
   },
   {
     "kata": "menggunakan",
-    "count": 405
+    "count": 497
   },
   {
     "kata": "menggundahkan",
@@ -45573,7 +45593,7 @@ const kamus = [
   },
   {
     "kata": "menghabiskan",
-    "count": 55
+    "count": 107
   },
   {
     "kata": "menghablur",
@@ -45589,7 +45609,7 @@ const kamus = [
   },
   {
     "kata": "menghadapi",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "menghadiahi",
@@ -45605,7 +45625,7 @@ const kamus = [
   },
   {
     "kata": "menghadirkan",
-    "count": 78
+    "count": 84
   },
   {
     "kata": "menghadkan",
@@ -45753,7 +45773,7 @@ const kamus = [
   },
   {
     "kata": "menghapus",
-    "count": 152
+    "count": 169
   },
   {
     "kata": "mengharamkan",
@@ -45789,11 +45809,11 @@ const kamus = [
   },
   {
     "kata": "mengharuskan",
-    "count": 62
+    "count": 114
   },
   {
     "kata": "menghasilkan",
-    "count": 94
+    "count": 117
   },
   {
     "kata": "menghasratkan",
@@ -45909,7 +45929,7 @@ const kamus = [
   },
   {
     "kata": "menghindari",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "menghindarkan",
@@ -45937,7 +45957,7 @@ const kamus = [
   },
   {
     "kata": "menghitung",
-    "count": 151
+    "count": 231
   },
   {
     "kata": "menghitungkan",
@@ -45961,7 +45981,7 @@ const kamus = [
   },
   {
     "kata": "menghubungkan",
-    "count": 69
+    "count": 126
   },
   {
     "kata": "menghubungkannya",
@@ -46009,7 +46029,7 @@ const kamus = [
   },
   {
     "kata": "mengidap",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "mengidealkan",
@@ -46017,7 +46037,7 @@ const kamus = [
   },
   {
     "kata": "mengidentifikasi",
-    "count": 102
+    "count": 113
   },
   {
     "kata": "mengidentifikasikan",
@@ -46049,7 +46069,7 @@ const kamus = [
   },
   {
     "kata": "mengikuti",
-    "count": 83
+    "count": 101
   },
   {
     "kata": "mengikutsertakan",
@@ -46109,7 +46129,7 @@ const kamus = [
   },
   {
     "kata": "mengimplementasikan",
-    "count": 149
+    "count": 212
   },
   {
     "kata": "mengimplikasikan",
@@ -46169,7 +46189,7 @@ const kamus = [
   },
   {
     "kata": "menginformasikan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "menginfus",
@@ -46237,7 +46257,7 @@ const kamus = [
   },
   {
     "kata": "menginput",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "menginsafi",
@@ -46321,7 +46341,7 @@ const kamus = [
   },
   {
     "kata": "mengirim",
-    "count": 62
+    "count": 114
   },
   {
     "kata": "mengirimi",
@@ -46349,7 +46369,7 @@ const kamus = [
   },
   {
     "kata": "mengisi",
-    "count": 83
+    "count": 99
   },
   {
     "kata": "mengisikan",
@@ -46365,7 +46385,7 @@ const kamus = [
   },
   {
     "kata": "mengisyaratkan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mengitik",
@@ -46453,7 +46473,7 @@ const kamus = [
   },
   {
     "kata": "mengklik",
-    "count": 1
+    "count": 2
   },
   {
     "kata": "mengkodekan",
@@ -46537,7 +46557,7 @@ const kamus = [
   },
   {
     "kata": "mengolah",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "mengolak-alik",
@@ -46561,7 +46581,7 @@ const kamus = [
   },
   {
     "kata": "mengombinasikan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mengompensasi",
@@ -46661,7 +46681,7 @@ const kamus = [
   },
   {
     "kata": "mengoptimalkan",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "mengorak",
@@ -46681,7 +46701,7 @@ const kamus = [
   },
   {
     "kata": "mengoreksi",
-    "count": 61
+    "count": 118
   },
   {
     "kata": "mengoret-oret",
@@ -46753,11 +46773,11 @@ const kamus = [
   },
   {
     "kata": "mengubah",
-    "count": 63
+    "count": 120
   },
   {
     "kata": "mengubahnya",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "mengubek-ubek",
@@ -46773,7 +46793,7 @@ const kamus = [
   },
   {
     "kata": "mengucapkan",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "mengucek-ucek",
@@ -46785,7 +46805,7 @@ const kamus = [
   },
   {
     "kata": "menguji",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "mengujicobakan",
@@ -46801,7 +46821,7 @@ const kamus = [
   },
   {
     "kata": "mengukur",
-    "count": 146
+    "count": 221
   },
   {
     "kata": "mengulang",
@@ -46857,7 +46877,7 @@ const kamus = [
   },
   {
     "kata": "mengumpulkan",
-    "count": 143
+    "count": 206
   },
   {
     "kata": "mengumumkan",
@@ -46877,11 +46897,11 @@ const kamus = [
   },
   {
     "kata": "mengunduh",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "mengunggah",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "mengunggas",
@@ -46941,7 +46961,7 @@ const kamus = [
   },
   {
     "kata": "mengunjungi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mengunjungkan",
@@ -46973,7 +46993,7 @@ const kamus = [
   },
   {
     "kata": "menguraikan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "mengurang",
@@ -46981,7 +47001,7 @@ const kamus = [
   },
   {
     "kata": "mengurangi",
-    "count": 134
+    "count": 197
   },
   {
     "kata": "mengurangkan",
@@ -47025,7 +47045,7 @@ const kamus = [
   },
   {
     "kata": "mengusulkan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "mengusung",
@@ -47109,7 +47129,7 @@ const kamus = [
   },
   {
     "kata": "menimbulkan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "menimpa",
@@ -47149,7 +47169,7 @@ const kamus = [
   },
   {
     "kata": "meningitis",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "meningkat",
@@ -47157,7 +47177,7 @@ const kamus = [
   },
   {
     "kata": "meningkatkan",
-    "count": 186
+    "count": 215
   },
   {
     "kata": "meninjau",
@@ -47185,7 +47205,7 @@ const kamus = [
   },
   {
     "kata": "meniru",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "menirukan",
@@ -47221,7 +47241,7 @@ const kamus = [
   },
   {
     "kata": "menitikberatkan",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "menitikkan",
@@ -47253,11 +47273,11 @@ const kamus = [
   },
   {
     "kata": "menjadi",
-    "count": 229
+    "count": 310
   },
   {
     "kata": "menjadikan",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "menjadwalkan",
@@ -47309,7 +47329,7 @@ const kamus = [
   },
   {
     "kata": "menjalankan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "menjalin",
@@ -47321,7 +47341,7 @@ const kamus = [
   },
   {
     "kata": "menjamin",
-    "count": 78
+    "count": 96
   },
   {
     "kata": "menjamukan",
@@ -47389,7 +47409,7 @@ const kamus = [
   },
   {
     "kata": "menjawab",
-    "count": 80
+    "count": 98
   },
   {
     "kata": "menjawikan",
@@ -47425,7 +47445,7 @@ const kamus = [
   },
   {
     "kata": "menjelaskan",
-    "count": 148
+    "count": 216
   },
   {
     "kata": "menjelejeh",
@@ -47717,7 +47737,7 @@ const kamus = [
   },
   {
     "kata": "menolak",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "menolakkan",
@@ -47753,7 +47773,7 @@ const kamus = [
   },
   {
     "kata": "menopang",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "menopausal",
@@ -47853,7 +47873,7 @@ const kamus = [
   },
   {
     "kata": "mentah",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mentah-mentah",
@@ -47941,7 +47961,7 @@ const kamus = [
   },
   {
     "kata": "mentransmisikan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mentrompetkan",
@@ -47949,7 +47969,7 @@ const kamus = [
   },
   {
     "kata": "menu",
-    "count": 114
+    "count": 130
   },
   {
     "kata": "menua",
@@ -47989,7 +48009,7 @@ const kamus = [
   },
   {
     "kata": "menuju",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "menujuh",
@@ -48033,11 +48053,11 @@ const kamus = [
   },
   {
     "kata": "menulis",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "menuliskan",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "menumbangkan",
@@ -48045,7 +48065,7 @@ const kamus = [
   },
   {
     "kata": "menumbuhkan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menumpang",
@@ -48097,7 +48117,7 @@ const kamus = [
   },
   {
     "kata": "menunggu",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menunjang",
@@ -48109,7 +48129,7 @@ const kamus = [
   },
   {
     "kata": "menunjukkan",
-    "count": 222
+    "count": 308
   },
   {
     "kata": "menuntaskan",
@@ -48129,7 +48149,7 @@ const kamus = [
   },
   {
     "kata": "menurun",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "menurunkan",
@@ -48145,7 +48165,7 @@ const kamus = [
   },
   {
     "kata": "menurut",
-    "count": 96
+    "count": 124
   },
   {
     "kata": "menuruti",
@@ -48189,7 +48209,7 @@ const kamus = [
   },
   {
     "kata": "menyadari",
-    "count": 50
+    "count": 89
   },
   {
     "kata": "menyaingi",
@@ -48197,7 +48217,7 @@ const kamus = [
   },
   {
     "kata": "menyajikan",
-    "count": 69
+    "count": 92
   },
   {
     "kata": "menyakiti",
@@ -48245,7 +48265,7 @@ const kamus = [
   },
   {
     "kata": "menyalin",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menyalip",
@@ -48265,7 +48285,7 @@ const kamus = [
   },
   {
     "kata": "menyamakan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "menyamarkan",
@@ -48293,7 +48313,7 @@ const kamus = [
   },
   {
     "kata": "menyampaikan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menyampang",
@@ -48393,7 +48413,7 @@ const kamus = [
   },
   {
     "kata": "menyangkut",
-    "count": 48
+    "count": 105
   },
   {
     "kata": "menyangkutkan",
@@ -48457,7 +48477,7 @@ const kamus = [
   },
   {
     "kata": "menyatakan",
-    "count": 107
+    "count": 123
   },
   {
     "kata": "menyatroni",
@@ -48469,7 +48489,7 @@ const kamus = [
   },
   {
     "kata": "menyatukan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "menyayangi",
@@ -48485,7 +48505,7 @@ const kamus = [
   },
   {
     "kata": "menyebabkan",
-    "count": 131
+    "count": 205
   },
   {
     "kata": "menyebalkan",
@@ -48497,7 +48517,7 @@ const kamus = [
   },
   {
     "kata": "menyebarkan",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "menyebarluaskan",
@@ -48529,11 +48549,11 @@ const kamus = [
   },
   {
     "kata": "menyederhanakan",
-    "count": 83
+    "count": 89
   },
   {
     "kata": "menyediakan",
-    "count": 97
+    "count": 120
   },
   {
     "kata": "menyedihkan",
@@ -48621,7 +48641,7 @@ const kamus = [
   },
   {
     "kata": "menyelaraskan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menyelawat",
@@ -48653,7 +48673,7 @@ const kamus = [
   },
   {
     "kata": "menyelesaikan",
-    "count": 85
+    "count": 103
   },
   {
     "kata": "menyeletuk",
@@ -48733,7 +48753,7 @@ const kamus = [
   },
   {
     "kata": "menyeluruh",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "menyelusuh",
@@ -48769,7 +48789,7 @@ const kamus = [
   },
   {
     "kata": "menyematkan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menyemayamkan",
@@ -49045,7 +49065,7 @@ const kamus = [
   },
   {
     "kata": "menyertakan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "menyeruduk",
@@ -49129,7 +49149,7 @@ const kamus = [
   },
   {
     "kata": "menyiapkan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "menyiarkan",
@@ -49177,7 +49197,7 @@ const kamus = [
   },
   {
     "kata": "menyimpan",
-    "count": 55
+    "count": 108
   },
   {
     "kata": "menyimpang",
@@ -49509,7 +49529,7 @@ const kamus = [
   },
   {
     "kata": "menyusun",
-    "count": 50
+    "count": 107
   },
   {
     "kata": "menyusupkan",
@@ -49549,7 +49569,7 @@ const kamus = [
   },
   {
     "kata": "merah",
-    "count": 82
+    "count": 93
   },
   {
     "kata": "merahapkan",
@@ -49609,7 +49629,7 @@ const kamus = [
   },
   {
     "kata": "merancang",
-    "count": 299
+    "count": 398
   },
   {
     "kata": "merancukan",
@@ -49685,7 +49705,7 @@ const kamus = [
   },
   {
     "kata": "merasa",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "merasaikan",
@@ -49837,7 +49857,7 @@ const kamus = [
   },
   {
     "kata": "mereka",
-    "count": 80
+    "count": 132
   },
   {
     "kata": "merekam",
@@ -49961,7 +49981,7 @@ const kamus = [
   },
   {
     "kata": "merepresentasikan",
-    "count": 199
+    "count": 275
   },
   {
     "kata": "meresahkan",
@@ -50033,7 +50053,7 @@ const kamus = [
   },
   {
     "kata": "merilis",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "merimaskan",
@@ -50185,11 +50205,11 @@ const kamus = [
   },
   {
     "kata": "merugikan",
-    "count": 66
+    "count": 118
   },
   {
     "kata": "merujuk",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "merukunkan",
@@ -50209,7 +50229,7 @@ const kamus = [
   },
   {
     "kata": "merupakan",
-    "count": 225
+    "count": 311
   },
   {
     "kata": "merusak",
@@ -50237,7 +50257,7 @@ const kamus = [
   },
   {
     "kata": "mesin",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "mesinisasi",
@@ -50257,7 +50277,7 @@ const kamus = [
   },
   {
     "kata": "meskipun",
-    "count": 10
+    "count": 20
   },
   {
     "kata": "mesodermik",
@@ -50397,15 +50417,15 @@ const kamus = [
   },
   {
     "kata": "method",
-    "count": 163
+    "count": 192
   },
   {
     "kata": "metode",
-    "count": 451
+    "count": 509
   },
   {
     "kata": "metodologi",
-    "count": 34
+    "count": 39
   },
   {
     "kata": "metoroat",
@@ -50413,7 +50433,7 @@ const kamus = [
   },
   {
     "kata": "metrik",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "metro",
@@ -50457,7 +50477,7 @@ const kamus = [
   },
   {
     "kata": "mewakili",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "mewakilkan",
@@ -50481,7 +50501,7 @@ const kamus = [
   },
   {
     "kata": "mewarisi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mewariskan",
@@ -50541,7 +50561,7 @@ const kamus = [
   },
   {
     "kata": "mhz",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "microcontroller",
@@ -50553,11 +50573,11 @@ const kamus = [
   },
   {
     "kata": "Microsoft",
-    "count": 89
+    "count": 112
   },
   {
     "kata": "middleware",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "midodareni",
@@ -50577,7 +50597,7 @@ const kamus = [
   },
   {
     "kata": "migrasi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "mijen",
@@ -50645,7 +50665,7 @@ const kamus = [
   },
   {
     "kata": "mikrokontroler",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "mikrokristalin",
@@ -50745,7 +50765,7 @@ const kamus = [
   },
   {
     "kata": "min",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "mina",
@@ -50785,7 +50805,7 @@ const kamus = [
   },
   {
     "kata": "minggu",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "mingguan",
@@ -50809,7 +50829,7 @@ const kamus = [
   },
   {
     "kata": "minimal",
-    "count": 82
+    "count": 105
   },
   {
     "kata": "minimalis",
@@ -50825,11 +50845,11 @@ const kamus = [
   },
   {
     "kata": "minimum",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "mining",
-    "count": 22
+    "count": 32
   },
   {
     "kata": "minor",
@@ -50881,11 +50901,11 @@ const kamus = [
   },
   {
     "kata": "miring",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "mirip",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "miris",
@@ -50897,11 +50917,11 @@ const kamus = [
   },
   {
     "kata": "misalkan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "misalnya",
-    "count": 22
+    "count": 32
   },
   {
     "kata": "misi",
@@ -50981,7 +51001,7 @@ const kamus = [
   },
   {
     "kata": "mobile",
-    "count": 151
+    "count": 163
   },
   {
     "kata": "mobilenetv",
@@ -51005,11 +51025,11 @@ const kamus = [
   },
   {
     "kata": "model",
-    "count": 185
+    "count": 202
   },
   {
     "kata": "modelling",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "modem",
@@ -51021,7 +51041,7 @@ const kamus = [
   },
   {
     "kata": "modern",
-    "count": 113
+    "count": 222
   },
   {
     "kata": "modernisasi",
@@ -51041,7 +51061,7 @@ const kamus = [
   },
   {
     "kata": "modifikasi",
-    "count": 217
+    "count": 247
   },
   {
     "kata": "modul",
@@ -51137,11 +51157,11 @@ const kamus = [
   },
   {
     "kata": "monitor",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "monitoring",
-    "count": 115
+    "count": 224
   },
   {
     "kata": "mono",
@@ -51225,7 +51245,7 @@ const kamus = [
   },
   {
     "kata": "moore",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "moral",
@@ -51281,7 +51301,7 @@ const kamus = [
   },
   {
     "kata": "morris",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "morse",
@@ -51313,7 +51333,7 @@ const kamus = [
   },
   {
     "kata": "motor",
-    "count": 58
+    "count": 110
   },
   {
     "kata": "motorfobia",
@@ -51349,7 +51369,7 @@ const kamus = [
   },
   {
     "kata": "mozilla",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "mp3",
@@ -51405,7 +51425,7 @@ const kamus = [
   },
   {
     "kata": "mudah",
-    "count": 37
+    "count": 42
   },
   {
     "kata": "mudah-mudahan",
@@ -51477,7 +51497,7 @@ const kamus = [
   },
   {
     "kata": "mulai",
-    "count": 89
+    "count": 112
   },
   {
     "kata": "mulas",
@@ -51601,7 +51621,7 @@ const kamus = [
   },
   {
     "kata": "multithread",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "multitugas",
@@ -51621,7 +51641,7 @@ const kamus = [
   },
   {
     "kata": "mulut",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "mulut-mulutan",
@@ -51641,7 +51661,7 @@ const kamus = [
   },
   {
     "kata": "muncul",
-    "count": 93
+    "count": 116
   },
   {
     "kata": "muncung",
@@ -51649,7 +51669,7 @@ const kamus = [
   },
   {
     "kata": "mundur",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "mungkal",
@@ -51657,7 +51677,7 @@ const kamus = [
   },
   {
     "kata": "mungkin",
-    "count": 88
+    "count": 111
   },
   {
     "kata": "mungmungan",
@@ -51665,7 +51685,7 @@ const kamus = [
   },
   {
     "kata": "mur",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "murabahah",
@@ -51833,7 +51853,7 @@ const kamus = [
   },
   {
     "kata": "MySQL",
-    "count": 63
+    "count": 68
   },
   {
     "kata": "n",
@@ -51873,11 +51893,11 @@ const kamus = [
   },
   {
     "kata": "nafsu",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "naga",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "nagan",
@@ -51953,7 +51973,7 @@ const kamus = [
   },
   {
     "kata": "nama",
-    "count": 181
+    "count": 215
   },
   {
     "kata": "namanya",
@@ -51973,7 +51993,7 @@ const kamus = [
   },
   {
     "kata": "namun",
-    "count": 290
+    "count": 428
   },
   {
     "kata": "NaN",
@@ -52029,7 +52049,7 @@ const kamus = [
   },
   {
     "kata": "nantinya",
-    "count": 96
+    "count": 106
   },
   {
     "kata": "napalm",
@@ -52265,7 +52285,7 @@ const kamus = [
   },
   {
     "kata": "negatif",
-    "count": 64
+    "count": 121
   },
   {
     "kata": "negeri",
@@ -52441,7 +52461,7 @@ const kamus = [
   },
   {
     "kata": "netscape",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "network",
@@ -52577,7 +52597,7 @@ const kamus = [
   },
   {
     "kata": "nilai",
-    "count": 316
+    "count": 420
   },
   {
     "kata": "nilai-nilai",
@@ -52689,11 +52709,11 @@ const kamus = [
   },
   {
     "kata": "node",
-    "count": 123
+    "count": 164
   },
   {
     "kata": "NodeMCU",
-    "count": 94
+    "count": 198
   },
   {
     "kata": "nodul",
@@ -52713,7 +52733,7 @@ const kamus = [
   },
   {
     "kata": "nol",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "nomina",
@@ -52733,7 +52753,7 @@ const kamus = [
   },
   {
     "kata": "non",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "non-euclidean",
@@ -52861,11 +52881,11 @@ const kamus = [
   },
   {
     "kata": "norma",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "normal",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "normalisasi",
@@ -52917,7 +52937,7 @@ const kamus = [
   },
   {
     "kata": "not",
-    "count": 2
+    "count": 3
   },
   {
     "kata": "nota",
@@ -52945,7 +52965,7 @@ const kamus = [
   },
   {
     "kata": "notifikasi",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "notula",
@@ -52953,15 +52973,15 @@ const kamus = [
   },
   {
     "kata": "notulen",
-    "count": 148
+    "count": 160
   },
   {
     "kata": "notulensi",
-    "count": 199
+    "count": 211
   },
   {
     "kata": "notulis",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "novasi",
@@ -52993,7 +53013,7 @@ const kamus = [
   },
   {
     "kata": "null",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "number",
@@ -53009,7 +53029,7 @@ const kamus = [
   },
   {
     "kata": "numerik",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "nurani",
@@ -53077,7 +53097,7 @@ const kamus = [
   },
   {
     "kata": "nyeri",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "nyingnying",
@@ -53133,15 +53153,15 @@ const kamus = [
   },
   {
     "kata": "objek",
-    "count": 96
+    "count": 158
   },
   {
     "kata": "objektif",
-    "count": 67
+    "count": 90
   },
   {
     "kata": "objektivitas",
-    "count": 0
+    "count": 10
   },
   {
     "kata": "obligasi",
@@ -53161,7 +53181,7 @@ const kamus = [
   },
   {
     "kata": "observasi",
-    "count": 145
+    "count": 162
   },
   {
     "kata": "observasional",
@@ -53185,7 +53205,7 @@ const kamus = [
   },
   {
     "kata": "obyek",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "obyektif",
@@ -53213,11 +53233,11 @@ const kamus = [
   },
   {
     "kata": "of",
-    "count": 355
+    "count": 506
   },
   {
     "kata": "office",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "officio",
@@ -53265,7 +53285,7 @@ const kamus = [
   },
   {
     "kata": "oksigen",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "oksigenase",
@@ -53357,11 +53377,11 @@ const kamus = [
   },
   {
     "kata": "oleh",
-    "count": 460
+    "count": 622
   },
   {
     "kata": "oleo",
-    "count": 152
+    "count": 215
   },
   {
     "kata": "oles",
@@ -53445,7 +53465,7 @@ const kamus = [
   },
   {
     "kata": "on",
-    "count": 147
+    "count": 222
   },
   {
     "kata": "onbekwaamheid",
@@ -53469,7 +53489,7 @@ const kamus = [
   },
   {
     "kata": "online",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "onomastika",
@@ -53497,11 +53517,11 @@ const kamus = [
   },
   {
     "kata": "open",
-    "count": 77
+    "count": 134
   },
   {
     "kata": "opera",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "operan",
@@ -53509,7 +53529,7 @@ const kamus = [
   },
   {
     "kata": "operasi",
-    "count": 46
+    "count": 51
   },
   {
     "kata": "operasional",
@@ -53525,7 +53545,7 @@ const kamus = [
   },
   {
     "kata": "operating",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "operation",
@@ -53565,7 +53585,7 @@ const kamus = [
   },
   {
     "kata": "opsional",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "opstal",
@@ -53581,11 +53601,11 @@ const kamus = [
   },
   {
     "kata": "optimal",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "optimalisasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "optimasi",
@@ -53613,7 +53633,7 @@ const kamus = [
   },
   {
     "kata": "optimization",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "optimum",
@@ -53633,7 +53653,7 @@ const kamus = [
   },
   {
     "kata": "orang",
-    "count": 224
+    "count": 305
   },
   {
     "kata": "orang-orang",
@@ -53661,7 +53681,7 @@ const kamus = [
   },
   {
     "kata": "order",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "orderan",
@@ -53697,7 +53717,7 @@ const kamus = [
   },
   {
     "kata": "organisasi",
-    "count": 104
+    "count": 110
   },
   {
     "kata": "organisatoris",
@@ -53857,7 +53877,7 @@ const kamus = [
   },
   {
     "kata": "osilator",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "osiloskop",
@@ -53897,7 +53917,7 @@ const kamus = [
   },
   {
     "kata": "otak",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "otak-atik",
@@ -53921,7 +53941,7 @@ const kamus = [
   },
   {
     "kata": "otomatis",
-    "count": 21
+    "count": 31
   },
   {
     "kata": "otomatisasi",
@@ -53965,19 +53985,19 @@ const kamus = [
   },
   {
     "kata": "otot",
-    "count": 183
+    "count": 271
   },
   {
     "kata": "out",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "output",
-    "count": 86
+    "count": 148
   },
   {
     "kata": "oval",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ovari",
@@ -54093,7 +54113,7 @@ const kamus = [
   },
   {
     "kata": "pada",
-    "count": 499
+    "count": 661
   },
   {
     "kata": "padahal",
@@ -54229,15 +54249,15 @@ const kamus = [
   },
   {
     "kata": "pakan",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "pakar",
-    "count": 219
+    "count": 261
   },
   {
     "kata": "paket",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "paketan",
@@ -54317,7 +54337,7 @@ const kamus = [
   },
   {
     "kata": "paling",
-    "count": 94
+    "count": 117
   },
   {
     "kata": "palingan",
@@ -54549,7 +54569,7 @@ const kamus = [
   },
   {
     "kata": "pandang",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "pandangan",
@@ -54713,7 +54733,7 @@ const kamus = [
   },
   {
     "kata": "panjang",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "panjarwala",
@@ -54805,7 +54825,7 @@ const kamus = [
   },
   {
     "kata": "pantulan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pantun",
@@ -54845,7 +54865,7 @@ const kamus = [
   },
   {
     "kata": "para",
-    "count": 210
+    "count": 286
   },
   {
     "kata": "parabel",
@@ -54937,7 +54957,7 @@ const kamus = [
   },
   {
     "kata": "paralel",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "paralelisme",
@@ -54957,7 +54977,7 @@ const kamus = [
   },
   {
     "kata": "paralisis",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "parameter",
@@ -55085,7 +55105,7 @@ const kamus = [
   },
   {
     "kata": "paritas",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pariwisata",
@@ -55229,7 +55249,7 @@ const kamus = [
   },
   {
     "kata": "pasangan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "pasanggiri",
@@ -55309,7 +55329,7 @@ const kamus = [
   },
   {
     "kata": "pasien",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "pasif",
@@ -55353,7 +55373,7 @@ const kamus = [
   },
   {
     "kata": "password",
-    "count": 151
+    "count": 219
   },
   {
     "kata": "pasta",
@@ -55365,7 +55385,7 @@ const kamus = [
   },
   {
     "kata": "pasti",
-    "count": 83
+    "count": 101
   },
   {
     "kata": "pastikan",
@@ -55465,7 +55485,7 @@ const kamus = [
   },
   {
     "kata": "pattern",
-    "count": 15
+    "count": 25
   },
   {
     "kata": "patuh",
@@ -55557,7 +55577,7 @@ const kamus = [
   },
   {
     "kata": "pdf",
-    "count": 109
+    "count": 115
   },
   {
     "kata": "peastep",
@@ -55585,7 +55605,7 @@ const kamus = [
   },
   {
     "kata": "pecahan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pecandu",
@@ -55709,7 +55729,7 @@ const kamus = [
   },
   {
     "kata": "pegawai",
-    "count": 90
+    "count": 96
   },
   {
     "kata": "pegelaran",
@@ -55761,7 +55781,7 @@ const kamus = [
   },
   {
     "kata": "peka",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "pekajangan",
@@ -55797,7 +55817,7 @@ const kamus = [
   },
   {
     "kata": "pekerjaan",
-    "count": 86
+    "count": 92
   },
   {
     "kata": "pekerti",
@@ -55837,7 +55857,7 @@ const kamus = [
   },
   {
     "kata": "pelafalan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pelajar",
@@ -55853,7 +55873,7 @@ const kamus = [
   },
   {
     "kata": "pelaksanaan",
-    "count": 95
+    "count": 106
   },
   {
     "kata": "pelaku",
@@ -56013,7 +56033,7 @@ const kamus = [
   },
   {
     "kata": "pelatihan",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "pelaut",
@@ -56401,7 +56421,7 @@ const kamus = [
   },
   {
     "kata": "pemahaman",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "pemahat",
@@ -56437,7 +56457,7 @@ const kamus = [
   },
   {
     "kata": "pemakaian",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "pemakaman",
@@ -56585,7 +56605,7 @@ const kamus = [
   },
   {
     "kata": "pemangku",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pemangkuan",
@@ -56653,7 +56673,7 @@ const kamus = [
   },
   {
     "kata": "pemaparan",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "pemarah",
@@ -56669,7 +56689,7 @@ const kamus = [
   },
   {
     "kata": "pemasangan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pemasaran",
@@ -56737,7 +56757,7 @@ const kamus = [
   },
   {
     "kata": "pembacaan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pembacokan",
@@ -56761,7 +56781,7 @@ const kamus = [
   },
   {
     "kata": "pembahasan",
-    "count": 75
+    "count": 80
   },
   {
     "kata": "pembajak",
@@ -56861,7 +56881,7 @@ const kamus = [
   },
   {
     "kata": "pembangunan",
-    "count": 89
+    "count": 112
   },
   {
     "kata": "pembantah",
@@ -56885,7 +56905,7 @@ const kamus = [
   },
   {
     "kata": "pembantu",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pembantuan",
@@ -56945,7 +56965,7 @@ const kamus = [
   },
   {
     "kata": "pembatas",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pembatasan",
@@ -57145,7 +57165,7 @@ const kamus = [
   },
   {
     "kata": "pembentukan",
-    "count": 71
+    "count": 94
   },
   {
     "kata": "pembenturan",
@@ -57205,7 +57225,7 @@ const kamus = [
   },
   {
     "kata": "pemberian",
-    "count": 119
+    "count": 142
   },
   {
     "kata": "pemberitaan",
@@ -57237,7 +57257,7 @@ const kamus = [
   },
   {
     "kata": "pembersihan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "pembesar",
@@ -57309,7 +57329,7 @@ const kamus = [
   },
   {
     "kata": "pembimbing",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "pembimbingan",
@@ -57357,7 +57377,7 @@ const kamus = [
   },
   {
     "kata": "pembobotan",
-    "count": 95
+    "count": 113
   },
   {
     "kata": "pembocoran",
@@ -57425,7 +57445,7 @@ const kamus = [
   },
   {
     "kata": "pembuatan",
-    "count": 227
+    "count": 296
   },
   {
     "kata": "pembubaran",
@@ -57673,7 +57693,7 @@ const kamus = [
   },
   {
     "kata": "pemeriksaan",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "pemerindah",
@@ -57781,7 +57801,7 @@ const kamus = [
   },
   {
     "kata": "pemicuan",
-    "count": 58
+    "count": 76
   },
   {
     "kata": "pemidanaan",
@@ -57801,11 +57821,11 @@ const kamus = [
   },
   {
     "kata": "pemikiran",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pemilahan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pemilih",
@@ -57933,7 +57953,7 @@ const kamus = [
   },
   {
     "kata": "pemodelan",
-    "count": 34
+    "count": 39
   },
   {
     "kata": "pemodernan",
@@ -58013,11 +58033,11 @@ const kamus = [
   },
   {
     "kata": "pemrogram",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pemrograman",
-    "count": 220
+    "count": 306
   },
   {
     "kata": "pemroses",
@@ -58277,7 +58297,7 @@ const kamus = [
   },
   {
     "kata": "penafsiran",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "penagih",
@@ -58357,7 +58377,7 @@ const kamus = [
   },
   {
     "kata": "penalaran",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "penalti",
@@ -58377,7 +58397,7 @@ const kamus = [
   },
   {
     "kata": "penambahan",
-    "count": 92
+    "count": 103
   },
   {
     "kata": "penambakan",
@@ -58481,7 +58501,7 @@ const kamus = [
   },
   {
     "kata": "penanganan",
-    "count": 77
+    "count": 95
   },
   {
     "kata": "penangasan",
@@ -58561,7 +58581,7 @@ const kamus = [
   },
   {
     "kata": "penarikan",
-    "count": 77
+    "count": 95
   },
   {
     "kata": "penarikhan",
@@ -58733,7 +58753,7 @@ const kamus = [
   },
   {
     "kata": "pencarian",
-    "count": 37
+    "count": 47
   },
   {
     "kata": "pencata",
@@ -58741,7 +58761,7 @@ const kamus = [
   },
   {
     "kata": "pencatatan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "pencatutan",
@@ -58921,7 +58941,7 @@ const kamus = [
   },
   {
     "kata": "pencocokan",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "pencolekan",
@@ -59085,7 +59105,7 @@ const kamus = [
   },
   {
     "kata": "pendataan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "pendataannya",
@@ -59125,7 +59145,7 @@ const kamus = [
   },
   {
     "kata": "pendek",
-    "count": 53
+    "count": 105
   },
   {
     "kata": "pendekapan",
@@ -59141,7 +59161,7 @@ const kamus = [
   },
   {
     "kata": "pendekatan",
-    "count": 111
+    "count": 139
   },
   {
     "kata": "pendekorasian",
@@ -59221,11 +59241,11 @@ const kamus = [
   },
   {
     "kata": "pendeteksi",
-    "count": 56
+    "count": 113
   },
   {
     "kata": "pendeteksian",
-    "count": 8
+    "count": 12
   },
   {
     "kata": "pendewasaan",
@@ -59233,7 +59253,7 @@ const kamus = [
   },
   {
     "kata": "pendiagnosa",
-    "count": 61
+    "count": 84
   },
   {
     "kata": "pendiagonalan",
@@ -59253,7 +59273,7 @@ const kamus = [
   },
   {
     "kata": "pendidikan",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "pendigitalan",
@@ -59369,7 +59389,7 @@ const kamus = [
   },
   {
     "kata": "pendukung",
-    "count": 131
+    "count": 154
   },
   {
     "kata": "penduplikatan",
@@ -59441,7 +59461,7 @@ const kamus = [
   },
   {
     "kata": "penekanan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "penelaahan",
@@ -59461,11 +59481,11 @@ const kamus = [
   },
   {
     "kata": "peneliti",
-    "count": 186
+    "count": 313
   },
   {
     "kata": "penelitian",
-    "count": 472
+    "count": 628
   },
   {
     "kata": "penelitiannya",
@@ -59553,7 +59573,7 @@ const kamus = [
   },
   {
     "kata": "penerapan",
-    "count": 153
+    "count": 233
   },
   {
     "kata": "penerawang",
@@ -59569,7 +59589,7 @@ const kamus = [
   },
   {
     "kata": "penerbitan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "peneriakan",
@@ -59581,7 +59601,7 @@ const kamus = [
   },
   {
     "kata": "penerimaan",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "penerjemah",
@@ -59785,7 +59805,7 @@ const kamus = [
   },
   {
     "kata": "pengajuan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "pengakhiran",
@@ -59801,7 +59821,7 @@ const kamus = [
   },
   {
     "kata": "pengaksesan",
-    "count": 79
+    "count": 97
   },
   {
     "kata": "pengaktif",
@@ -59901,7 +59921,7 @@ const kamus = [
   },
   {
     "kata": "pengambilan",
-    "count": 179
+    "count": 203
   },
   {
     "kata": "pengamitan",
@@ -60097,7 +60117,7 @@ const kamus = [
   },
   {
     "kata": "pengarsipan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "pengarsiran",
@@ -60113,7 +60133,7 @@ const kamus = [
   },
   {
     "kata": "pengaruh",
-    "count": 91
+    "count": 109
   },
   {
     "kata": "pengaryaan",
@@ -60329,7 +60349,7 @@ const kamus = [
   },
   {
     "kata": "pengecekan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "pengecer",
@@ -60369,7 +60389,7 @@ const kamus = [
   },
   {
     "kata": "pengeditan",
-    "count": 72
+    "count": 83
   },
   {
     "kata": "pengeduban",
@@ -60409,7 +60429,7 @@ const kamus = [
   },
   {
     "kata": "pengeksekusian",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "pengekspor",
@@ -60425,7 +60445,7 @@ const kamus = [
   },
   {
     "kata": "pengekstrakan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pengekstraksi",
@@ -60457,11 +60477,11 @@ const kamus = [
   },
   {
     "kata": "pengelola",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "pengelolaan",
-    "count": 87
+    "count": 98
   },
   {
     "kata": "pengelompokan",
@@ -60489,11 +60509,11 @@ const kamus = [
   },
   {
     "kata": "pengembang",
-    "count": 149
+    "count": 178
   },
   {
     "kata": "pengembangan",
-    "count": 388
+    "count": 498
   },
   {
     "kata": "pengembangbiakan",
@@ -60613,7 +60633,7 @@ const kamus = [
   },
   {
     "kata": "pengertian",
-    "count": 31
+    "count": 36
   },
   {
     "kata": "pengeruhan",
@@ -60641,7 +60661,7 @@ const kamus = [
   },
   {
     "kata": "pengetahuan",
-    "count": 98
+    "count": 121
   },
   {
     "kata": "pengetaman",
@@ -60657,7 +60677,7 @@ const kamus = [
   },
   {
     "kata": "pengetikan",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "pengetiman",
@@ -60677,7 +60697,7 @@ const kamus = [
   },
   {
     "kata": "penggabungan",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "penggadai",
@@ -60753,7 +60773,7 @@ const kamus = [
   },
   {
     "kata": "penggantian",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "penggantungan",
@@ -60769,7 +60789,7 @@ const kamus = [
   },
   {
     "kata": "penggaris",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "penggarong",
@@ -60841,7 +60861,7 @@ const kamus = [
   },
   {
     "kata": "penggerakan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "penggerebekan",
@@ -60913,11 +60933,11 @@ const kamus = [
   },
   {
     "kata": "pengguna",
-    "count": 227
+    "count": 308
   },
   {
     "kata": "penggunaan",
-    "count": 151
+    "count": 226
   },
   {
     "kata": "penggunaannya",
@@ -60977,7 +60997,7 @@ const kamus = [
   },
   {
     "kata": "penghapusan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "penghargaan",
@@ -61089,7 +61109,7 @@ const kamus = [
   },
   {
     "kata": "penghubung",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "penghujung",
@@ -61221,7 +61241,7 @@ const kamus = [
   },
   {
     "kata": "pengindraan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "penginfeksi",
@@ -61229,7 +61249,7 @@ const kamus = [
   },
   {
     "kata": "pengingat",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pengingkar",
@@ -61293,7 +61313,7 @@ const kamus = [
   },
   {
     "kata": "pengiriman",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "pengiritan",
@@ -61373,7 +61393,7 @@ const kamus = [
   },
   {
     "kata": "pengklasifikasi",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "pengklasifikasian",
@@ -61385,7 +61405,7 @@ const kamus = [
   },
   {
     "kata": "pengkodean",
-    "count": 67
+    "count": 124
   },
   {
     "kata": "pengkondisian",
@@ -61445,11 +61465,11 @@ const kamus = [
   },
   {
     "kata": "pengolah",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "pengolahan",
-    "count": 32
+    "count": 37
   },
   {
     "kata": "pengolesan",
@@ -61489,7 +61509,7 @@ const kamus = [
   },
   {
     "kata": "pengontrol",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pengontrolan",
@@ -61505,7 +61525,7 @@ const kamus = [
   },
   {
     "kata": "pengoperasian",
-    "count": 59
+    "count": 111
   },
   {
     "kata": "pengoptimalan",
@@ -61537,11 +61557,11 @@ const kamus = [
   },
   {
     "kata": "pengoreksi",
-    "count": 96
+    "count": 200
   },
   {
     "kata": "pengoreksian",
-    "count": 104
+    "count": 218
   },
   {
     "kata": "pengorganisasi",
@@ -61605,7 +61625,7 @@ const kamus = [
   },
   {
     "kata": "pengubah",
-    "count": 48
+    "count": 105
   },
   {
     "kata": "pengubahan",
@@ -61657,7 +61677,7 @@ const kamus = [
   },
   {
     "kata": "pengujian",
-    "count": 381
+    "count": 525
   },
   {
     "kata": "pengujicobaan",
@@ -61677,11 +61697,11 @@ const kamus = [
   },
   {
     "kata": "pengukur",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "pengukuran",
-    "count": 56
+    "count": 108
   },
   {
     "kata": "pengulang",
@@ -61689,7 +61709,7 @@ const kamus = [
   },
   {
     "kata": "pengulangan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pengulasan",
@@ -61717,7 +61737,7 @@ const kamus = [
   },
   {
     "kata": "pengumpulan",
-    "count": 309
+    "count": 401
   },
   {
     "kata": "pengumuman",
@@ -61881,7 +61901,7 @@ const kamus = [
   },
   {
     "kata": "penilaian",
-    "count": 105
+    "count": 128
   },
   {
     "kata": "penilang",
@@ -61913,11 +61933,11 @@ const kamus = [
   },
   {
     "kata": "peningkatan",
-    "count": 26
+    "count": 31
   },
   {
     "kata": "peninjauan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "penipu",
@@ -61953,7 +61973,7 @@ const kamus = [
   },
   {
     "kata": "penjabaran",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "penjabatan",
@@ -62081,7 +62101,7 @@ const kamus = [
   },
   {
     "kata": "penjelasan",
-    "count": 103
+    "count": 114
   },
   {
     "kata": "penjelmaan",
@@ -62281,7 +62301,7 @@ const kamus = [
   },
   {
     "kata": "penting",
-    "count": 236
+    "count": 317
   },
   {
     "kata": "pentingnya",
@@ -62313,11 +62333,11 @@ const kamus = [
   },
   {
     "kata": "penuh",
-    "count": 13
+    "count": 18
   },
   {
     "kata": "penukaran",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "penulangan",
@@ -62333,11 +62353,11 @@ const kamus = [
   },
   {
     "kata": "penulis",
-    "count": 166
+    "count": 195
   },
   {
     "kata": "penulisan",
-    "count": 42
+    "count": 52
   },
   {
     "kata": "penumbuhan",
@@ -62393,7 +62413,7 @@ const kamus = [
   },
   {
     "kata": "penunjuk",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "penunjukan",
@@ -62413,7 +62433,7 @@ const kamus = [
   },
   {
     "kata": "penurunan",
-    "count": 140
+    "count": 176
   },
   {
     "kata": "penutup",
@@ -62465,11 +62485,11 @@ const kamus = [
   },
   {
     "kata": "penyajian",
-    "count": 83
+    "count": 101
   },
   {
     "kata": "penyakit",
-    "count": 231
+    "count": 329
   },
   {
     "kata": "penyakitan",
@@ -62629,7 +62649,7 @@ const kamus = [
   },
   {
     "kata": "penyebab",
-    "count": 9
+    "count": 13
   },
   {
     "kata": "penyebar",
@@ -62765,7 +62785,7 @@ const kamus = [
   },
   {
     "kata": "penyelesaian",
-    "count": 78
+    "count": 135
   },
   {
     "kata": "penyelewengan",
@@ -62961,7 +62981,7 @@ const kamus = [
   },
   {
     "kata": "penyesuaian",
-    "count": 71
+    "count": 82
   },
   {
     "kata": "penyetelan",
@@ -63053,7 +63073,7 @@ const kamus = [
   },
   {
     "kata": "penyimpanan",
-    "count": 86
+    "count": 92
   },
   {
     "kata": "penyimpangan",
@@ -63105,7 +63125,7 @@ const kamus = [
   },
   {
     "kata": "penyisipan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "penyitaan",
@@ -63221,7 +63241,7 @@ const kamus = [
   },
   {
     "kata": "penyuntingan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "penyuryaan",
@@ -63233,11 +63253,11 @@ const kamus = [
   },
   {
     "kata": "penyusun",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "penyusunan",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "penyusup",
@@ -63281,7 +63301,7 @@ const kamus = [
   },
   {
     "kata": "per",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "perabot",
@@ -63297,7 +63317,7 @@ const kamus = [
   },
   {
     "kata": "peradangan",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "peradilan",
@@ -63369,7 +63389,7 @@ const kamus = [
   },
   {
     "kata": "peramban",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "perambatan",
@@ -63389,7 +63409,7 @@ const kamus = [
   },
   {
     "kata": "peran",
-    "count": 170
+    "count": 199
   },
   {
     "kata": "peranan",
@@ -63401,7 +63421,7 @@ const kamus = [
   },
   {
     "kata": "perancangan",
-    "count": 363
+    "count": 507
   },
   {
     "kata": "perandauan",
@@ -63433,7 +63453,7 @@ const kamus = [
   },
   {
     "kata": "perangkat",
-    "count": 173
+    "count": 241
   },
   {
     "kata": "perangkingan",
@@ -63497,7 +63517,7 @@ const kamus = [
   },
   {
     "kata": "peraturan",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "perawan",
@@ -63513,7 +63533,7 @@ const kamus = [
   },
   {
     "kata": "perawatan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "perayaan",
@@ -63533,7 +63553,7 @@ const kamus = [
   },
   {
     "kata": "perbaikan",
-    "count": 162
+    "count": 191
   },
   {
     "kata": "perbalahan",
@@ -63541,7 +63561,7 @@ const kamus = [
   },
   {
     "kata": "perbandingan",
-    "count": 93
+    "count": 121
   },
   {
     "kata": "perbankan",
@@ -63557,7 +63577,7 @@ const kamus = [
   },
   {
     "kata": "perbedaan",
-    "count": 31
+    "count": 41
   },
   {
     "kata": "perbekalan",
@@ -63661,7 +63681,7 @@ const kamus = [
   },
   {
     "kata": "percobaan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "percontohan",
@@ -63781,7 +63801,7 @@ const kamus = [
   },
   {
     "kata": "perencanaan",
-    "count": 31
+    "count": 36
   },
   {
     "kata": "perendaman",
@@ -63809,7 +63829,7 @@ const kamus = [
   },
   {
     "kata": "performa",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "performanya",
@@ -63845,7 +63865,7 @@ const kamus = [
   },
   {
     "kata": "pergerakan",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "pergesekan",
@@ -63853,7 +63873,7 @@ const kamus = [
   },
   {
     "kata": "pergeseran",
-    "count": 8
+    "count": 18
   },
   {
     "kata": "pergetahan",
@@ -63893,7 +63913,7 @@ const kamus = [
   },
   {
     "kata": "perguruan",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "pergusuran",
@@ -63905,7 +63925,7 @@ const kamus = [
   },
   {
     "kata": "perhatian",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "perhatikan",
@@ -63925,7 +63945,7 @@ const kamus = [
   },
   {
     "kata": "perhitungan",
-    "count": 113
+    "count": 136
   },
   {
     "kata": "perhitungannya",
@@ -63997,7 +64017,7 @@ const kamus = [
   },
   {
     "kata": "perilaku",
-    "count": 32
+    "count": 37
   },
   {
     "kata": "perilisan",
@@ -64045,7 +64065,7 @@ const kamus = [
   },
   {
     "kata": "peringatan",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "peringisan",
@@ -64069,7 +64089,7 @@ const kamus = [
   },
   {
     "kata": "periodik",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "periodontitis",
@@ -64253,7 +64273,7 @@ const kamus = [
   },
   {
     "kata": "perkembangan",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "perkembangbiakan",
@@ -64405,11 +64425,11 @@ const kamus = [
   },
   {
     "kata": "perlu",
-    "count": 199
+    "count": 292
   },
   {
     "kata": "perluasan",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "perlucutan",
@@ -64453,7 +64473,7 @@ const kamus = [
   },
   {
     "kata": "permasalahan",
-    "count": 182
+    "count": 211
   },
   {
     "kata": "permata",
@@ -64477,7 +64497,7 @@ const kamus = [
   },
   {
     "kata": "permintaan",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "perminyakan",
@@ -64517,7 +64537,7 @@ const kamus = [
   },
   {
     "kata": "permulaan",
-    "count": 28
+    "count": 33
   },
   {
     "kata": "permusikan",
@@ -64537,7 +64557,7 @@ const kamus = [
   },
   {
     "kata": "pernah",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "pernak-pernik",
@@ -64553,7 +64573,7 @@ const kamus = [
   },
   {
     "kata": "pernapasan",
-    "count": 132
+    "count": 173
   },
   {
     "kata": "perniagaan",
@@ -64589,7 +64609,7 @@ const kamus = [
   },
   {
     "kata": "perolehan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "perombakan",
@@ -64617,7 +64637,7 @@ const kamus = [
   },
   {
     "kata": "perpaduan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "perpajakan",
@@ -64641,7 +64661,7 @@ const kamus = [
   },
   {
     "kata": "perpindahan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "perpipaan",
@@ -64713,7 +64733,7 @@ const kamus = [
   },
   {
     "kata": "persamaan",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "persamuhan",
@@ -64757,7 +64777,7 @@ const kamus = [
   },
   {
     "kata": "persegi",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "persekatan",
@@ -64805,7 +64825,7 @@ const kamus = [
   },
   {
     "kata": "persentase",
-    "count": 220
+    "count": 262
   },
   {
     "kata": "persenyawaan",
@@ -64853,11 +64873,11 @@ const kamus = [
   },
   {
     "kata": "persiapan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "persidangan",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "persilatan",
@@ -64933,7 +64953,7 @@ const kamus = [
   },
   {
     "kata": "perspektif",
-    "count": 72
+    "count": 78
   },
   {
     "kata": "persuasi",
@@ -64953,7 +64973,7 @@ const kamus = [
   },
   {
     "kata": "persyaratan",
-    "count": 35
+    "count": 45
   },
   {
     "kata": "pertabiban",
@@ -64973,7 +64993,7 @@ const kamus = [
   },
   {
     "kata": "pertama",
-    "count": 145
+    "count": 208
   },
   {
     "kata": "pertama-tama",
@@ -65029,7 +65049,7 @@ const kamus = [
   },
   {
     "kata": "pertanyaan",
-    "count": 147
+    "count": 183
   },
   {
     "kata": "pertapa",
@@ -65129,7 +65149,7 @@ const kamus = [
   },
   {
     "kata": "pertimbangan",
-    "count": 124
+    "count": 194
   },
   {
     "kata": "pertinggal",
@@ -65169,7 +65189,7 @@ const kamus = [
   },
   {
     "kata": "pertukaran",
-    "count": 126
+    "count": 189
   },
   {
     "kata": "pertumbuhan",
@@ -65205,7 +65225,7 @@ const kamus = [
   },
   {
     "kata": "perubahan",
-    "count": 398
+    "count": 551
   },
   {
     "kata": "perubalsem",
@@ -65293,7 +65313,7 @@ const kamus = [
   },
   {
     "kata": "perwakilan",
-    "count": 142
+    "count": 154
   },
   {
     "kata": "perwasitan",
@@ -65329,7 +65349,7 @@ const kamus = [
   },
   {
     "kata": "pesan",
-    "count": 91
+    "count": 107
   },
   {
     "kata": "pesanan",
@@ -65377,7 +65397,7 @@ const kamus = [
   },
   {
     "kata": "peserta",
-    "count": 77
+    "count": 83
   },
   {
     "kata": "pesiar",
@@ -65437,11 +65457,11 @@ const kamus = [
   },
   {
     "kata": "peternak",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "peternakan",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "peti",
@@ -65525,7 +65545,7 @@ const kamus = [
   },
   {
     "kata": "pewarisan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pewarna",
@@ -65637,7 +65657,7 @@ const kamus = [
   },
   {
     "kata": "pihak",
-    "count": 94
+    "count": 100
   },
   {
     "kata": "pijakan",
@@ -65661,7 +65681,7 @@ const kamus = [
   },
   {
     "kata": "pikiran",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "piknometer",
@@ -65689,7 +65709,7 @@ const kamus = [
   },
   {
     "kata": "pilek",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "pilih",
@@ -65697,7 +65717,7 @@ const kamus = [
   },
   {
     "kata": "pilihan",
-    "count": 43
+    "count": 53
   },
   {
     "kata": "pilin",
@@ -65721,11 +65741,11 @@ const kamus = [
   },
   {
     "kata": "pimpinan",
-    "count": 94
+    "count": 100
   },
   {
     "kata": "pin",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "pinak",
@@ -66041,7 +66061,7 @@ const kamus = [
   },
   {
     "kata": "platform",
-    "count": 158
+    "count": 238
   },
   {
     "kata": "platonisme",
@@ -66081,7 +66101,7 @@ const kamus = [
   },
   {
     "kata": "plugin",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "plural",
@@ -66097,7 +66117,7 @@ const kamus = [
   },
   {
     "kata": "plus",
-    "count": 11
+    "count": 12
   },
   {
     "kata": "pluto",
@@ -66137,7 +66157,7 @@ const kamus = [
   },
   {
     "kata": "png",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "pnigofobia",
@@ -66193,7 +66213,7 @@ const kamus = [
   },
   {
     "kata": "pointer",
-    "count": 0
+    "count": 1
   },
   {
     "kata": "poiseuille",
@@ -66201,7 +66221,7 @@ const kamus = [
   },
   {
     "kata": "pojok",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "poket",
@@ -66217,7 +66237,7 @@ const kamus = [
   },
   {
     "kata": "pola",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "polah",
@@ -66493,7 +66513,7 @@ const kamus = [
   },
   {
     "kata": "pop",
-    "count": 0
+    "count": 2
   },
   {
     "kata": "popi",
@@ -66573,7 +66593,7 @@ const kamus = [
   },
   {
     "kata": "portabel",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "portabilitas",
@@ -66605,11 +66625,11 @@ const kamus = [
   },
   {
     "kata": "posisi",
-    "count": 152
+    "count": 266
   },
   {
     "kata": "positif",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "posko",
@@ -66641,7 +66661,7 @@ const kamus = [
   },
   {
     "kata": "postur",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "potamologi",
@@ -66657,7 +66677,7 @@ const kamus = [
   },
   {
     "kata": "potensi",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "potensial",
@@ -66681,7 +66701,7 @@ const kamus = [
   },
   {
     "kata": "potongan",
-    "count": 2
+    "count": 3
   },
   {
     "kata": "potret",
@@ -66689,7 +66709,7 @@ const kamus = [
   },
   {
     "kata": "power",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "PPDB",
@@ -66909,7 +66929,7 @@ const kamus = [
   },
   {
     "kata": "prasyarat",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "pratama",
@@ -66925,7 +66945,7 @@ const kamus = [
   },
   {
     "kata": "pratt",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "preasetabulum",
@@ -66937,7 +66957,7 @@ const kamus = [
   },
   {
     "kata": "precision",
-    "count": 22
+    "count": 32
   },
   {
     "kata": "predatoris",
@@ -66953,7 +66973,7 @@ const kamus = [
   },
   {
     "kata": "prediksi",
-    "count": 24
+    "count": 34
   },
   {
     "kata": "prediktor",
@@ -66965,7 +66985,7 @@ const kamus = [
   },
   {
     "kata": "prefiks",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "prehistori",
@@ -66997,7 +67017,7 @@ const kamus = [
   },
   {
     "kata": "premis",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "prenasal",
@@ -67013,7 +67033,7 @@ const kamus = [
   },
   {
     "kata": "preprocessing",
-    "count": 18
+    "count": 28
   },
   {
     "kata": "prerogatif",
@@ -67053,7 +67073,7 @@ const kamus = [
   },
   {
     "kata": "presisi",
-    "count": 11
+    "count": 21
   },
   {
     "kata": "preskripsi",
@@ -67141,7 +67161,7 @@ const kamus = [
   },
   {
     "kata": "prinsip",
-    "count": 77
+    "count": 134
   },
   {
     "kata": "prinsipiel",
@@ -67157,7 +67177,7 @@ const kamus = [
   },
   {
     "kata": "prioritas",
-    "count": 81
+    "count": 99
   },
   {
     "kata": "prisma",
@@ -67197,11 +67217,11 @@ const kamus = [
   },
   {
     "kata": "probabilitas",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "problem",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "problematika",
@@ -67217,15 +67237,15 @@ const kamus = [
   },
   {
     "kata": "process",
-    "count": 175
+    "count": 209
   },
   {
     "kata": "processing",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "processor",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "prodi",
@@ -67233,7 +67253,7 @@ const kamus = [
   },
   {
     "kata": "produk",
-    "count": 95
+    "count": 106
   },
   {
     "kata": "produk-produk",
@@ -67241,7 +67261,7 @@ const kamus = [
   },
   {
     "kata": "produksi",
-    "count": 75
+    "count": 98
   },
   {
     "kata": "produktif",
@@ -67253,11 +67273,11 @@ const kamus = [
   },
   {
     "kata": "produktivitas",
-    "count": 87
+    "count": 105
   },
   {
     "kata": "produsen",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "produser",
@@ -67277,7 +67297,7 @@ const kamus = [
   },
   {
     "kata": "profesionalisme",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "profesionalitas",
@@ -67289,7 +67309,7 @@ const kamus = [
   },
   {
     "kata": "profil",
-    "count": 105
+    "count": 116
   },
   {
     "kata": "profitabel",
@@ -67305,7 +67325,7 @@ const kamus = [
   },
   {
     "kata": "program",
-    "count": 228
+    "count": 309
   },
   {
     "kata": "programming",
@@ -67405,7 +67425,7 @@ const kamus = [
   },
   {
     "kata": "proposal",
-    "count": 30
+    "count": 40
   },
   {
     "kata": "proprioseptor",
@@ -67417,7 +67437,7 @@ const kamus = [
   },
   {
     "kata": "prosedur",
-    "count": 42
+    "count": 47
   },
   {
     "kata": "prosedural",
@@ -67429,7 +67449,7 @@ const kamus = [
   },
   {
     "kata": "proses",
-    "count": 448
+    "count": 610
   },
   {
     "kata": "prosesi",
@@ -67437,7 +67457,7 @@ const kamus = [
   },
   {
     "kata": "prosesnya",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "prosesor",
@@ -67497,7 +67517,7 @@ const kamus = [
   },
   {
     "kata": "protein",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "proteinase",
@@ -67521,11 +67541,11 @@ const kamus = [
   },
   {
     "kata": "protocol",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "protokol",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "protokoler",
@@ -67549,11 +67569,11 @@ const kamus = [
   },
   {
     "kata": "prototipe",
-    "count": 119
+    "count": 177
   },
   {
     "kata": "prototype",
-    "count": 252
+    "count": 316
   },
   {
     "kata": "protrombin",
@@ -67569,7 +67589,7 @@ const kamus = [
   },
   {
     "kata": "provinsi",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "provitamin",
@@ -67597,7 +67617,7 @@ const kamus = [
   },
   {
     "kata": "proyek",
-    "count": 69
+    "count": 126
   },
   {
     "kata": "proyeksi",
@@ -67757,7 +67777,7 @@ const kamus = [
   },
   {
     "kata": "public",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "publik",
@@ -67765,7 +67785,7 @@ const kamus = [
   },
   {
     "kata": "publikasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "publishing",
@@ -67853,7 +67873,7 @@ const kamus = [
   },
   {
     "kata": "pula",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "pulang",
@@ -67897,7 +67917,7 @@ const kamus = [
   },
   {
     "kata": "puluhan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "puncak",
@@ -67909,7 +67929,7 @@ const kamus = [
   },
   {
     "kata": "punggung",
-    "count": 48
+    "count": 88
   },
   {
     "kata": "punggur",
@@ -68053,7 +68073,7 @@ const kamus = [
   },
   {
     "kata": "pusat",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "puseh",
@@ -68093,7 +68113,7 @@ const kamus = [
   },
   {
     "kata": "pustaka",
-    "count": 160
+    "count": 188
   },
   {
     "kata": "pustakawan",
@@ -68133,7 +68153,7 @@ const kamus = [
   },
   {
     "kata": "putra",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "putrefaksi",
@@ -68165,7 +68185,7 @@ const kamus = [
   },
   {
     "kata": "Python",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "q",
@@ -68477,7 +68497,7 @@ const kamus = [
   },
   {
     "kata": "ramah",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "ramai",
@@ -68549,11 +68569,11 @@ const kamus = [
   },
   {
     "kata": "rancang",
-    "count": 124
+    "count": 130
   },
   {
     "kata": "rancangan",
-    "count": 220
+    "count": 306
   },
   {
     "kata": "rancu",
@@ -68569,7 +68589,7 @@ const kamus = [
   },
   {
     "kata": "rangka",
-    "count": 87
+    "count": 93
   },
   {
     "kata": "rangkah",
@@ -68581,7 +68601,7 @@ const kamus = [
   },
   {
     "kata": "rangkaian",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "rangkap",
@@ -68645,7 +68665,7 @@ const kamus = [
   },
   {
     "kata": "rapat",
-    "count": 202
+    "count": 214
   },
   {
     "kata": "rapat-rapat",
@@ -68685,7 +68705,7 @@ const kamus = [
   },
   {
     "kata": "rasa",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "rasanya",
@@ -68733,7 +68753,7 @@ const kamus = [
   },
   {
     "kata": "rate",
-    "count": 69
+    "count": 87
   },
   {
     "kata": "ratifikasi",
@@ -68853,7 +68873,7 @@ const kamus = [
   },
   {
     "kata": "real",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "realis",
@@ -68909,7 +68929,7 @@ const kamus = [
   },
   {
     "kata": "recall",
-    "count": 20
+    "count": 30
   },
   {
     "kata": "receh",
@@ -68925,7 +68945,7 @@ const kamus = [
   },
   {
     "kata": "record",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "recovery",
@@ -68977,7 +68997,7 @@ const kamus = [
   },
   {
     "kata": "referensi",
-    "count": 30
+    "count": 40
   },
   {
     "kata": "refleks",
@@ -69149,7 +69169,7 @@ const kamus = [
   },
   {
     "kata": "rekomendasi",
-    "count": 31
+    "count": 41
   },
   {
     "kata": "rekompensi",
@@ -69237,7 +69257,7 @@ const kamus = [
   },
   {
     "kata": "relasional",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "relatif",
@@ -69249,7 +69269,7 @@ const kamus = [
   },
   {
     "kata": "relevan",
-    "count": 95
+    "count": 118
   },
   {
     "kata": "relevansi",
@@ -69329,7 +69349,7 @@ const kamus = [
   },
   {
     "kata": "rencana",
-    "count": 69
+    "count": 121
   },
   {
     "kata": "renceng",
@@ -69341,7 +69361,7 @@ const kamus = [
   },
   {
     "kata": "rendah",
-    "count": 69
+    "count": 92
   },
   {
     "kata": "rendahan",
@@ -69421,7 +69441,7 @@ const kamus = [
   },
   {
     "kata": "representasi",
-    "count": 6
+    "count": 11
   },
   {
     "kata": "representatif",
@@ -69433,7 +69453,7 @@ const kamus = [
   },
   {
     "kata": "reproduksi",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "reprografi",
@@ -69461,11 +69481,11 @@ const kamus = [
   },
   {
     "kata": "reputasi",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "request",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "requirement",
@@ -69473,7 +69493,7 @@ const kamus = [
   },
   {
     "kata": "rerata",
-    "count": 75
+    "count": 81
   },
   {
     "kata": "rerongkong",
@@ -69501,7 +69521,7 @@ const kamus = [
   },
   {
     "kata": "research",
-    "count": 140
+    "count": 215
   },
   {
     "kata": "resep",
@@ -69537,7 +69557,7 @@ const kamus = [
   },
   {
     "kata": "resiko",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "resiliensi",
@@ -69557,7 +69577,7 @@ const kamus = [
   },
   {
     "kata": "resistensi",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "resital",
@@ -69593,7 +69613,7 @@ const kamus = [
   },
   {
     "kata": "resource",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "respirasi",
@@ -69621,7 +69641,7 @@ const kamus = [
   },
   {
     "kata": "responsif",
-    "count": 81
+    "count": 92
   },
   {
     "kata": "resto",
@@ -69721,7 +69741,7 @@ const kamus = [
   },
   {
     "kata": "return",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "retzins",
@@ -69849,7 +69869,7 @@ const kamus = [
   },
   {
     "kata": "rilis",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "rima",
@@ -69865,11 +69885,11 @@ const kamus = [
   },
   {
     "kata": "rinci",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "rincian",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "rindang",
@@ -69885,7 +69905,7 @@ const kamus = [
   },
   {
     "kata": "ringan",
-    "count": 140
+    "count": 181
   },
   {
     "kata": "ringkas",
@@ -69921,7 +69941,7 @@ const kamus = [
   },
   {
     "kata": "risalah",
-    "count": 146
+    "count": 158
   },
   {
     "kata": "risau",
@@ -69937,7 +69957,7 @@ const kamus = [
   },
   {
     "kata": "risiko",
-    "count": 139
+    "count": 214
   },
   {
     "kata": "ritmis",
@@ -69953,7 +69973,7 @@ const kamus = [
   },
   {
     "kata": "riwayat",
-    "count": 98
+    "count": 202
   },
   {
     "kata": "rizopterin",
@@ -70193,11 +70213,11 @@ const kamus = [
   },
   {
     "kata": "ruang",
-    "count": 94
+    "count": 105
   },
   {
     "kata": "ruangan",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "ruas",
@@ -70241,7 +70261,7 @@ const kamus = [
   },
   {
     "kata": "rule",
-    "count": 124
+    "count": 165
   },
   {
     "kata": "rumah",
@@ -70273,7 +70293,7 @@ const kamus = [
   },
   {
     "kata": "rumit",
-    "count": 88
+    "count": 106
   },
   {
     "kata": "rumpakan",
@@ -70289,11 +70309,11 @@ const kamus = [
   },
   {
     "kata": "rumus",
-    "count": 32
+    "count": 37
   },
   {
     "kata": "rumusan",
-    "count": 47
+    "count": 57
   },
   {
     "kata": "runcing",
@@ -70313,7 +70333,7 @@ const kamus = [
   },
   {
     "kata": "runtime",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "runtuh",
@@ -70385,7 +70405,7 @@ const kamus = [
   },
   {
     "kata": "rutin",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "rutinitas",
@@ -70425,7 +70445,7 @@ const kamus = [
   },
   {
     "kata": "saat",
-    "count": 294
+    "count": 386
   },
   {
     "kata": "sabak",
@@ -70473,7 +70493,7 @@ const kamus = [
   },
   {
     "kata": "sabrina",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "sabtu",
@@ -70573,7 +70593,7 @@ const kamus = [
   },
   {
     "kata": "sains",
-    "count": 3
+    "count": 8
   },
   {
     "kata": "saintifik",
@@ -70585,7 +70605,7 @@ const kamus = [
   },
   {
     "kata": "saja",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "sajadah",
@@ -70629,7 +70649,7 @@ const kamus = [
   },
   {
     "kata": "sakit",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "sakit-sakitan",
@@ -70637,7 +70657,7 @@ const kamus = [
   },
   {
     "kata": "saklar",
-    "count": 96
+    "count": 200
   },
   {
     "kata": "sakralitas",
@@ -70673,7 +70693,7 @@ const kamus = [
   },
   {
     "kata": "salah",
-    "count": 233
+    "count": 319
   },
   {
     "kata": "salai",
@@ -70725,7 +70745,7 @@ const kamus = [
   },
   {
     "kata": "saling",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "salinisasi",
@@ -70753,11 +70773,11 @@ const kamus = [
   },
   {
     "kata": "saluran",
-    "count": 144
+    "count": 180
   },
   {
     "kata": "sama",
-    "count": 143
+    "count": 218
   },
   {
     "kata": "samak",
@@ -70813,7 +70833,7 @@ const kamus = [
   },
   {
     "kata": "sampai",
-    "count": 26
+    "count": 31
   },
   {
     "kata": "sampaian",
@@ -70901,11 +70921,11 @@ const kamus = [
   },
   {
     "kata": "sandaran",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "sandi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "sanding",
@@ -70933,7 +70953,7 @@ const kamus = [
   },
   {
     "kata": "sangat",
-    "count": 258
+    "count": 305
   },
   {
     "kata": "sangatlah",
@@ -71005,7 +71025,7 @@ const kamus = [
   },
   {
     "kata": "sani",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "saniscara",
@@ -71101,11 +71121,11 @@ const kamus = [
   },
   {
     "kata": "saran",
-    "count": 288
+    "count": 374
   },
   {
     "kata": "sarana",
-    "count": 62
+    "count": 119
   },
   {
     "kata": "sarang",
@@ -71141,7 +71161,7 @@ const kamus = [
   },
   {
     "kata": "sarjana",
-    "count": 15
+    "count": 20
   },
   {
     "kata": "sarkas",
@@ -71249,7 +71269,7 @@ const kamus = [
   },
   {
     "kata": "satu",
-    "count": 253
+    "count": 339
   },
   {
     "kata": "satu-satunya",
@@ -71349,7 +71369,7 @@ const kamus = [
   },
   {
     "kata": "saya",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "sayang",
@@ -71357,7 +71377,7 @@ const kamus = [
   },
   {
     "kata": "sayap",
-    "count": 132
+    "count": 168
   },
   {
     "kata": "sayidah",
@@ -71477,7 +71497,7 @@ const kamus = [
   },
   {
     "kata": "search",
-    "count": 26
+    "count": 36
   },
   {
     "kata": "seartistik",
@@ -71489,23 +71509,23 @@ const kamus = [
   },
   {
     "kata": "sebab",
-    "count": 135
+    "count": 193
   },
   {
     "kata": "sebagai",
-    "count": 251
+    "count": 337
   },
   {
     "kata": "sebagaimana",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "sebagainya",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "sebagian",
-    "count": 64
+    "count": 121
   },
   {
     "kata": "sebagus",
@@ -71533,7 +71553,7 @@ const kamus = [
   },
   {
     "kata": "sebaliknya",
-    "count": 65
+    "count": 122
   },
   {
     "kata": "sebanding",
@@ -71549,7 +71569,7 @@ const kamus = [
   },
   {
     "kata": "sebanyak",
-    "count": 58
+    "count": 115
   },
   {
     "kata": "sebar",
@@ -71585,7 +71605,7 @@ const kamus = [
   },
   {
     "kata": "sebelah",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "sebelas",
@@ -71593,15 +71613,15 @@ const kamus = [
   },
   {
     "kata": "sebelum",
-    "count": 111
+    "count": 127
   },
   {
     "kata": "sebelumnya",
-    "count": 229
+    "count": 310
   },
   {
     "kata": "sebenarnya",
-    "count": 77
+    "count": 139
   },
   {
     "kata": "sebentar",
@@ -71613,11 +71633,11 @@ const kamus = [
   },
   {
     "kata": "seberapa",
-    "count": 93
+    "count": 116
   },
   {
     "kata": "sebesar",
-    "count": 208
+    "count": 289
   },
   {
     "kata": "sebetulnya",
@@ -71645,7 +71665,7 @@ const kamus = [
   },
   {
     "kata": "sebuah",
-    "count": 316
+    "count": 408
   },
   {
     "kata": "sebulan",
@@ -71661,7 +71681,7 @@ const kamus = [
   },
   {
     "kata": "sebutan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "secang",
@@ -71677,7 +71697,7 @@ const kamus = [
   },
   {
     "kata": "secara",
-    "count": 295
+    "count": 433
   },
   {
     "kata": "secendekia",
@@ -71705,7 +71725,7 @@ const kamus = [
   },
   {
     "kata": "security",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "sedaerah",
@@ -71721,11 +71741,11 @@ const kamus = [
   },
   {
     "kata": "sedang",
-    "count": 164
+    "count": 193
   },
   {
     "kata": "sedangkan",
-    "count": 162
+    "count": 237
   },
   {
     "kata": "sedap",
@@ -71813,7 +71833,7 @@ const kamus = [
   },
   {
     "kata": "sedikit",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "sedikit-sedikit",
@@ -71901,7 +71921,7 @@ const kamus = [
   },
   {
     "kata": "segala",
-    "count": 75
+    "count": 81
   },
   {
     "kata": "segala-galanya",
@@ -71937,11 +71957,11 @@ const kamus = [
   },
   {
     "kata": "segera",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "segi",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "segitiga",
@@ -71953,7 +71973,7 @@ const kamus = [
   },
   {
     "kata": "segmentasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "segregatif",
@@ -71993,7 +72013,7 @@ const kamus = [
   },
   {
     "kata": "sehari",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "sehari-hari",
@@ -72033,7 +72053,7 @@ const kamus = [
   },
   {
     "kata": "sehingga",
-    "count": 232
+    "count": 313
   },
   {
     "kata": "seibu",
@@ -72045,7 +72065,7 @@ const kamus = [
   },
   {
     "kata": "seimbang",
-    "count": 60
+    "count": 112
   },
   {
     "kata": "sein",
@@ -72057,7 +72077,7 @@ const kamus = [
   },
   {
     "kata": "seiring",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "seismik",
@@ -72093,11 +72113,11 @@ const kamus = [
   },
   {
     "kata": "sejajar",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "sejak",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "sejalan",
@@ -72153,7 +72173,7 @@ const kamus = [
   },
   {
     "kata": "sejumlah",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "sekadar",
@@ -72169,7 +72189,7 @@ const kamus = [
   },
   {
     "kata": "sekali",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "sekali-kali",
@@ -72185,7 +72205,7 @@ const kamus = [
   },
   {
     "kata": "sekaligus",
-    "count": 134
+    "count": 197
   },
   {
     "kata": "sekalipun",
@@ -72285,7 +72305,7 @@ const kamus = [
   },
   {
     "kata": "sekitar",
-    "count": 71
+    "count": 123
   },
   {
     "kata": "sekjen",
@@ -72305,7 +72325,7 @@ const kamus = [
   },
   {
     "kata": "sekretariat",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "sekretaris",
@@ -72353,7 +72373,7 @@ const kamus = [
   },
   {
     "kata": "sektor",
-    "count": 77
+    "count": 95
   },
   {
     "kata": "sektoral",
@@ -72381,7 +72401,7 @@ const kamus = [
   },
   {
     "kata": "sekumpulan",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "sekunder",
@@ -72405,7 +72425,7 @@ const kamus = [
   },
   {
     "kata": "sel",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "sela",
@@ -72433,7 +72453,7 @@ const kamus = [
   },
   {
     "kata": "selain",
-    "count": 184
+    "count": 218
   },
   {
     "kata": "selakarang",
@@ -72453,7 +72473,7 @@ const kamus = [
   },
   {
     "kata": "selama",
-    "count": 138
+    "count": 206
   },
   {
     "kata": "selama-lamanya",
@@ -72505,7 +72525,7 @@ const kamus = [
   },
   {
     "kata": "selanjutnya",
-    "count": 349
+    "count": 493
   },
   {
     "kata": "selaput",
@@ -72629,7 +72649,7 @@ const kamus = [
   },
   {
     "kata": "selesai",
-    "count": 90
+    "count": 101
   },
   {
     "kata": "selesaikan",
@@ -72761,11 +72781,11 @@ const kamus = [
   },
   {
     "kata": "seluruh",
-    "count": 71
+    "count": 132
   },
   {
     "kata": "seluruhnya",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "selurusnya",
@@ -72785,7 +72805,7 @@ const kamus = [
   },
   {
     "kata": "semakin",
-    "count": 33
+    "count": 43
   },
   {
     "kata": "semaksimal",
@@ -72941,11 +72961,11 @@ const kamus = [
   },
   {
     "kata": "semenjak",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "sementara",
-    "count": 75
+    "count": 132
   },
   {
     "kata": "sementelah",
@@ -72985,7 +73005,7 @@ const kamus = [
   },
   {
     "kata": "semestinya",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "semi",
@@ -73025,7 +73045,7 @@ const kamus = [
   },
   {
     "kata": "seminar",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "seminau",
@@ -73093,7 +73113,7 @@ const kamus = [
   },
   {
     "kata": "semua",
-    "count": 222
+    "count": 303
   },
   {
     "kata": "semua-muanya",
@@ -73165,11 +73185,11 @@ const kamus = [
   },
   {
     "kata": "sendi",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "sendiri",
-    "count": 278
+    "count": 377
   },
   {
     "kata": "sendok",
@@ -73277,7 +73297,7 @@ const kamus = [
   },
   {
     "kata": "sensor",
-    "count": 110
+    "count": 219
   },
   {
     "kata": "sensoris",
@@ -73313,7 +73333,7 @@ const kamus = [
   },
   {
     "kata": "sentimen",
-    "count": 2
+    "count": 7
   },
   {
     "kata": "sentimeter",
@@ -73365,7 +73385,7 @@ const kamus = [
   },
   {
     "kata": "seorang",
-    "count": 169
+    "count": 203
   },
   {
     "kata": "sepadan",
@@ -73401,7 +73421,7 @@ const kamus = [
   },
   {
     "kata": "sepanjang",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "sepantasnya",
@@ -73505,7 +73525,7 @@ const kamus = [
   },
   {
     "kata": "sepenuhnya",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "seperanggu",
@@ -73557,7 +73577,7 @@ const kamus = [
   },
   {
     "kata": "seperti",
-    "count": 241
+    "count": 327
   },
   {
     "kata": "sepertiga",
@@ -73649,7 +73669,7 @@ const kamus = [
   },
   {
     "kata": "sequence",
-    "count": 46
+    "count": 56
   },
   {
     "kata": "seraga",
@@ -73693,7 +73713,7 @@ const kamus = [
   },
   {
     "kata": "serangkaian",
-    "count": 5
+    "count": 10
   },
   {
     "kata": "serangsang",
@@ -73709,7 +73729,7 @@ const kamus = [
   },
   {
     "kata": "serapan",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "serasa",
@@ -73869,15 +73889,15 @@ const kamus = [
   },
   {
     "kata": "sering",
-    "count": 146
+    "count": 221
   },
   {
     "kata": "seringkali",
-    "count": 83
+    "count": 89
   },
   {
     "kata": "serius",
-    "count": 55
+    "count": 107
   },
   {
     "kata": "serosum",
@@ -73901,7 +73921,7 @@ const kamus = [
   },
   {
     "kata": "serta",
-    "count": 224
+    "count": 305
   },
   {
     "kata": "serta-merta",
@@ -73953,11 +73973,11 @@ const kamus = [
   },
   {
     "kata": "serupa",
-    "count": 69
+    "count": 92
   },
   {
     "kata": "server",
-    "count": 35
+    "count": 40
   },
   {
     "kata": "service",
@@ -74013,7 +74033,7 @@ const kamus = [
   },
   {
     "kata": "seseorang",
-    "count": 95
+    "count": 110
   },
   {
     "kata": "sesepuh",
@@ -74029,7 +74049,7 @@ const kamus = [
   },
   {
     "kata": "sesuai",
-    "count": 229
+    "count": 298
   },
   {
     "kata": "sesuang-suang",
@@ -74037,7 +74057,7 @@ const kamus = [
   },
   {
     "kata": "sesuatu",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "sesudah",
@@ -74105,7 +74125,7 @@ const kamus = [
   },
   {
     "kata": "setelah",
-    "count": 384
+    "count": 494
   },
   {
     "kata": "setelahnya",
@@ -74149,7 +74169,7 @@ const kamus = [
   },
   {
     "kata": "setiap",
-    "count": 233
+    "count": 331
   },
   {
     "kata": "setiawan",
@@ -74205,7 +74225,7 @@ const kamus = [
   },
   {
     "kata": "setuju",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "setum",
@@ -74313,11 +74333,11 @@ const kamus = [
   },
   {
     "kata": "shareware",
-    "count": 29
+    "count": 34
   },
   {
     "kata": "sharing",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "shell",
@@ -74361,7 +74381,7 @@ const kamus = [
   },
   {
     "kata": "siang",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "sianometer",
@@ -74381,7 +74401,7 @@ const kamus = [
   },
   {
     "kata": "siapa",
-    "count": 85
+    "count": 91
   },
   {
     "kata": "siar",
@@ -74465,7 +74485,7 @@ const kamus = [
   },
   {
     "kata": "signifikan",
-    "count": 94
+    "count": 117
   },
   {
     "kata": "signifikansi",
@@ -74641,7 +74661,7 @@ const kamus = [
   },
   {
     "kata": "simbol",
-    "count": 32
+    "count": 42
   },
   {
     "kata": "simbolik",
@@ -74669,7 +74689,7 @@ const kamus = [
   },
   {
     "kata": "similarity",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "simit",
@@ -74681,7 +74701,7 @@ const kamus = [
   },
   {
     "kata": "simpan",
-    "count": 94
+    "count": 105
   },
   {
     "kata": "simpanan",
@@ -74733,7 +74753,7 @@ const kamus = [
   },
   {
     "kata": "simpulan",
-    "count": 70
+    "count": 88
   },
   {
     "kata": "simpur",
@@ -74805,7 +74825,7 @@ const kamus = [
   },
   {
     "kata": "sinematik",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "sinematografi",
@@ -74865,7 +74885,7 @@ const kamus = [
   },
   {
     "kata": "singkat",
-    "count": 71
+    "count": 128
   },
   {
     "kata": "singkatan",
@@ -74949,7 +74969,7 @@ const kamus = [
   },
   {
     "kata": "sintaks",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "sintaksis",
@@ -75057,7 +75077,7 @@ const kamus = [
   },
   {
     "kata": "sirkulasi",
-    "count": 52
+    "count": 104
   },
   {
     "kata": "sirkumfiks",
@@ -75081,7 +75101,7 @@ const kamus = [
   },
   {
     "kata": "sisi",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "sisih",
@@ -75105,7 +75125,7 @@ const kamus = [
   },
   {
     "kata": "sistem",
-    "count": 560
+    "count": 722
   },
   {
     "kata": "sistematik",
@@ -75113,11 +75133,11 @@ const kamus = [
   },
   {
     "kata": "sistematika",
-    "count": 42
+    "count": 52
   },
   {
     "kata": "sistematis",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "sistematisasi",
@@ -75193,7 +75213,7 @@ const kamus = [
   },
   {
     "kata": "situs",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "sivilisasi",
@@ -75201,7 +75221,7 @@ const kamus = [
   },
   {
     "kata": "skala",
-    "count": 140
+    "count": 181
   },
   {
     "kata": "skalar",
@@ -75209,11 +75229,11 @@ const kamus = [
   },
   {
     "kata": "skema",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "skenario",
-    "count": 110
+    "count": 116
   },
   {
     "kata": "skeneri",
@@ -75257,11 +75277,11 @@ const kamus = [
   },
   {
     "kata": "skrip",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "skripsi",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "skrotum",
@@ -75313,11 +75333,11 @@ const kamus = [
   },
   {
     "kata": "smart",
-    "count": 112
+    "count": 221
   },
   {
     "kata": "smartphone",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "SMK",
@@ -75353,7 +75373,7 @@ const kamus = [
   },
   {
     "kata": "software",
-    "count": 87
+    "count": 149
   },
   {
     "kata": "sogok",
@@ -75405,11 +75425,11 @@ const kamus = [
   },
   {
     "kata": "solusi",
-    "count": 181
+    "count": 205
   },
   {
     "kata": "solution",
-    "count": 76
+    "count": 82
   },
   {
     "kata": "Somalia",
@@ -75549,7 +75569,7 @@ const kamus = [
   },
   {
     "kata": "sound",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "soundtrack",
@@ -75557,7 +75577,7 @@ const kamus = [
   },
   {
     "kata": "source",
-    "count": 78
+    "count": 135
   },
   {
     "kata": "souvenir",
@@ -75597,7 +75617,7 @@ const kamus = [
   },
   {
     "kata": "spasi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "spasial",
@@ -75625,7 +75645,7 @@ const kamus = [
   },
   {
     "kata": "speed",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "spektograf",
@@ -75693,11 +75713,11 @@ const kamus = [
   },
   {
     "kata": "spesifik",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "spesifikasi",
-    "count": 116
+    "count": 132
   },
   {
     "kata": "Spesifisitas",
@@ -75777,7 +75797,7 @@ const kamus = [
   },
   {
     "kata": "spreadsheet",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "SQL",
@@ -75805,15 +75825,15 @@ const kamus = [
   },
   {
     "kata": "stabilitas",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "stack",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "staf",
-    "count": 86
+    "count": 92
   },
   {
     "kata": "stafilitis",
@@ -75841,7 +75861,7 @@ const kamus = [
   },
   {
     "kata": "standar",
-    "count": 31
+    "count": 36
   },
   {
     "kata": "standard",
@@ -75905,7 +75925,7 @@ const kamus = [
   },
   {
     "kata": "statis",
-    "count": 89
+    "count": 100
   },
   {
     "kata": "statistik",
@@ -75917,7 +75937,7 @@ const kamus = [
   },
   {
     "kata": "status",
-    "count": 151
+    "count": 209
   },
   {
     "kata": "statuta",
@@ -75941,7 +75961,7 @@ const kamus = [
   },
   {
     "kata": "stemming",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "stenofobia",
@@ -76125,7 +76145,7 @@ const kamus = [
   },
   {
     "kata": "string",
-    "count": 15
+    "count": 25
   },
   {
     "kata": "stringendo",
@@ -76149,7 +76169,7 @@ const kamus = [
   },
   {
     "kata": "struktur",
-    "count": 149
+    "count": 212
   },
   {
     "kata": "struktural",
@@ -76161,7 +76181,7 @@ const kamus = [
   },
   {
     "kata": "studi",
-    "count": 116
+    "count": 132
   },
   {
     "kata": "studinya",
@@ -76193,7 +76213,7 @@ const kamus = [
   },
   {
     "kata": "suara",
-    "count": 56
+    "count": 108
   },
   {
     "kata": "suargaloka",
@@ -76209,7 +76229,7 @@ const kamus = [
   },
   {
     "kata": "suatu",
-    "count": 233
+    "count": 314
   },
   {
     "kata": "sub",
@@ -76225,7 +76245,7 @@ const kamus = [
   },
   {
     "kata": "subbab",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "subbidang",
@@ -76285,7 +76305,7 @@ const kamus = [
   },
   {
     "kata": "submit",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "subnet",
@@ -76341,15 +76361,15 @@ const kamus = [
   },
   {
     "kata": "substitusi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "substitution",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "substrat",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "subuh",
@@ -76381,7 +76401,7 @@ const kamus = [
   },
   {
     "kata": "sudah",
-    "count": 100
+    "count": 123
   },
   {
     "kata": "Sudan",
@@ -76405,7 +76425,7 @@ const kamus = [
   },
   {
     "kata": "sudut",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "sugeno",
@@ -76421,7 +76441,7 @@ const kamus = [
   },
   {
     "kata": "suhu",
-    "count": 49
+    "count": 101
   },
   {
     "kata": "suka",
@@ -76489,7 +76509,7 @@ const kamus = [
   },
   {
     "kata": "sulawesi",
-    "count": 146
+    "count": 170
   },
   {
     "kata": "sulfanilamida",
@@ -76517,7 +76537,7 @@ const kamus = [
   },
   {
     "kata": "sulit",
-    "count": 118
+    "count": 188
   },
   {
     "kata": "sulitnya",
@@ -76577,7 +76597,7 @@ const kamus = [
   },
   {
     "kata": "sumber",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "sumbing",
@@ -76805,7 +76825,7 @@ const kamus = [
   },
   {
     "kata": "surat",
-    "count": 81
+    "count": 87
   },
   {
     "kata": "suratan",
@@ -77001,7 +77021,7 @@ const kamus = [
   },
   {
     "kata": "switch",
-    "count": 110
+    "count": 214
   },
   {
     "kata": "switched",
@@ -77069,7 +77089,7 @@ const kamus = [
   },
   {
     "kata": "syarat",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "syarat-syarat",
@@ -77101,7 +77121,7 @@ const kamus = [
   },
   {
     "kata": "system",
-    "count": 448
+    "count": 610
   },
   {
     "kata": "syukran",
@@ -77109,7 +77129,7 @@ const kamus = [
   },
   {
     "kata": "syukur",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "syura",
@@ -77133,7 +77153,7 @@ const kamus = [
   },
   {
     "kata": "tabel",
-    "count": 355
+    "count": 499
   },
   {
     "kata": "tabernakel",
@@ -77157,7 +77177,7 @@ const kamus = [
   },
   {
     "kata": "table",
-    "count": 2
+    "count": 12
   },
   {
     "kata": "tablet",
@@ -77225,7 +77245,7 @@ const kamus = [
   },
   {
     "kata": "tag",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "tagihan",
@@ -77249,11 +77269,11 @@ const kamus = [
   },
   {
     "kata": "tahap",
-    "count": 284
+    "count": 422
   },
   {
     "kata": "tahapan",
-    "count": 77
+    "count": 139
   },
   {
     "kata": "tahapannya",
@@ -77281,7 +77301,7 @@ const kamus = [
   },
   {
     "kata": "tahun",
-    "count": 118
+    "count": 146
   },
   {
     "kata": "tahunan",
@@ -77289,7 +77309,7 @@ const kamus = [
   },
   {
     "kata": "tahunnya",
-    "count": 51
+    "count": 103
   },
   {
     "kata": "Taiwan",
@@ -77317,7 +77337,7 @@ const kamus = [
   },
   {
     "kata": "tak",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "takadekuat",
@@ -77605,11 +77625,11 @@ const kamus = [
   },
   {
     "kata": "tambah",
-    "count": 160
+    "count": 182
   },
   {
     "kata": "tambahan",
-    "count": 93
+    "count": 104
   },
   {
     "kata": "tambak",
@@ -77649,7 +77669,7 @@ const kamus = [
   },
   {
     "kata": "tampak",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "tampaknya",
@@ -77669,11 +77689,11 @@ const kamus = [
   },
   {
     "kata": "tampil",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "tampilan",
-    "count": 237
+    "count": 311
   },
   {
     "kata": "tampuk",
@@ -77733,7 +77753,7 @@ const kamus = [
   },
   {
     "kata": "tanda",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "tandai",
@@ -77801,7 +77821,7 @@ const kamus = [
   },
   {
     "kata": "tanggal",
-    "count": 74
+    "count": 80
   },
   {
     "kata": "tanggap",
@@ -77897,11 +77917,11 @@ const kamus = [
   },
   {
     "kata": "tanpa",
-    "count": 162
+    "count": 191
   },
   {
     "kata": "tantangan",
-    "count": 149
+    "count": 178
   },
   {
     "kata": "tantangannya",
@@ -77953,7 +77973,7 @@ const kamus = [
   },
   {
     "kata": "target",
-    "count": 33
+    "count": 38
   },
   {
     "kata": "tari",
@@ -78021,7 +78041,7 @@ const kamus = [
   },
   {
     "kata": "task",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "taskbar",
@@ -78037,7 +78057,7 @@ const kamus = [
   },
   {
     "kata": "tata",
-    "count": 80
+    "count": 86
   },
   {
     "kata": "tataganing",
@@ -78197,7 +78217,7 @@ const kamus = [
   },
   {
     "kata": "technology",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "tedong-tedong",
@@ -78217,7 +78237,7 @@ const kamus = [
   },
   {
     "kata": "Tegal",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "tegalan",
@@ -78277,7 +78297,7 @@ const kamus = [
   },
   {
     "kata": "tekanan",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "tekat",
@@ -78297,7 +78317,7 @@ const kamus = [
   },
   {
     "kata": "teknik",
-    "count": 255
+    "count": 341
   },
   {
     "kata": "teknis",
@@ -78329,7 +78349,7 @@ const kamus = [
   },
   {
     "kata": "teknologi",
-    "count": 88
+    "count": 99
   },
   {
     "kata": "teko",
@@ -78337,7 +78357,7 @@ const kamus = [
   },
   {
     "kata": "teks",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "tekstil",
@@ -78369,7 +78389,7 @@ const kamus = [
   },
   {
     "kata": "telaah",
-    "count": 71
+    "count": 89
   },
   {
     "kata": "teladan",
@@ -78381,7 +78401,7 @@ const kamus = [
   },
   {
     "kata": "telah",
-    "count": 219
+    "count": 300
   },
   {
     "kata": "telanjang",
@@ -78521,7 +78541,7 @@ const kamus = [
   },
   {
     "kata": "telur",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "tema",
@@ -78621,7 +78641,7 @@ const kamus = [
   },
   {
     "kata": "tempat",
-    "count": 48
+    "count": 58
   },
   {
     "kata": "tempatan",
@@ -78665,7 +78685,7 @@ const kamus = [
   },
   {
     "kata": "template",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "tempo",
@@ -78677,7 +78697,7 @@ const kamus = [
   },
   {
     "kata": "tempuh",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "tempur",
@@ -78693,7 +78713,7 @@ const kamus = [
   },
   {
     "kata": "temuan",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "temungkul",
@@ -78725,7 +78745,7 @@ const kamus = [
   },
   {
     "kata": "tenggara",
-    "count": 147
+    "count": 171
   },
   {
     "kata": "tenggarang",
@@ -78753,7 +78773,7 @@ const kamus = [
   },
   {
     "kata": "tenggorokan",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "tenggulung",
@@ -78801,7 +78821,7 @@ const kamus = [
   },
   {
     "kata": "tentang",
-    "count": 154
+    "count": 234
   },
   {
     "kata": "tentara",
@@ -78817,7 +78837,7 @@ const kamus = [
   },
   {
     "kata": "tentunya",
-    "count": 90
+    "count": 96
   },
   {
     "kata": "tenun",
@@ -78845,7 +78865,7 @@ const kamus = [
   },
   {
     "kata": "teori",
-    "count": 35
+    "count": 40
   },
   {
     "kata": "teori-teori",
@@ -78865,7 +78885,7 @@ const kamus = [
   },
   {
     "kata": "tepat",
-    "count": 98
+    "count": 109
   },
   {
     "kata": "tepatan",
@@ -78941,7 +78961,7 @@ const kamus = [
   },
   {
     "kata": "terakhir",
-    "count": 80
+    "count": 137
   },
   {
     "kata": "terakomodasi",
@@ -79053,7 +79073,7 @@ const kamus = [
   },
   {
     "kata": "terapi",
-    "count": 67
+    "count": 85
   },
   {
     "kata": "terapis",
@@ -79137,7 +79157,7 @@ const kamus = [
   },
   {
     "kata": "terbaik",
-    "count": 30
+    "count": 35
   },
   {
     "kata": "terbakar",
@@ -79193,7 +79213,7 @@ const kamus = [
   },
   {
     "kata": "terbaru",
-    "count": 59
+    "count": 111
   },
   {
     "kata": "terbarukan",
@@ -79201,7 +79221,7 @@ const kamus = [
   },
   {
     "kata": "terbatas",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "terbatasi",
@@ -79209,7 +79229,7 @@ const kamus = [
   },
   {
     "kata": "terbawa",
-    "count": 0
+    "count": 4
   },
   {
     "kata": "terbebani",
@@ -79265,7 +79285,7 @@ const kamus = [
   },
   {
     "kata": "terbentuk",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "terbentur",
@@ -79281,7 +79301,7 @@ const kamus = [
   },
   {
     "kata": "terbesar",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "terbesit",
@@ -79325,7 +79345,7 @@ const kamus = [
   },
   {
     "kata": "terbuka",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "terbukti",
@@ -79397,11 +79417,11 @@ const kamus = [
   },
   {
     "kata": "tercantum",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "tercapai",
-    "count": 117
+    "count": 187
   },
   {
     "kata": "tercatat",
@@ -79441,7 +79461,7 @@ const kamus = [
   },
   {
     "kata": "tercepat",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "tercera-berai",
@@ -79521,11 +79541,11 @@ const kamus = [
   },
   {
     "kata": "terdaftar",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "terdahulu",
-    "count": 85
+    "count": 108
   },
   {
     "kata": "terdahului",
@@ -79541,7 +79561,7 @@ const kamus = [
   },
   {
     "kata": "terdapat",
-    "count": 367
+    "count": 472
   },
   {
     "kata": "terdayuh",
@@ -79553,7 +79573,7 @@ const kamus = [
   },
   {
     "kata": "terdekat",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terdengar",
@@ -79581,7 +79601,7 @@ const kamus = [
   },
   {
     "kata": "terdeteksi",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "terdiagnosis",
@@ -79609,7 +79629,7 @@ const kamus = [
   },
   {
     "kata": "terdiri",
-    "count": 121
+    "count": 230
   },
   {
     "kata": "terdiskriminasi",
@@ -79625,11 +79645,11 @@ const kamus = [
   },
   {
     "kata": "terdorong",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "terduga",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "terduga-duga",
@@ -79685,7 +79705,7 @@ const kamus = [
   },
   {
     "kata": "terendah",
-    "count": 91
+    "count": 114
   },
   {
     "kata": "terestrial",
@@ -79761,7 +79781,7 @@ const kamus = [
   },
   {
     "kata": "tergantung",
-    "count": 89
+    "count": 107
   },
   {
     "kata": "tergapai",
@@ -79877,7 +79897,7 @@ const kamus = [
   },
   {
     "kata": "terhadap",
-    "count": 152
+    "count": 227
   },
   {
     "kata": "terhalangi",
@@ -79905,7 +79925,7 @@ const kamus = [
   },
   {
     "kata": "terhapus",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "terhapuskan",
@@ -79957,7 +79977,7 @@ const kamus = [
   },
   {
     "kata": "terhindarkan",
-    "count": 56
+    "count": 113
   },
   {
     "kata": "terhingga",
@@ -80005,7 +80025,7 @@ const kamus = [
   },
   {
     "kata": "teridentifikasi",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "terigu",
@@ -80021,7 +80041,7 @@ const kamus = [
   },
   {
     "kata": "terima",
-    "count": 79
+    "count": 97
   },
   {
     "kata": "terimpikan",
@@ -80061,7 +80081,7 @@ const kamus = [
   },
   {
     "kata": "terinformasi",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "terinformasikan",
@@ -80121,7 +80141,7 @@ const kamus = [
   },
   {
     "kata": "terisolasi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "teristimewa",
@@ -80153,7 +80173,7 @@ const kamus = [
   },
   {
     "kata": "terjadi",
-    "count": 140
+    "count": 215
   },
   {
     "kata": "terjadwal",
@@ -80321,11 +80341,11 @@ const kamus = [
   },
   {
     "kata": "terkadang",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "terkait",
-    "count": 96
+    "count": 107
   },
   {
     "kata": "terkaji",
@@ -80341,7 +80361,7 @@ const kamus = [
   },
   {
     "kata": "terkandung",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terkatakan",
@@ -80353,7 +80373,7 @@ const kamus = [
   },
   {
     "kata": "terkecil",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terkecuali",
@@ -80421,11 +80441,11 @@ const kamus = [
   },
   {
     "kata": "terkena",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "terkenal",
-    "count": 4
+    "count": 9
   },
   {
     "kata": "terkenang",
@@ -80489,7 +80509,7 @@ const kamus = [
   },
   {
     "kata": "terkirim",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "terkisah",
@@ -80565,7 +80585,7 @@ const kamus = [
   },
   {
     "kata": "terkumpul",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "terkunci",
@@ -80593,7 +80613,7 @@ const kamus = [
   },
   {
     "kata": "terlalu",
-    "count": 59
+    "count": 111
   },
   {
     "kata": "terlama",
@@ -80661,7 +80681,7 @@ const kamus = [
   },
   {
     "kata": "terlebih",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "terleluasa",
@@ -80689,7 +80709,7 @@ const kamus = [
   },
   {
     "kata": "terletak",
-    "count": 19
+    "count": 24
   },
   {
     "kata": "terlewat",
@@ -80701,7 +80721,7 @@ const kamus = [
   },
   {
     "kata": "terlewatnya",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terlibat",
@@ -80713,7 +80733,7 @@ const kamus = [
   },
   {
     "kata": "terlihat",
-    "count": 16
+    "count": 21
   },
   {
     "kata": "terlindas",
@@ -80845,7 +80865,7 @@ const kamus = [
   },
   {
     "kata": "termasuk",
-    "count": 36
+    "count": 41
   },
   {
     "kata": "termasyhur",
@@ -80865,7 +80885,7 @@ const kamus = [
   },
   {
     "kata": "terminal",
-    "count": 55
+    "count": 112
   },
   {
     "kata": "terminasi",
@@ -80881,7 +80901,7 @@ const kamus = [
   },
   {
     "kata": "terminologi",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "termionika",
@@ -80889,7 +80909,7 @@ const kamus = [
   },
   {
     "kata": "termistor",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "termodern",
@@ -80957,7 +80977,7 @@ const kamus = [
   },
   {
     "kata": "termometer",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "termometri",
@@ -81009,7 +81029,7 @@ const kamus = [
   },
   {
     "kata": "ternak",
-    "count": 145
+    "count": 181
   },
   {
     "kata": "ternama",
@@ -81077,7 +81097,7 @@ const kamus = [
   },
   {
     "kata": "terorganisir",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terorisme",
@@ -81153,7 +81173,7 @@ const kamus = [
   },
   {
     "kata": "terpanjang",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terpanjati",
@@ -81333,7 +81353,7 @@ const kamus = [
   },
   {
     "kata": "terperinci",
-    "count": 73
+    "count": 79
   },
   {
     "kata": "terperintah",
@@ -81381,7 +81401,7 @@ const kamus = [
   },
   {
     "kata": "terpisah",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "terpisah-pisah",
@@ -81505,7 +81525,7 @@ const kamus = [
   },
   {
     "kata": "tersambung",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "tersampaikan",
@@ -81565,7 +81585,7 @@ const kamus = [
   },
   {
     "kata": "tersebut",
-    "count": 217
+    "count": 298
   },
   {
     "kata": "tersedak",
@@ -81573,7 +81593,7 @@ const kamus = [
   },
   {
     "kata": "tersedia",
-    "count": 84
+    "count": 107
   },
   {
     "kata": "tersedikit",
@@ -81709,7 +81729,7 @@ const kamus = [
   },
   {
     "kata": "tersimpan",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "tersinergi",
@@ -81757,7 +81777,7 @@ const kamus = [
   },
   {
     "kata": "terstruktur",
-    "count": 25
+    "count": 30
   },
   {
     "kata": "tersuarakan",
@@ -81833,7 +81853,7 @@ const kamus = [
   },
   {
     "kata": "tertanam",
-    "count": 49
+    "count": 106
   },
   {
     "kata": "tertancap",
@@ -81901,7 +81921,7 @@ const kamus = [
   },
   {
     "kata": "tertekan",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "tertelan",
@@ -81929,7 +81949,7 @@ const kamus = [
   },
   {
     "kata": "tertentu",
-    "count": 145
+    "count": 220
   },
   {
     "kata": "tertera",
@@ -81957,7 +81977,7 @@ const kamus = [
   },
   {
     "kata": "tertinggi",
-    "count": 84
+    "count": 102
   },
   {
     "kata": "tertipu",
@@ -81989,7 +82009,7 @@ const kamus = [
   },
   {
     "kata": "tertukarnya",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "tertular",
@@ -82077,7 +82097,7 @@ const kamus = [
   },
   {
     "kata": "terunduh",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "terunggah",
@@ -82109,7 +82129,7 @@ const kamus = [
   },
   {
     "kata": "terus",
-    "count": 132
+    "count": 195
   },
   {
     "kata": "terus-menerus",
@@ -82121,7 +82141,7 @@ const kamus = [
   },
   {
     "kata": "terutama",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "terutang",
@@ -82137,7 +82157,7 @@ const kamus = [
   },
   {
     "kata": "tervalidasi",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "terverifikasi",
@@ -82169,7 +82189,7 @@ const kamus = [
   },
   {
     "kata": "test",
-    "count": 76
+    "count": 128
   },
   {
     "kata": "tester",
@@ -82181,7 +82201,7 @@ const kamus = [
   },
   {
     "kata": "testing",
-    "count": 94
+    "count": 110
   },
   {
     "kata": "testofobia",
@@ -82201,7 +82221,7 @@ const kamus = [
   },
   {
     "kata": "tetap",
-    "count": 144
+    "count": 207
   },
   {
     "kata": "tetapan",
@@ -82209,7 +82229,7 @@ const kamus = [
   },
   {
     "kata": "tetapi",
-    "count": 27
+    "count": 32
   },
   {
     "kata": "tetas",
@@ -82261,7 +82281,7 @@ const kamus = [
   },
   {
     "kata": "text",
-    "count": 17
+    "count": 27
   },
   {
     "kata": "TF-IDF",
@@ -82277,7 +82297,7 @@ const kamus = [
   },
   {
     "kata": "things",
-    "count": 66
+    "count": 123
   },
   {
     "kata": "thread",
@@ -82301,7 +82321,7 @@ const kamus = [
   },
   {
     "kata": "tiap",
-    "count": 72
+    "count": 129
   },
   {
     "kata": "tiba",
@@ -82309,7 +82329,7 @@ const kamus = [
   },
   {
     "kata": "tidak",
-    "count": 374
+    "count": 479
   },
   {
     "kata": "Tidore",
@@ -82333,7 +82353,7 @@ const kamus = [
   },
   {
     "kata": "tiga",
-    "count": 212
+    "count": 293
   },
   {
     "kata": "tigmotropisme",
@@ -82381,7 +82401,7 @@ const kamus = [
   },
   {
     "kata": "tim",
-    "count": 147
+    "count": 176
   },
   {
     "kata": "timah",
@@ -82409,7 +82429,7 @@ const kamus = [
   },
   {
     "kata": "timbul",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "timbulnya",
@@ -82421,7 +82441,7 @@ const kamus = [
   },
   {
     "kata": "time",
-    "count": 99
+    "count": 208
   },
   {
     "kata": "time-out",
@@ -82469,7 +82489,7 @@ const kamus = [
   },
   {
     "kata": "tindakan",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "tindasan",
@@ -82493,7 +82513,7 @@ const kamus = [
   },
   {
     "kata": "tinggi",
-    "count": 152
+    "count": 227
   },
   {
     "kata": "tinggimini",
@@ -82513,7 +82533,7 @@ const kamus = [
   },
   {
     "kata": "tingkat",
-    "count": 190
+    "count": 236
   },
   {
     "kata": "tingkatan",
@@ -82529,7 +82549,7 @@ const kamus = [
   },
   {
     "kata": "tinjauan",
-    "count": 43
+    "count": 53
   },
   {
     "kata": "tinju",
@@ -82553,7 +82573,7 @@ const kamus = [
   },
   {
     "kata": "tipe",
-    "count": 11
+    "count": 16
   },
   {
     "kata": "tipifikasi",
@@ -82645,7 +82665,7 @@ const kamus = [
   },
   {
     "kata": "titik",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "titimangsa",
@@ -82725,7 +82745,7 @@ const kamus = [
   },
   {
     "kata": "token",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "tokenisasi",
@@ -82733,7 +82753,7 @@ const kamus = [
   },
   {
     "kata": "tokenizing",
-    "count": 14
+    "count": 24
   },
   {
     "kata": "toko",
@@ -82821,7 +82841,7 @@ const kamus = [
   },
   {
     "kata": "tombol",
-    "count": 131
+    "count": 194
   },
   {
     "kata": "tomografik",
@@ -82869,7 +82889,7 @@ const kamus = [
   },
   {
     "kata": "tool",
-    "count": 89
+    "count": 105
   },
   {
     "kata": "top",
@@ -82897,7 +82917,7 @@ const kamus = [
   },
   {
     "kata": "topik",
-    "count": 21
+    "count": 26
   },
   {
     "kata": "topografi",
@@ -82933,7 +82953,7 @@ const kamus = [
   },
   {
     "kata": "total",
-    "count": 175
+    "count": 204
   },
   {
     "kata": "totalitas",
@@ -82969,7 +82989,7 @@ const kamus = [
   },
   {
     "kata": "tradisional",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "tradisionalis",
@@ -82993,7 +83013,7 @@ const kamus = [
   },
   {
     "kata": "training",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "trakeobronkial",
@@ -83041,7 +83061,7 @@ const kamus = [
   },
   {
     "kata": "transfer",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "transferan",
@@ -83081,7 +83101,7 @@ const kamus = [
   },
   {
     "kata": "transisi",
-    "count": 39
+    "count": 49
   },
   {
     "kata": "transistor",
@@ -83093,7 +83113,7 @@ const kamus = [
   },
   {
     "kata": "transition",
-    "count": 32
+    "count": 37
   },
   {
     "kata": "translasi",
@@ -83153,11 +83173,11 @@ const kamus = [
   },
   {
     "kata": "transposisi",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "transposition",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "transpria",
@@ -83333,7 +83353,7 @@ const kamus = [
   },
   {
     "kata": "true",
-    "count": 12
+    "count": 17
   },
   {
     "kata": "truf",
@@ -83353,7 +83373,7 @@ const kamus = [
   },
   {
     "kata": "tua",
-    "count": 68
+    "count": 86
   },
   {
     "kata": "tuak",
@@ -83385,7 +83405,7 @@ const kamus = [
   },
   {
     "kata": "tuas",
-    "count": 48
+    "count": 100
   },
   {
     "kata": "tuba",
@@ -83397,7 +83417,7 @@ const kamus = [
   },
   {
     "kata": "tubuh",
-    "count": 112
+    "count": 216
   },
   {
     "kata": "tubus",
@@ -83421,7 +83441,7 @@ const kamus = [
   },
   {
     "kata": "tugas",
-    "count": 85
+    "count": 142
   },
   {
     "kata": "tugu",
@@ -83433,7 +83453,7 @@ const kamus = [
   },
   {
     "kata": "tujuan",
-    "count": 166
+    "count": 234
   },
   {
     "kata": "tujuh",
@@ -83493,7 +83513,7 @@ const kamus = [
   },
   {
     "kata": "tulis",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "tulis-menulis",
@@ -83501,7 +83521,7 @@ const kamus = [
   },
   {
     "kata": "tulisan",
-    "count": 8
+    "count": 18
   },
   {
     "kata": "tulus",
@@ -83665,7 +83685,7 @@ const kamus = [
   },
   {
     "kata": "tunggal",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "tunggang",
@@ -83765,7 +83785,7 @@ const kamus = [
   },
   {
     "kata": "turun",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "turun-temurun",
@@ -83773,7 +83793,7 @@ const kamus = [
   },
   {
     "kata": "turunan",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "turut",
@@ -83837,7 +83857,7 @@ const kamus = [
   },
   {
     "kata": "typo",
-    "count": 14
+    "count": 19
   },
   {
     "kata": "u",
@@ -83921,7 +83941,7 @@ const kamus = [
   },
   {
     "kata": "uji",
-    "count": 160
+    "count": 228
   },
   {
     "kata": "ujian",
@@ -83929,7 +83949,7 @@ const kamus = [
   },
   {
     "kata": "ujung",
-    "count": 0
+    "count": 5
   },
   {
     "kata": "ukhrawi",
@@ -83961,7 +83981,7 @@ const kamus = [
   },
   {
     "kata": "ukuran",
-    "count": 172
+    "count": 206
   },
   {
     "kata": "ula",
@@ -84029,7 +84049,7 @@ const kamus = [
   },
   {
     "kata": "ultrasonik",
-    "count": 108
+    "count": 212
   },
   {
     "kata": "ultrasonikasi",
@@ -84109,7 +84129,7 @@ const kamus = [
   },
   {
     "kata": "umpan",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "umpatan",
@@ -84117,11 +84137,11 @@ const kamus = [
   },
   {
     "kata": "umum",
-    "count": 159
+    "count": 239
   },
   {
     "kata": "umumnya",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "umur",
@@ -84157,7 +84177,7 @@ const kamus = [
   },
   {
     "kata": "unduh",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "unduhan",
@@ -84173,7 +84193,7 @@ const kamus = [
   },
   {
     "kata": "unggah",
-    "count": 71
+    "count": 77
   },
   {
     "kata": "unggah-ungguh",
@@ -84205,7 +84225,7 @@ const kamus = [
   },
   {
     "kata": "ungkapan",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "ungkit",
@@ -84221,7 +84241,7 @@ const kamus = [
   },
   {
     "kata": "unified",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "uniform",
@@ -84265,11 +84285,11 @@ const kamus = [
   },
   {
     "kata": "universitas",
-    "count": 165
+    "count": 228
   },
   {
     "kata": "UNIX",
-    "count": 18
+    "count": 23
   },
   {
     "kata": "unjuk",
@@ -84277,7 +84297,7 @@ const kamus = [
   },
   {
     "kata": "Uno",
-    "count": 44
+    "count": 96
   },
   {
     "kata": "unsinus",
@@ -84305,7 +84325,7 @@ const kamus = [
   },
   {
     "kata": "untuk",
-    "count": 481
+    "count": 643
   },
   {
     "kata": "untung",
@@ -84345,7 +84365,7 @@ const kamus = [
   },
   {
     "kata": "upload",
-    "count": 80
+    "count": 96
   },
   {
     "kata": "urai",
@@ -84353,7 +84373,7 @@ const kamus = [
   },
   {
     "kata": "uraian",
-    "count": 12
+    "count": 22
   },
   {
     "kata": "urang",
@@ -84449,7 +84469,7 @@ const kamus = [
   },
   {
     "kata": "urutan",
-    "count": 162
+    "count": 203
   },
   {
     "kata": "usah",
@@ -84477,11 +84497,11 @@ const kamus = [
   },
   {
     "kata": "use",
-    "count": 188
+    "count": 210
   },
   {
     "kata": "user",
-    "count": 395
+    "count": 505
   },
   {
     "kata": "usia",
@@ -84537,11 +84557,11 @@ const kamus = [
   },
   {
     "kata": "utama",
-    "count": 180
+    "count": 209
   },
   {
     "kata": "utamanya",
-    "count": 122
+    "count": 185
   },
   {
     "kata": "utan",
@@ -84569,7 +84589,7 @@ const kamus = [
   },
   {
     "kata": "utuh",
-    "count": 57
+    "count": 109
   },
   {
     "kata": "utusan",
@@ -84617,11 +84637,11 @@ const kamus = [
   },
   {
     "kata": "valid",
-    "count": 169
+    "count": 191
   },
   {
     "kata": "validasi",
-    "count": 80
+    "count": 86
   },
   {
     "kata": "validator",
@@ -84629,7 +84649,7 @@ const kamus = [
   },
   {
     "kata": "validitas",
-    "count": 9
+    "count": 14
   },
   {
     "kata": "valorisasi",
@@ -84637,7 +84657,7 @@ const kamus = [
   },
   {
     "kata": "value",
-    "count": 90
+    "count": 113
   },
   {
     "kata": "vampirisme",
@@ -84657,7 +84677,7 @@ const kamus = [
   },
   {
     "kata": "variabel",
-    "count": 162
+    "count": 203
   },
   {
     "kata": "variabilitas",
@@ -84665,7 +84685,7 @@ const kamus = [
   },
   {
     "kata": "variable",
-    "count": 124
+    "count": 160
   },
   {
     "kata": "varian",
@@ -84817,7 +84837,7 @@ const kamus = [
   },
   {
     "kata": "versi",
-    "count": 13
+    "count": 23
   },
   {
     "kata": "version",
@@ -84833,7 +84853,7 @@ const kamus = [
   },
   {
     "kata": "vertikal",
-    "count": 20
+    "count": 25
   },
   {
     "kata": "verval",
@@ -84869,7 +84889,7 @@ const kamus = [
   },
   {
     "kata": "video",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "videografi",
@@ -84905,7 +84925,7 @@ const kamus = [
   },
   {
     "kata": "virtual",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "virtualisasi",
@@ -84913,7 +84933,7 @@ const kamus = [
   },
   {
     "kata": "virus",
-    "count": 72
+    "count": 90
   },
   {
     "kata": "visa",
@@ -84953,11 +84973,11 @@ const kamus = [
   },
   {
     "kata": "visual",
-    "count": 251
+    "count": 303
   },
   {
     "kata": "visualisasi",
-    "count": 22
+    "count": 27
   },
   {
     "kata": "visuometer",
@@ -85177,7 +85197,7 @@ const kamus = [
   },
   {
     "kata": "waktu",
-    "count": 180
+    "count": 248
   },
   {
     "kata": "waktunya",
@@ -85265,7 +85285,7 @@ const kamus = [
   },
   {
     "kata": "warna",
-    "count": 3
+    "count": 4
   },
   {
     "kata": "warta",
@@ -85301,7 +85321,7 @@ const kamus = [
   },
   {
     "kata": "waspada",
-    "count": 50
+    "count": 102
   },
   {
     "kata": "watak",
@@ -85309,11 +85329,11 @@ const kamus = [
   },
   {
     "kata": "wawancara",
-    "count": 230
+    "count": 260
   },
   {
     "kata": "wawasan",
-    "count": 1
+    "count": 6
   },
   {
     "kata": "wayang",
@@ -85325,7 +85345,7 @@ const kamus = [
   },
   {
     "kata": "web",
-    "count": 352
+    "count": 410
   },
   {
     "kata": "webcam",
@@ -85333,7 +85353,7 @@ const kamus = [
   },
   {
     "kata": "website",
-    "count": 173
+    "count": 207
   },
   {
     "kata": "wejangan",
@@ -85357,7 +85377,7 @@ const kamus = [
   },
   {
     "kata": "wibawa",
-    "count": 7
+    "count": 12
   },
   {
     "kata": "wicara",
@@ -85365,7 +85385,7 @@ const kamus = [
   },
   {
     "kata": "wide",
-    "count": 8
+    "count": 13
   },
   {
     "kata": "width",
@@ -85401,7 +85421,7 @@ const kamus = [
   },
   {
     "kata": "windows",
-    "count": 23
+    "count": 28
   },
   {
     "kata": "winkler",
@@ -85477,7 +85497,7 @@ const kamus = [
   },
   {
     "kata": "word",
-    "count": 87
+    "count": 103
   },
   {
     "kata": "WordPress",
@@ -85489,7 +85509,7 @@ const kamus = [
   },
   {
     "kata": "world",
-    "count": 10
+    "count": 15
   },
   {
     "kata": "wortel",
@@ -85545,15 +85565,15 @@ const kamus = [
   },
   {
     "kata": "yaitu",
-    "count": 219
+    "count": 300
   },
   {
     "kata": "yakin",
-    "count": 66
+    "count": 84
   },
   {
     "kata": "yakni",
-    "count": 160
+    "count": 189
   },
   {
     "kata": "Yaman",
@@ -85561,7 +85581,7 @@ const kamus = [
   },
   {
     "kata": "yang",
-    "count": 330
+    "count": 429
   },
   {
     "kata": "yarovisasi",
