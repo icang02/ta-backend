@@ -116,134 +116,111 @@ const uploadFile = async (req, res) => {
     fs.mkdirSync("./uploads");
   }
 
-  // validasi file
-
   upload(req, res, (err) => {
-    if (err) {
-      if (err.code === "LIMIT_FILE_SIZE") {
-        return res.status(400).send({
-          message: "Ukuran file maksimal 15MB.",
-        });
-      } else {
-        return res.status(400).json({ message: err });
-      }
-    } else {
-      if (!req.file) {
-        return res.status(400).json({ message: "No file uploaded." });
-      }
+    const timeDeleteFile = 60 * 60 * 1000;
+    // Hapus file setelah diupload
+    setTimeout(() => {
+      const outputPath = "./outputs/" + fileName;
+      // Cek lokasi path file
+      const pathFileUpload = fs.existsSync(filePath);
+      const pathFileOutput = fs.existsSync(outputPath);
 
-      const timeDeleteFile = 60 * 60 * 1000; // 1 jam
-      // Hapus file setelah diupload
-      setTimeout(() => {
-        const outputPath = "./outputs/" + fileName;
-        // Cek apakah file ada sebelum menghapusnya
-        const pathFileUpload = fs.existsSync(filePath);
-        const pathFileOutput = fs.existsSync(outputPath);
-
-        if (pathFileUpload) {
-          fs.unlink(filePath, (err) => {
-            if (err) {
-              console.error("Error deleting file:", err);
-            } else {
-              // console.log("File deleted:", filePath);
-            }
-          });
-        }
-
-        if (pathFileOutput) {
-          fs.unlink(outputPath, (err) => {
-            if (err) {
-              console.error("Error deleting file:", err);
-            } else {
-              // console.log("File deleted:", filePath);
-            }
-          });
-        }
-      }, timeDeleteFile);
-
-      const fileName = req.file.originalname;
-      const filePath = "./uploads/" + fileName;
-
-      const fileType = path.extname(req.file.originalname).toLowerCase();
-
-      if (fileType === ".docx") {
-        // ================================================================
-        const content = fs.readFileSync(filePath, "binary");
-        // Buat instance Docxtemplater
-        const doc = new Docxtemplater(new PizZip(content), {
-          paragraphLoop: true,
-          linebreaks: true,
-        });
-
-        const contentXml = doc.getZip().file("word/document.xml").asText();
-        const $ = cheerio.load(contentXml, { xmlMode: true });
-
-        // Temukan dan hapus kata yang mengandung subscript
-        $("w\\:r").each(function () {
-          let $run = $(this);
-          let hasSubscript =
-            $run.find("w\\:vertAlign[w\\:val='subscript']").length > 0;
-          let hasSuperscript =
-            $run.find("w\\:vertAlign[w\\:val='superscript']").length > 0;
-
-          // Jika ditemukan subscript atau superscript, hapus seluruh teks di dalam elemen <w:r>
-          if (hasSubscript || hasSuperscript) {
-            $run.find("w\\:t").text("");
-          }
-        });
-
-        // generate file word
-        doc.getZip().file("word/document.xml", $.xml());
-
-        // Simpan dokumen yang sudah dimodifikasi
-        const outputBuf = doc.getZip().generate({ type: "nodebuffer" });
-        // ================================================================
-
-        mammoth
-          .extractRawText({ path: filePath })
-          .then(function (result1) {
-            var text = result1.value;
-
-            // Gunakan hasil text dari mammoth pertama di sini
-            mammoth
-              .extractRawText({ buffer: outputBuf })
-              .then(async (result2) => {
-                const preProInput = preprocessing3(result2.value, 1, text); // Gunakan text dari mammoth pertama
-                const { suggestWord, dictionaryLookup, jumlahKataValid } =
-                  await prosesDeteksi(preProInput, 1);
-
-                return res.json({
-                  suggestWord,
-                  dictionaryLookup,
-                  jumlahKataValid,
-                  fileName,
-                });
-              })
-              .catch((err) => {
-                console.error(err);
-              });
-          })
-          .catch(function (error) {
-            console.error(error);
-          });
-      } else {
-        fs.readFile(filePath, "utf8", async (err, data) => {
+      if (pathFileUpload) {
+        fs.unlink(filePath, (err) => {
           if (err) {
-            return res.status(500).json({ message: "Error reading file." });
+            console.error("Error deleting file:", err);
           }
-
-          const preProInput = preprocessing3(data);
-          const { suggestWord, dictionaryLookup } = await prosesDeteksi(
-            preProInput
-          );
-
-          return res.json({
-            suggestWord,
-            dictionaryLookup,
-            fileName,
-          });
         });
       }
+
+      if (pathFileOutput) {
+        fs.unlink(outputPath, (err) => {
+          if (err) {
+            console.error("Error deleting file:", err);
+          }
+        });
+      }
+    }, timeDeleteFile);
+
+    const fileName = req.file.originalname;
+    const filePath = "./uploads/" + fileName;
+    const fileType = path.extname(req.file.originalname).toLowerCase();
+
+    if (fileType === ".docx") {
+      const content = fs.readFileSync(filePath, "binary");
+      // Buat instance Docxtemplater
+      const doc = new Docxtemplater(new PizZip(content), {
+        paragraphLoop: true,
+        linebreaks: true,
+      });
+
+      const contentXml = doc.getZip().file("word/document.xml").asText();
+      const $ = cheerio.load(contentXml, { xmlMode: true });
+
+      // Temukan dan hapus kata yang mengandung subscript
+      $("w\\:r").each(function () {
+        let $run = $(this);
+        let hasSubscript =
+          $run.find("w\\:vertAlign[w\\:val='subscript']").length > 0;
+        let hasSuperscript =
+          $run.find("w\\:vertAlign[w\\:val='superscript']").length > 0;
+
+        // Jika ditemukan subscript atau superscript, hapus seluruh teks di dalam elemen <w:r>
+        if (hasSubscript || hasSuperscript) {
+          $run.find("w\\:t").text("");
+        }
+      });
+
+      // generate file word
+      doc.getZip().file("word/document.xml", $.xml());
+
+      // Simpan dokumen yang sudah dimodifikasi
+      const outputBuf = doc.getZip().generate({ type: "nodebuffer" });
+
+      mammoth
+        .extractRawText({ path: filePath })
+        .then(function (result1) {
+          var text = result1.value;
+
+          // Gunakan hasil text dari mammoth pertama di sini
+          mammoth
+            .extractRawText({ buffer: outputBuf })
+            .then(async (result2) => {
+              const preProInput = preprocessing3(result2.value, 1, text); // Gunakan text dari mammoth pertama
+              const { suggestWord, dictionaryLookup, jumlahKataValid } =
+                await prosesDeteksi(preProInput, 1);
+
+              return res.json({
+                suggestWord,
+                dictionaryLookup,
+                jumlahKataValid,
+                fileName,
+              });
+            })
+            .catch((err) => {
+              console.error(err);
+            });
+        })
+        .catch(function (error) {
+          console.error(error);
+        });
+    } else {
+      fs.readFile(filePath, "utf8", async (err, data) => {
+        if (err) {
+          return res.status(500).json({ message: "Error reading file." });
+        }
+
+        const preProInput = preprocessing3(data);
+        const { suggestWord, dictionaryLookup } = await prosesDeteksi(
+          preProInput
+        );
+
+        return res.json({
+          suggestWord,
+          dictionaryLookup,
+          fileName,
+        });
+      });
     }
   });
 };
