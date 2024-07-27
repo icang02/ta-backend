@@ -24,4 +24,6 @@ router.post("/tambah-kata", EjaanController.TambahKata);
 router.post("/hapus-kata/:id", EjaanController.HapusKata);
 router.post("/update-kata/:id", EjaanController.UpdateKata);
 
+router.post('/add', EjaanController.add);
+
 module.exports = router;

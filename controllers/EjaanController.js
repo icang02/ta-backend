@@ -96,12 +96,12 @@ const deteksiEjaan = async (req, res) => {
 
   let preProInput = preprocessing3(reqInput);
 
-  if (kamusDetect.length != 0) {
-    const kamusDetectLower = kamusDetect.map((item) => item.toLowerCase());
-    preProInput = preProInput.filter(
-      (item) => !kamusDetectLower.includes(item.toLowerCase())
-    );
-  }
+  // if (kamusDetect.length != 0) {
+  //   const kamusDetectLower = kamusDetect.map((item) => item.toLowerCase());
+  //   preProInput = preProInput.filter(
+  //     (item) => !kamusDetectLower.includes(item.toLowerCase())
+  //   );
+  // }
 
   const { suggestWord, dictionaryLookup } = await prosesDeteksi(preProInput);
 
@@ -234,15 +234,16 @@ function cariDanGanti($, data) {
   $("w\\:r").each(function () {
     const textContent = $(this).text();
     // const textXML = $.xml($(this));
-
+    
     if (textContent.includes(data.str)) {
       // console.log(textContent + '\n');
       const words = textContent.split(/(\s+)/); // Memecah teks berdasarkan spasi, tetap mempertahankan spasi sebagai elemen array
       const newElements = [];
 
+      console.log(data.str)
+
       words.forEach((word) => {
         const runProperties = $(this).closest("w\\:r").find("w\\:rPr").clone(); // Clone the original run properties
-
         if (new RegExp(`\\b${data.str}\\b`).test(word)) {
           const highlightedElement = $("<w:r></w:r>")
             .append(runProperties) // Append the cloned run properties
@@ -475,6 +476,50 @@ const UpdateKata = async (req, res) => {
   }
 };
 
+const add = async (req, res) => {
+  const { text, di, textInput } = req.body;
+  const kamus = require("../data/kamus").map((item) => item.kata);
+  const kbbi = require("../data/list_1.0.0");
+  let textSplit;
+  let filteredWords;
+
+  textSplit = textInput != "" ? textInput.split(/\s+/) : text.split(/\s+/);
+
+  if (di) {
+    textSplit = textSplit.filter((item) => item.startsWith("di"));
+    filteredWords = [
+      ...new Set(textSplit.filter((item) => !kamus.includes(item))),
+    ];
+  } else {
+    filteredWords = [
+      ...new Set(
+        textSplit.filter((item) => kbbi.includes(item) && !kamus.includes(item))
+      ),
+    ];
+  }
+
+  filteredWords = [
+    ...new Set(filteredWords.map((word) => word.replace(/[^a-zA-Z]/g, ""))),
+  ];
+
+  fs.writeFile(
+    "data/addResult.js",
+    `const addResult = ${JSON.stringify(
+      filteredWords,
+      null,
+      2
+    )};\nmodule.exports = addResult;`,
+    (err) => {
+      if (err) {
+        console.error("Terjadi kesalahan saat menulis ke file:", err);
+        return res.status(500).json({ message: "Internal Server Error" });
+      } else {
+        return res.json({ message: "oke" });
+      }
+    }
+  );
+};
+
 module.exports = {
   getKamus,
   deteksiEjaan,
@@ -486,4 +531,5 @@ module.exports = {
   totalKamus,
   downloadFile,
   checkWord,
+  add,
 };

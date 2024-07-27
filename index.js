@@ -25,6 +25,9 @@ const corsOptions = {
   },
 };
 
+// set limit JSON body parsing
+app.use(express.json({ limit: '50mb' }));
+
 // Menggunakan middleware cors dengan opsi yang ditentukan
 app.use(cors(corsOptions));
 

@@ -13,7 +13,9 @@ async function main() {
   }));
 
   let kamus = kamusNotId;
-  const input = [];
+  const input = [
+    'ATMega328','ESP8266','ESP32', 'adaptor-DC',
+  ];
 
   input.forEach((item) => {
     kamus.push({ kata: item, count: 0 });
