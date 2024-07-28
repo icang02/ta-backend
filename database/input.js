@@ -14,7 +14,7 @@ async function main() {
 
   let kamus = kamusNotId;
   const input = [
-    'ATMega328','ESP8266','ESP32', 'adaptor-DC',
+    'InnoDB','peroleh',
   ];
 
   input.forEach((item) => {
